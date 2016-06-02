@@ -1,3 +1,2 @@
-## Relation map view
-
-Have a graph view displaying relations between documents and other spatially relevant parameters (date, judge, etc).
+* **Relation map view**: Have a graph view displaying relations between documents and other spatially relevant parameters (date, judge, etc).
+* **Snippet search results**: list of referenced/annotated/bookmarked text snippets instead of documents as search results.
