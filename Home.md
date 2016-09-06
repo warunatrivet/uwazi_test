@@ -6,13 +6,13 @@ A collection of good ideas people mention in no particular order:
 * **Detect duplicated uploads**: when uploading a document that already exists in the system, the user should be notified.
 * **Office documents conversion**
 * **Contact form**
-* (in progress)**WYSIWYG pages**: have WYSIWYG pages. User should be able to create a whole page tree adding all the information related to the organization profile, the collection contents, legal disclaimers etc.
-* **Table of contents assistant**
+* (in progress) **WYSIWYG pages**: have WYSIWYG pages. User should be able to create a whole page tree adding all the information related to the organization profile, the collection contents, legal disclaimers etc.
+* (completed) **Table of contents assistant**
 * **Upload multiple documents**
 * **Display highlight snippets in full text search results**
-* **Improved filtering (faceted browsing style)**:
+* (completed) **Improved filtering (faceted browsing style)**.
 * **Advanced search**: take search to the next level where users can even choose how they want filters to stack (AND/OR) and other options TBD.
-* **Display document properties in cards in search results**
+* (in progress) **Display document properties in cards in search results**
 * **Relation map view**: Have a graph view displaying relations between documents and other spatially relevant parameters (date, judge, etc).
 * **Support OCR**: add OCR capabilities to uploads section.
 * **Automatically extract table of contents**
