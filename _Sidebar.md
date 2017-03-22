@@ -1,4 +1,7 @@
-Uwazi User Guide
-* Installation
+* [Installation](https://github.com/huridocs/uwazi/wiki/Installation)
 * [Configuring the user interface](https://github.com/huridocs/uwazi/wiki/Configuring-the-user-interface)
-* [Structuring your collection](/structuring-your-collection)
+* [Structuring your collection](https://github.com/huridocs/uwazi/wiki/Structuring-your-collection)
+* [Uploading and publishing documents](https://github.com/huridocs/uwazi/wiki/Uploading-and-publishing-documents)
+* [Applying metadata](https://github.com/huridocs/uwazi/wiki/Applying-metadata)
+* [Creating relationships](https://github.com/huridocs/uwazi/wiki/Creating-relationships)
+* [Search and filter](https://github.com/huridocs/uwazi/wiki/Search-and-filter)
