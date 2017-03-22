@@ -1,0 +1,1 @@
+Dependencies: https://github.com/huridocs/uwazi/blob/development/README.md
