@@ -1,0 +1,3 @@
+Documents and Entity Templates
+Connections
+Dictionaries
