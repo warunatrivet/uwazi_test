@@ -1,1 +1,4 @@
-Welcome to the uwazi wiki!
+* What is Uwazi?
+* Who is it for?
+* What problem does Uwazi solve?
+
