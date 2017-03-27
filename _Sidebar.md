@@ -2,6 +2,6 @@
 * [Configuring the user interface](https://github.com/huridocs/uwazi/wiki/Configuring-the-user-interface)
 * [Structuring your collection](https://github.com/huridocs/uwazi/wiki/Structuring-your-collection)
 * [Uploading and publishing documents](https://github.com/huridocs/uwazi/wiki/Uploading-and-publishing-documents)
-* [Applying metadata](https://github.com/huridocs/uwazi/wiki/Applying-metadata)
+* [Applying metadata and properties to your documents](https://github.com/huridocs/uwazi/wiki/Applying-metadata-and-properties-to-your-documents)
 * [Creating relationships](https://github.com/huridocs/uwazi/wiki/Creating-relationships)
 * [Search and filter](https://github.com/huridocs/uwazi/wiki/Search-and-filter)
