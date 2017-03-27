@@ -10,3 +10,11 @@
 2. On a document of the template that includes this new video rich text property, click on _Edit_. 
 3. On YouTube, click on _Share_ and copy the URL.
 4. In the _Video_ property, paste the URL of the video using this format: `(youtube)(https://youtu.be/t9c9AWIo1lA)`
+
+### How to add/edit properties on multiple documents at once
+1. In the library, select the documents you want to edit by using your operating system's multi-select commands (on Windows or Linux, hold the CTRL key then click the items; on a Mac, hold the Command key then click the items)
+![](http://www.uwazi.io/wp-content/uploads/2017/03/Screen-Shot-2017-03-27-at-2.20.00-PM.png)
+2. Click 'Edit'
+![](http://www.uwazi.io/wp-content/uploads/2017/03/multi-edit-2.png)
+3. Select the property values that you want to assign to these documents, and click _Save_
+![](http://www.uwazi.io/wp-content/uploads/2017/03/multi-edit-3.png)
