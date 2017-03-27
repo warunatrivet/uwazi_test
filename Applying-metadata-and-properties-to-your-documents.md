@@ -9,4 +9,4 @@
 1. Add a _Rich text_ property to your document template. You can call it _Video_. Save this template.
 2. On a document of the template that includes this new video rich text property, click on _Edit_. 
 3. On YouTube, click on _Share_ and copy the URL.
-4. In the _Video_ property, paste the URL of the video using this format: (youtube)(https://youtu.be/t9c9AWIo1lA)
+4. In the _Video_ property, paste the URL of the video using this format: `(youtube)(https://youtu.be/t9c9AWIo1lA)`
