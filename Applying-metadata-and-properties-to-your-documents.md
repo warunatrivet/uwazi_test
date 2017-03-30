@@ -17,4 +17,5 @@
 1. In the library, select the documents you want to edit by using your operating system's multi-select commands (on Windows or Linux, hold the CTRL key then click the items; on a Mac, hold the Command key then click the items)
 2. Click 'Edit'
 3. Select the property values that you want to assign to these documents, and click _Save_
+
 ![](http://g.recordit.co/MTOmvXjhv9.gif)
