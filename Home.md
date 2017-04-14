@@ -1,6 +1,6 @@
 ![Uwazi logo](http://www.uwazi.io/wp-content/uploads/2017/03/uwazi-logo.png)
 
-## # What is Uwazi?
+## What is Uwazi?
 
 For most organisations, managing your documents means putting them into folders and/or categories so you can find them later. (Think: Dropbox, Google Drive, etc)
 
