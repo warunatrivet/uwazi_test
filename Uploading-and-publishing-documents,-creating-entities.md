@@ -8,6 +8,21 @@ Upload your PDFs by clicking on the upload icon in the top right corner of the s
 
 ![upload](http://www.uwazi.io/wp-content/uploads/2017/04/doc-upload.png)
 
+You can either drag and drop your PDF files into the designated box, or you can browse your local files and select which ones you want to upload. 
+
+![upload options](http://www.uwazi.io/wp-content/uploads/2017/04/upload2.png)
+
+Your files will be added to the upload section of Uwazi, but they will not be published until you assign a template and click "publish". 
+
+![Uploaded docs](http://www.uwazi.io/wp-content/uploads/2017/04/uploaded-docs.png)
+
 ## How to publish your documents
+
+Before you publish your documents, you need to assign a document template to them (and preferably some metadata as well). To do that you can either select one document and make your edits in the right sidebar:
+
+Or you can select multiple documents and make your edits to all of the selected documents in the right sidebar:
+
+When you are finished adding properties to your documents, you can publish them by clicking on the button with the paper airplane icon. 
+
 ## How to create entities (things that aren't documents)
 
