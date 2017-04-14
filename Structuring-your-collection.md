@@ -8,9 +8,9 @@ You have the following ways to structure your document collection:
 
 To access your settings, click on the gear icon in the top right corner of the site.
 
-http://www.uwazi.io/wp-content/uploads/2017/04/gear-icon.png
+![Gear icon](http://www.uwazi.io/wp-content/uploads/2017/04/gear-icon.png)
 
 You will see the following list of options on the left side, below your settings. 
 
-http://www.uwazi.io/wp-content/uploads/2017/04/structure-collections.png
+![Structure your content options](http://www.uwazi.io/wp-content/uploads/2017/04/structure-collections.png)
 
