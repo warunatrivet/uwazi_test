@@ -6,6 +6,8 @@ Under Settings, you can:
 * Translate the interface of your Uwazi site. 
 * Determine which document and entity types are filterable, and configure the look of these filters.
 
+## How to access your settings
+
 To access your settings, click on the gear icon in the top right corner of the site.
 
 ![Gear icon](http://www.uwazi.io/wp-content/uploads/2017/04/gear-icon.png)
