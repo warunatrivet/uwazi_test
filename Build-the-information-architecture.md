@@ -1,10 +1,9 @@
 You have the following ways to build the information architecture for your document collection:
-* **Create your document templates**
-* **Create your entity templates**
-* **Manage your dictionaries**
-* **Name your connections** 
+* Create and manage your document and entity templates
+* Create and manage your dictionaries
+* Name your connections 
 
-## How to access your options for structuring the collection
+## How to access your options for building the information architecture
 
 To access your settings, click on the gear icon in the top right corner of the site.
 
@@ -14,7 +13,7 @@ You will see the following list of options on the left side, below your settings
 
 ![Structure your content options](http://www.uwazi.io/wp-content/uploads/2017/04/structure-collections.png)
 
-## Create your document or entity templates
+## Create and manage your document or entity templates
 Templates allow you to collect structured, consistent metadata on your documents. Within each template, you can assign properties of the type:
 * text 
 * numeric
@@ -41,7 +40,7 @@ Create new entity templates by following the instructions for creating a new doc
 
 When you add a multi-select property to a template, you will see a field titled _Thesauri_ in which you can select a _Dictionary_ or an entity that you have already created. See the section on [managing your dictionaries](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#manage-your-dictionaries) for more information on how to create these dictionaries. 
 
-## Manage your dictionaries 
+## Create and manage your dictionaries 
 A dictionary in Uwazi is a list of terms that you will reference in the properties. For example, you may want to create a dictionary for countries so that you can refer to this list when you add the _country_ property to your document template.
 
 You can view, edit and delete your existing dictionaries by going to _Dictionaries_:
