@@ -1,7 +1,9 @@
 You have the following ways to build the information architecture for your document collection:
-* Create and manage your document and entity templates
-* Create and manage your dictionaries
-* Name your connections 
+* [Create and manage your document and entity templates](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#create-and-manage-your-document-or-entity-templates)
+* [Create and manage your dictionaries](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#create-and-manage-your-dictionaries)
+* [Name your connections](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#name-your-connections)
+
+***
 
 ## How to access your options for building the information architecture
 
