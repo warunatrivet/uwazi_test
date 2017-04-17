@@ -2,6 +2,8 @@ Properties provide an important way for users to:
 1. view highlighted attributes at a glance (in the right sidebar), and 
 2. filter the collection to better understand and analyse the collection.
 
+You can apply properties to documents or entities.
+
 ## How to add a date property
 1. Add a property of type _date_ to your template. 
 2. In your document or entity, click on _edit_.
