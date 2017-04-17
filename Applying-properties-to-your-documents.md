@@ -1,3 +1,5 @@
+[How to add/edit properties on multiple documents at once] (#edit-multiple-at-once)
+
 ## How to add a date property
 
 ## How to add a country property, or any other property that uses a predefined list
@@ -10,7 +12,7 @@
 
 ![](http://g.recordit.co/GO205KPeUE.gif)
 
-## How to add/edit properties on multiple documents at once
+## How to add/edit properties on multiple documents at once (#edit-multiple-at-once)
 1. In the library, select the documents you want to edit by using your operating system's multi-select commands (on Windows or Linux, hold the CTRL key then click the items; on a Mac, hold the Command key then click the items)
 2. Click 'Edit'
 3. Select the property values that you want to assign to these documents, and click _Save_
