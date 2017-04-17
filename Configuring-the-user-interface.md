@@ -1,4 +1,4 @@
-Under Settings, you can:
+You can configure the user interface under your **settings**, including:
 * Edit your account information: update your email address and password, log-out. 
 * Edit your collection information: create a name of your site and assign the home page. 
 * Create unique, static pages to display content. and add them to the navigation menu at the top.
