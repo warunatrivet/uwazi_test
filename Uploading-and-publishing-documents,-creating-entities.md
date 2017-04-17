@@ -1,7 +1,9 @@
 To add new content to your collection, you will:
-1. Upload your PDF documents, then
-2. Publish your documents, or
-3. Create entities for content that is not a PDF. 
+1. [Upload your PDF documents](https://github.com/huridocs/uwazi/wiki/Uploading-and-publishing-documents,-creating-entities#upload-your-documents), then
+2. [Publish your documents](https://github.com/huridocs/uwazi/wiki/Uploading-and-publishing-documents,-creating-entities#publish-your-documents), or
+3. [Create entities](https://github.com/huridocs/uwazi/wiki/Uploading-and-publishing-documents,-creating-entities#create-entities) for other kinds of information. 
+
+***
 
 ## Upload your documents
 
