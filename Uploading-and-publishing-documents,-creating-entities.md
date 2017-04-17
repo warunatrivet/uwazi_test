@@ -1,4 +1,9 @@
-## How to upload documents
+To add new content to your collection, you will:
+1. Upload your PDF documents, then
+2. Publish your documents, or
+3. Create entities for content that is not a PDF. 
+
+## Upload your documents
 
 At this time, Uwazi supports PDF format only. We recommend you use [CloudConvert](https://cloudconvert.com/) to convert any .doc, .txt, .odt, or other document file formats to PDF. 
 
@@ -16,7 +21,7 @@ Your files will be added to the upload section of Uwazi, but they will not be pu
 
 ![Uploaded docs](http://www.uwazi.io/wp-content/uploads/2017/04/uploaded-docs.png)
 
-## How to publish your documents
+## Publish your documents
 
 Before you publish your documents, you need to assign a document template to them (and preferably some metadata as well). To do that you can select one document, make your edits in the right sidebar, and then click _save_:
 
@@ -28,7 +33,7 @@ When you are finished adding properties to your unpublished documents, you can p
 
 ![Publish](http://www.uwazi.io/wp-content/uploads/2017/04/publish-doc.png)
 
-## How to create entities 
+## Create entities 
 An entity in Uwazi is content that is similar to a document in the way it is organised, but does not require a PDF. For example, you may want to create entities in order to include a people, events, courts, or cases in your collection.
 
 Before you create a new entity, you will want to [create your entity template(s)](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture). 
