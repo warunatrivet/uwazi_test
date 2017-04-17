@@ -3,5 +3,5 @@
 * [Build the information architecture](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture)
 * [Uploading and publishing documents, creating entities](https://github.com/huridocs/uwazi/wiki/Uploading-and-publishing-documents,-creating-entities)
 * [Applying metadata and properties to your documents](https://github.com/huridocs/uwazi/wiki/Applying-metadata-and-properties-to-your-documents)
-* [Creating relationships](https://github.com/huridocs/uwazi/wiki/Creating-relationships)
+* [Creating connections](https://github.com/huridocs/uwazi/wiki/Creating-connections)
 * [Search and filter](https://github.com/huridocs/uwazi/wiki/Search-and-filter)
