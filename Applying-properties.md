@@ -11,8 +11,6 @@ You can apply properties to documents or entities.
 
 ![Enter date](http://www.uwazi.io/wp-content/uploads/2017/04/date-property.png)
 
-## How to add a property that uses a predefined list
-
 ## How to embed a YouTube video
 1. Add a _Rich text_ property to your template. You may want to title this property _video_. 
 2. In your document or entity, click on _edit_. 
