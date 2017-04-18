@@ -1,7 +1,29 @@
-* [Installation](https://github.com/huridocs/uwazi/wiki/Installation)
-* [Manage user settings](https://github.com/huridocs/uwazi/wiki/Manage-user-settings)
-* [Build the information architecture](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture)
-* [Upload and publish documents, create entities](https://github.com/huridocs/uwazi/wiki/Upload-and-publish-documents,-create-entities)
-* [Apply properties](https://github.com/huridocs/uwazi/wiki/Apply-properties)
-* [Create connections](https://github.com/huridocs/uwazi/wiki/Create-connections)
-* [Search and filter](https://github.com/huridocs/uwazi/wiki/Search-and-filter)
+* Uwazi basics
+** What is Uwazi?
+** Glossary of terms
+* Hosting options
+** Install Uwazi on your server
+Host Uwazi with us
+Manage user settings
+Edit your account information
+Edit your site information
+Create pages
+Configure navigation menu links 
+Translate the interface
+Configure filters
+Build your information architecture
+Create entity templates
+Create document templates
+Create dictionaries
+Name connections
+Add documents and entities
+Upload and publish documents
+Add entities
+Organise your collection
+Apply properties 
+Create connections
+Create a table of contents
+Create references
+Search and filter your collection
+Search
+Filter
