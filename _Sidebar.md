@@ -20,7 +20,7 @@
     * Upload and publish documents
     * Add entities
 * Organise your collection
-    * Apply properties 
+    * [Apply properties](https://github.com/huridocs/uwazi/wiki/Apply-properties)
     * Create connections
     * Create a table of contents
     * Create references
