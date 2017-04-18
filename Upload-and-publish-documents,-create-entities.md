@@ -1,7 +1,7 @@
 To add new content to your collection, you will:
-1. [Upload your PDF documents](https://github.com/huridocs/uwazi/wiki/Uploading-and-publishing-documents,-creating-entities#upload-your-documents), then
-2. [Publish your documents](https://github.com/huridocs/uwazi/wiki/Uploading-and-publishing-documents,-creating-entities#publish-your-documents), or
-3. [Create entities](https://github.com/huridocs/uwazi/wiki/Uploading-and-publishing-documents,-creating-entities#create-entities) for other kinds of information. 
+1. [Upload your PDF documents](https://github.com/huridocs/uwazi/wiki/Upload-and-publish-documents,-create-entities#upload-your-documents), then
+2. [Publish your documents](https://github.com/huridocs/uwazi/wiki/Upload-and-publish-documents,-create-entities#publish-your-documents), or
+3. [Create entities](https://github.com/huridocs/uwazi/wiki/Upload-and-publish-documents,-create-entities#create-entities) for other kinds of information. 
 
 ***
 
@@ -29,7 +29,7 @@ Before you publish your documents, you need to assign a document template to the
 
 ![Edit unpublished doc](http://www.uwazi.io/wp-content/uploads/2017/04/edit-doc-properties.png)
 
-You can also [select and edit multiple documents](https://github.com/huridocs/uwazi/wiki/Applying-properties-to-your-documents#how-to-addedit-properties-on-multiple-documents-at-once). 
+You can also [select and edit multiple documents](https://github.com/huridocs/uwazi/wiki/Apply-properties-to-your-documents#how-to-addedit-properties-on-multiple-documents-at-once). 
 
 When you are finished adding properties to your unpublished documents, you can publish them by clicking on the button with the paper airplane icon:
 
