@@ -38,7 +38,7 @@ When you are finished adding properties to your unpublished documents, you can p
 ## Create entities 
 An entity in Uwazi is content that is similar to a document in the way it is organised, but does not require a PDF. For example, you may want to create entities in order to include a people, events, courts, or cases in your collection.
 
-Before you create a new entity, you will want to [create your entity template(s)](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture). 
+Before you create a new entity, you will want to [create your entity template(s)](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#create-and-manage-your-document-or-entity-templates). 
 
 Create a new entity by clicking on the upload icon in the top right corner of the site.
 
