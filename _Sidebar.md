@@ -1,8 +1,8 @@
 Uwazi basics
 * What is Uwazi?
 * Glossary of terms
-Hosting options
-* Install Uwazi on your server
+* Hosting options
+* * Install Uwazi on your server
 * Host Uwazi with us
 Manage user settings
 * Edit your account information
