@@ -10,6 +10,8 @@ For example, you may want to create a document template called "NGO Reports" whi
 
 Under _Documents_, you can view, edit, and delete existing document templates. 
 
+## Follow these steps:
+
 1. Click on the gear icon in the top right corner of the site.
 
 ![Gear icon](http://www.uwazi.io/wp-content/uploads/2017/04/gear-icon.png)
