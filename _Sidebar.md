@@ -1,3 +1,4 @@
+# English user guide
 * [Uwazi basics](https://github.com/huridocs/uwazi/wiki)
     * What is Uwazi?
     * Glossary of terms
@@ -27,3 +28,6 @@
 * [Search and filter your collection](https://github.com/huridocs/uwazi/wiki/Search-and-filter)
     * Search
     * Filter
+
+***
+# Spanish user guide
