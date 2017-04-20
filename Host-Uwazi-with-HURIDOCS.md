@@ -1,0 +1,1 @@
+[Contact the Uwazi team](http://www.uwazi.io/contact-us/) if you would like us to host an Uwazi instance for you.
