@@ -3,8 +3,8 @@
     * [What is Uwazi?](https://github.com/huridocs/uwazi/wiki/What-is-Uwazi%3F)
     * [Glossary of terms](https://github.com/huridocs/uwazi/wiki/Glossary-of-terms)
 * Hosting options
-    * Install Uwazi on your server
-    * Host Uwazi with us
+    * [Install Uwazi on your server](https://github.com/huridocs/uwazi/wiki/Install-Uwazi-on-your-server)
+    * [Host Uwazi with us](https://github.com/huridocs/uwazi/wiki/Host-Uwazi-with-HURIDOCS)
 * [Manage user settings](https://github.com/huridocs/uwazi/wiki/Manage-user-settings)
     * Edit your account information
     * Edit your site information
