@@ -14,10 +14,6 @@ Under _Documents_, you can view, edit, and delete existing document templates.
 
 ![Gear icon](http://www.uwazi.io/wp-content/uploads/2017/04/gear-icon.png)
 
-You will see the following list of options on the left side, below your settings. 
-
-![Structure your content options](http://www.uwazi.io/wp-content/uploads/2017/04/structure-collections.png)
-
 2. Go to _Documents_.
 3. Click on _Add document_ under _Documents_.
 4. You will see two default properties: _Title_, and _Date added_. 
