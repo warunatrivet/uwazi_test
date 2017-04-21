@@ -9,7 +9,7 @@
     * [Edit your account information](https://github.com/huridocs/uwazi/wiki/Edit-your-account-information)
     * [Edit your site information](https://github.com/huridocs/uwazi/wiki/Edit-your-site-information)
     * [Create pages](https://github.com/huridocs/uwazi/wiki/Create-pages)
-    * Configure navigation menu links 
+    * [Configure navigation menu links](https://github.com/huridocs/uwazi/wiki/Configure-navigation-menu-links)
     * Translate the interface
     * Configure filters
 * Build your information architecture
