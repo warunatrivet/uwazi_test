@@ -31,4 +31,5 @@
 
 ***
 # Spanish user guide
-Available soon!
+
+_Available soon!_
