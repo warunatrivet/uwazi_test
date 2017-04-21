@@ -1,14 +1,13 @@
 Properties provide an important way for users to: 
-1. view important attributes at a glance (in the right sidebar), and 
-2. filter the collection to better understand and analyse the collection.
+1. View important attributes at a glance (in the right sidebar), and 
+2. Filter the collection to better understand and analyse the collection.
 
 Applying properties to your documents or entities involves clicking _Edit_ and filling in the property fields with the relevant information. In this user guide we've included additional instructions on how to:
+
 * Add a date property information
 * Embed a YouTube video
 * Add/edit properties on multiple documents or entities at once
 * Add an attachment
-
-
 
 ## Add date property information
 1. Add a property of type _date_ to your template. 
