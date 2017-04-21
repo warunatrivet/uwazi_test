@@ -24,7 +24,7 @@
     * Add entities
 * Organise your collection
     * [Apply properties](https://github.com/huridocs/uwazi/wiki/Apply-properties)
-    * Create connections
+    * [Create connections](https://github.com/huridocs/uwazi/wiki/Create-connections)
     * Create a table of contents
     * Create references
 * [Search and filter your collection](https://github.com/huridocs/uwazi/wiki/Search-and-filter)
