@@ -29,7 +29,7 @@
     * Create references
 * [Search and filter your collection](https://github.com/huridocs/uwazi/wiki/Search-and-filter)
     * Search
-    * Filter
+    * [Filter](https://github.com/huridocs/uwazi/wiki/Filter)
 
 # Spanish User Guide
 _Available soon!_
