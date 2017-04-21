@@ -4,10 +4,12 @@ Properties provide an important way for users to:
 
 Applying properties to your documents or entities involves clicking _Edit_ and filling in the property fields with the relevant information. In this user guide we've included additional instructions on how to:
 
-* Add a date property information
-* Embed a YouTube video
-* Add/edit properties on multiple documents or entities at once
-* Add an attachment
+* [Add date property information](https://github.com/huridocs/uwazi/wiki/Apply-properties#add-date-property-information)
+* [Embed a YouTube video](https://github.com/huridocs/uwazi/wiki/Apply-properties#embed-a-youtube-video)
+* [Add/edit properties on multiple documents or entities at once](https://github.com/huridocs/uwazi/wiki/Apply-properties#addedit-properties-on-multiple-documents-or-entities-at-once)
+* [Add an attachment](https://github.com/huridocs/uwazi/wiki/Apply-properties#add-an-attachment)
+
+***
 
 ## Add date property information
 1. Add a property of type _date_ to your template. 
