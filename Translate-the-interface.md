@@ -4,7 +4,7 @@ In your settings, you can translate the interface of your Uwazi site.
 
 ![Gear icon](http://www.uwazi.io/wp-content/uploads/2017/04/gear-icon.png)
 
-2. Click on _Translate_
+2. Click on _Translations_
 
 ![Translate](http://www.uwazi.io/wp-content/uploads/2017/04/translate.png)
 
