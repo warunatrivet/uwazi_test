@@ -11,7 +11,7 @@
     * [Create pages](https://github.com/huridocs/uwazi/wiki/Create-pages)
     * [Configure navigation menu links](https://github.com/huridocs/uwazi/wiki/Configure-navigation-menu-links)
     * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
-    * Configure filters
+    * [Configure filters](https://github.com/huridocs/uwazi/wiki/Configure-filters)
 * Build your information architecture
     * [Create entity templates](https://github.com/huridocs/uwazi/wiki/Create-entity-templates)
     * [Create document templates](https://github.com/huridocs/uwazi/wiki/Create-document-templates)
