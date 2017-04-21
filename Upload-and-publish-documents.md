@@ -22,7 +22,7 @@ Before you publish your documents, you need to assign a document template to the
 
 ![Edit unpublished doc](http://www.uwazi.io/wp-content/uploads/2017/04/edit-doc-properties.png)
 
-You can also [select and edit multiple documents](https://github.com/huridocs/uwazi/wiki/Apply-properties-to-your-documents#how-to-addedit-properties-on-multiple-documents-at-once). 
+You can also [select and edit multiple documents](https://github.com/huridocs/uwazi/wiki/Apply-properties). 
 
 When you are finished adding properties to your unpublished documents, you can publish them by clicking on the button with the paper airplane icon:
 
