@@ -26,7 +26,7 @@
     * Create a table of contents
     * Create references
 * [Search and filter your collection](https://github.com/huridocs/uwazi/wiki/Search-and-filter)
-    * Search
+    * [Search](https://github.com/huridocs/uwazi/wiki/Search)
     * [Filter](https://github.com/huridocs/uwazi/wiki/Filter)
 
 ***
