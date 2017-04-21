@@ -1,1 +1,0 @@
-The search panel in the library consists of Documents and Entities. It also shows the numbers of documents or entities per each property.
