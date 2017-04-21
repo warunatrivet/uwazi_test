@@ -2,7 +2,7 @@ Most documents has a defined structure through the pages. With a **Table of cont
 
 ## Follow these steps:
 
-Select the paragraph and click on _Add to table of contents_.
+Select the text and click on _Add to table of contents_.
 
 ![Toc base](http://huridocs.github.io/uwazi-assets/wiki/screenshots/toc-base.png)
 ![Toc add](http://huridocs.github.io/uwazi-assets/wiki/screenshots/toc-add.png)
