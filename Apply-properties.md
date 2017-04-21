@@ -32,5 +32,10 @@ Applying properties to your documents or entities involves clicking _Edit_ and f
 ![](http://g.recordit.co/MTOmvXjhv9.gif)
 
 ## Add an attachment
-1. View the document or entity
+1. [Open and view the document or entity](https://github.com/huridocs/uwazi/wiki/Open-and-view-a-document)
 2. Click on the graph icon in the bottom right corner to open the sidebar
+3. Click on the _Attachments_ tab at the top of this sidebar
+4. Click _Add_
+5. Select the file from your computer
+
+![](http://g.recordit.co/k41u2h3Kdy.gif)
