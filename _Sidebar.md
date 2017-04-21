@@ -7,8 +7,8 @@
     * [Host Uwazi with us](https://github.com/huridocs/uwazi/wiki/Host-Uwazi-with-HURIDOCS)
 * Manage user settings
     * [Edit your account information](https://github.com/huridocs/uwazi/wiki/Edit-your-account-information)
-    * Edit your site information
-    * Create pages
+    * [Edit your site information](https://github.com/huridocs/uwazi/wiki/Edit-your-site-information)
+    * [Create pages](https://github.com/huridocs/uwazi/wiki/Create-pages)
     * Configure navigation menu links 
     * Translate the interface
     * Configure filters
