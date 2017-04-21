@@ -9,3 +9,7 @@ In your settings, you can configure what information is filterable for your user
 ![Filters](http://www.uwazi.io/wp-content/uploads/2017/04/filters.png)
 
 3. For each document or entity type that you want your user to be able to filter, drag and drop that item from the right column to the _Filterable types_ window. You can further organise these filters by creating _Groups_ of filters, meaning you can organise a group of filters together beneath  a label (such as the 'Documents' group in the screenshot above).
+
+Users will see the available filters on the library:
+
+![Available filters](http://www.uwazi.io/wp-content/uploads/2017/04/filters-display.png)
