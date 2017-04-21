@@ -24,4 +24,4 @@ Under _Entities_, you can view, edit, and delete existing entity templates.
 
 ![New template](http://www.uwazi.io/wp-content/uploads/2017/04/doc-template.png)
 
-Note: When you add a **multi-select property** to a template, you will see a field titled _Thesauri_ in which you can select a _Dictionary_ or an entity that you have already created. See the section on [managing your dictionaries](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#manage-your-dictionaries) for more information on how to create these dictionaries. 
+Note: When you add a **multi-select property** to a template, you will see a field titled _Thesauri_ in which you can select a _Dictionary_ or an _Entity type_ that you have already created. See the section on [managing your dictionaries](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#manage-your-dictionaries) for more information on how to create these dictionaries. 
