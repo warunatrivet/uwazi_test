@@ -21,7 +21,7 @@
     * [Upload and publish documents](https://github.com/huridocs/uwazi/wiki/Upload-and-publish-documents)
     * [Add entities](https://github.com/huridocs/uwazi/wiki/Create-entities)
 * Organise your collection
-    * [View a document](https://github.com/huridocs/uwazi/wiki/View-a-document)
+    * [Open and view a document](https://github.com/huridocs/uwazi/wiki/Open-and-view-a-document)
     * [Apply properties](https://github.com/huridocs/uwazi/wiki/Apply-properties)
     * [Create connections](https://github.com/huridocs/uwazi/wiki/Create-connections)
     * [Create a table of contents](https://github.com/huridocs/uwazi/wiki/Create-a-table-of-contents)
