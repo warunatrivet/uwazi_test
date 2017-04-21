@@ -17,9 +17,9 @@
     * [Create document templates](https://github.com/huridocs/uwazi/wiki/Create-document-templates)
     * [Create dictionaries](https://github.com/huridocs/uwazi/wiki/Create-dictionaries)
     * [Name connections](https://github.com/huridocs/uwazi/wiki/Name-connections)
-* [Add documents and entities to your collection](https://github.com/huridocs/uwazi/wiki/Upload-and-publish-documents,-create-entities)
-    * Upload and publish documents
-    * Add entities
+* Add documents and entities to your collection
+    * [Upload and publish documents](https://github.com/huridocs/uwazi/wiki/Upload-and-publish-documents)
+    * [Add entities](https://github.com/huridocs/uwazi/wiki/Create-entities)
 * Organise your collection
     * [Apply properties](https://github.com/huridocs/uwazi/wiki/Apply-properties)
     * [Create connections](https://github.com/huridocs/uwazi/wiki/Create-connections)
