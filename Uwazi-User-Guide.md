@@ -1,6 +1,6 @@
 ![Uwazi logo](http://huridocs.github.io/uwazi-assets/wiki/logo.png)
 
-# English user guide
+# English User Guide
 * Uwazi basics
     * [What is Uwazi?](https://github.com/huridocs/uwazi/wiki/What-is-Uwazi%3F)
     * [Glossary of terms](https://github.com/huridocs/uwazi/wiki/Glossary-of-terms)
@@ -31,5 +31,5 @@
     * Search
     * Filter
 
-# Spanish user guide
+# Spanish User Guide
 _Available soon!_
