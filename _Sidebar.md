@@ -25,7 +25,7 @@
     * [Create connections](https://github.com/huridocs/uwazi/wiki/Create-connections)
     * [Create a table of contents](https://github.com/huridocs/uwazi/wiki/Create-a-table-of-contents)
     * Create references
-* [Search and filter your collection](https://github.com/huridocs/uwazi/wiki/Search-and-filter)
+* Search and filter your collection
     * [Search](https://github.com/huridocs/uwazi/wiki/Search)
     * [Filter](https://github.com/huridocs/uwazi/wiki/Filter)
 
