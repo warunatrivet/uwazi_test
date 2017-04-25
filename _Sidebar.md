@@ -13,8 +13,8 @@
     * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
     * [Configure filters](https://github.com/huridocs/uwazi/wiki/Configure-filters)
 * Build your information architecture
-    * [Create entity templates](https://github.com/huridocs/uwazi/wiki/Create-entity-templates)
-    * [Create document templates](https://github.com/huridocs/uwazi/wiki/Create-document-templates)
+    * [Create document type](https://github.com/huridocs/uwazi/wiki/Create-document-types)
+    * [Create entity type](https://github.com/huridocs/uwazi/wiki/Create-entity-types)
     * [Create dictionaries](https://github.com/huridocs/uwazi/wiki/Create-dictionaries)
     * [Name connections](https://github.com/huridocs/uwazi/wiki/Name-connections)
 * Add documents and entities to your collection
