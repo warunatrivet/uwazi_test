@@ -9,6 +9,8 @@ In Uwazi, a reference is a bookmark that connects selected content in a document
 
 Users will see this referenced text under the _References_ tab in the right sidebar. 
 
+![Reference text](http://g.recordit.co/QDzjvoqjrD.gif)
+
 ## Reference an entire document or entity
 
 1. [Open and view the document or entity](https://github.com/huridocs/uwazi/wiki/Open-and-view-a-document)
