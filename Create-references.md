@@ -16,6 +16,6 @@ Users will see this referenced text under the _References_ tab in the right side
 3. Find and select the document or entity to which you want to refer. 
 4. Click _Save_
 
-![Reference an entire document or entity](http://g.recordit.co/CkfOkyrTAs.gif)
-
 Users will see this referenced text or document/entity under the _References_ tab in the right sidebar. When the reference is selected, the highlighted text will be displayed in the PDF. 
+
+![Reference an entire document or entity](http://g.recordit.co/CkfOkyrTAs.gif)
