@@ -4,7 +4,7 @@ For most organisations, managing your documents means putting them into folders 
 
 Uwazi is different. Uwazi goes beyond words and phrases to organise documents. We see each document as a rich information source. Each document tells a story: an email that asks for a favor from a politician, a testimony from a witness of police violence, the ruling of a court on a human rights case. When we can connect these stories, we can see the bigger picture: ongoing corruption, systematic police violence, legal human rights precedence.  
 
-Uwazi is built to do exactly this – create connections between documents in order to better understand and share the collection. For example: you can connect the phrase “Operation Stargate” in one document to a paragraph in another document that provides more description. You can also connect this phrase to a witness testimony related to the “Operation Stargate” event. As you curate your document collection by creating these links, your users see a documents connects at a glance and can then dive deeper. 
+Uwazi is built to do exactly this – create connections between documents in order to better understand and share the collection. For example: you can connect the phrase “Police Killings in Michoacán” in one document to a paragraph in another document that provides more description. You can also connect this phrase to a witness testimony related to the “Police Killings in Michoacán” event. As you curate your document collection by creating these links, your users see a documents connects at a glance and can then dive deeper. 
 
 ## Who is it for?
 
