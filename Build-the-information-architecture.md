@@ -23,6 +23,7 @@ Templates allow you to collect structured, consistent metadata on your documents
 * multi-select
 * date
 * rich text
+
 For example, you may want to create a document template called "NGO Reports" which will contain properties such as title, date published, NGO author, etc. You will create one document template for each type of document that has a distinct set of property types.
 
 An entity, in Uwazi, is content that is similar to a document in the way it is organised, but does not require a PDF. For example, you may want to create entities in order to include a people, events, courts, or cases in your collection. Like document templates, you can create entity templates for each type of entity you are need. 
@@ -40,7 +41,7 @@ To create a new document template:
 Similarly, under _Entities_, you can view, edit, and delete existing entity templates. 
 Create new entity templates by following the instructions for creating a new document template (above). 
 
-When you add a multi-select property to a template, you will see a field titled _Thesauri_ in which you can select a _Dictionary_ or an entity that you have already created. See the section on [managing your dictionaries](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#manage-your-dictionaries) for more information on how to create these dictionaries. 
+When you add a multi-select property to a template, you will see a field titled _Thesauri_ in which you can select a _Dictionary_ or an entity that you have already created. See the section on [managing your dictionaries](https://github.com/huridocs/uwazi/wiki/Create-dictionaries) for more information on how to create these dictionaries. 
 
 ## Create and manage your dictionaries 
 A dictionary in Uwazi is a list of terms that you will reference in the properties. For example, you may want to create a dictionary for countries so that you can refer to this list when you add the _country_ property to your document template.
