@@ -24,7 +24,7 @@ Templates allow you to collect structured, consistent metadata on your documents
 * date
 * rich text
 
-For example, you may want to create a document template called "NGO Reports" which will contain properties such as title, date published, NGO author, etc. You will create one document template for each type of document that has a distinct set of property types.
+For example, you may want to create a document template called "NGO Reports" which will contain properties such as title, date published, NGO author, etc. You will create one document template for each type of document that has a distinct set of property types (or the same set of properties but a different name).
 
 An entity, in Uwazi, is content that is similar to a document in the way it is organised, but does not require a PDF. For example, you may want to create entities in order to include a people, events, courts, or cases in your collection. Like document templates, you can create entity templates for each type of entity you are need. 
 
