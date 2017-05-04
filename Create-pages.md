@@ -15,3 +15,9 @@ In your settings, you can create static pages to your Uwazi document collection.
 4. You can find the URL for each page you create by clicking on the page title itself in the list under the _Pages_ section, or by copying the URL that appears in the window after clicking _Save_:
 
 ![Find URL](http://www.uwazi.io/wp-content/uploads/2017/04/page-URL.png)
+
+## Formatting the content of your page
+
+You can use [markdown syntax](https://guides.github.com/features/mastering-markdown/) to add images, lists, headers, quotes, and other formatting preferences. For help on using markdown, click on the _Help_ tab above the text field for the page. 
+
+![markdown help](http://www.uwazi.io/wp-content/uploads/2017/05/markdown-help-pages.png)
