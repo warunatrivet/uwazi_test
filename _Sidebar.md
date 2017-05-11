@@ -5,7 +5,7 @@
 * Hosting options
     * [Install Uwazi on your server](https://github.com/huridocs/uwazi/wiki/Install-Uwazi-on-your-server)
     * [Host Uwazi with us](https://github.com/huridocs/uwazi/wiki/Host-Uwazi-with-HURIDOCS)
-* Manage settings
+* Manage settings and configurations
     * [Edit your account information](https://github.com/huridocs/uwazi/wiki/Edit-your-account-information)
     * [Edit your site information](https://github.com/huridocs/uwazi/wiki/Edit-your-site-information)
     * [Create pages](https://github.com/huridocs/uwazi/wiki/Create-pages)
