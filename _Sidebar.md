@@ -7,12 +7,12 @@
     * [Host Uwazi with us](https://github.com/huridocs/uwazi/wiki/Host-Uwazi-with-HURIDOCS)
 * Manage settings and configurations
     * [Edit your account information](https://github.com/huridocs/uwazi/wiki/Edit-your-account-information)
+    * [Manage users](https://github.com/huridocs/uwazi/wiki/Manage-users)
     * [Edit your site information](https://github.com/huridocs/uwazi/wiki/Edit-your-site-information)
     * [Create pages](https://github.com/huridocs/uwazi/wiki/Create-pages)
     * [Configure navigation menu links](https://github.com/huridocs/uwazi/wiki/Configure-navigation-menu-links)
     * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
     * [Configure filters](https://github.com/huridocs/uwazi/wiki/Configure-filters)
-    * [Manage users](https://github.com/huridocs/uwazi/wiki/Manage-users)
 * Build your information architecture
     * [Create document type](https://github.com/huridocs/uwazi/wiki/Create-document-types)
     * [Create entity type](https://github.com/huridocs/uwazi/wiki/Create-entity-types)
