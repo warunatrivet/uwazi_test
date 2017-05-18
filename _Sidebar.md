@@ -12,7 +12,7 @@
     * [Configure navigation menu links](https://github.com/huridocs/uwazi/wiki/Configure-navigation-menu-links)
     * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
     * [Configure filters](https://github.com/huridocs/uwazi/wiki/Configure-filters)
-    * [Manage users]()
+    * [Manage users](https://github.com/huridocs/uwazi/wiki/Manage-users)
 * Build your information architecture
     * [Create document type](https://github.com/huridocs/uwazi/wiki/Create-document-types)
     * [Create entity type](https://github.com/huridocs/uwazi/wiki/Create-entity-types)
