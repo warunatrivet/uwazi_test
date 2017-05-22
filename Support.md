@@ -1,6 +1,6 @@
-Our main support channel is on [GitHub](http://github.com/huridocs/uwazi/issues). You’ll receive quicker responses and get direct access to the development team.
+Our main support channel is on **[GitHub](http://github.com/huridocs/uwazi/issues)**. You’ll receive quicker responses and get direct access to the development team.
 
-In order to use [GitHub](http://github.com/huridocs/uwazi/issues), you will need to:
+In order to use GitHub, you will need to:
 
 - [Create an account](https://github.com/join) & login. Its free :)
 - Go to [GitHub](http://github.com/huridocs/uwazi/issues) and add a new one.
