@@ -8,4 +8,13 @@ In your settings, you can edit your site information such as: the name of your s
 
 ![Site info](http://www.uwazi.io/wp-content/uploads/2017/04/site-info.png)
 
-It is possible to customise the header background image on your Uwazi instance. The logotype is PNG format (transparent background) and 72px height. Width is not fixed, but limited to 288px, so you can play until that size. We will upload it for you once you have the final design.
+# Custom header
+
+Sadly is not possible to edit your header from Settings right now, but we will work to make it available soon. Meanwhile, you can create an [issue](https://github.com/huridocs/uwazi/issue/) and we will customise the header background image for you.
+
+Requirements:
+
+- Your logotype in PNG format (transparent background) and 72px height. Width is not fixed, but limited to 288px, so you can play until that size.
+- Your brand colour to change the header background.
+
+We will upload all the changes it for you once you have the final design.
