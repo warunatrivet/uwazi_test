@@ -42,3 +42,7 @@ Requirements:
 - Your brand colour to change the header background.
 
 We will upload all the changes it for you once you have the final design.
+
+![CEJIL](http://huridocs.github.io/uwazi-assets/wiki/screenshots/site-cejil.png)
+
+Our partner [CEJIL](https://cejil.uwazi.io) is a great example of landing page and header customization.
