@@ -24,7 +24,15 @@ These are some examples:
 
 Always use URLs relative to your site, starting with / and skipping the `https://yoursite.com`.
 
-# Custom header
+# Advance settings
+
+## Mailer configuration
+
+This is a JSON configuration object that should match the options values required by Nodemailer, as explained [here](http://nodemailer.com/smtp/).
+
+This setting takes precedence over all other mailer configuration. If left blank, then the configuration file in `/api/config/mailer.js` will be used.
+
+## Custom header
 
 Sadly is not possible to edit your header from Settings right now, but we will work to make it available soon. Meanwhile, you can create an [issue](https://github.com/huridocs/uwazi/issue/) and we will customise the header background image for you.
 
