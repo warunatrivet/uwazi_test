@@ -24,7 +24,7 @@ These are some examples:
 
 Always use URLs relative to your site, starting with / and skipping the `https://yoursite.com`.
 
-# Advance settings
+# Advanced settings
 
 ## Mailer configuration
 
