@@ -10,7 +10,7 @@
 * Manage user settings
     * [Edit your account information](https://github.com/huridocs/uwazi/wiki/Edit-your-account-information)
     * [Edit your site information](https://github.com/huridocs/uwazi/wiki/Edit-your-site-information)
-    * [Create pages](https://github.com/huridocs/uwazi/wiki/Create-pages)
+    * [Create pages](https://github.com/huridocs/uwazi/wiki/Create-pages) and use [custom syntax](https://github.com/huridocs/uwazi/wiki/Custom-Syntax)
     * [Configure navigation menu links](https://github.com/huridocs/uwazi/wiki/Configure-navigation-menu-links)
     * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
     * [Configure filters](https://github.com/huridocs/uwazi/wiki/Configure-filters)
