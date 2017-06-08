@@ -21,3 +21,5 @@ In your settings, you can create static pages to your Uwazi document collection.
 You can use [markdown syntax](https://guides.github.com/features/mastering-markdown/) to add images, lists, headers, quotes, and other formatting preferences. For help on using markdown, click on the _Help_ tab above the text field for the page. 
 
 ![markdown help](http://www.uwazi.io/wp-content/uploads/2017/05/markdown-help-pages.png)
+
+We have also extended the markdown options to include some [custom syntax for Uwazi users](https://github.com/huridocs/uwazi/wiki/Custom-Syntax). This custom syntax allows users to embed lists of document/entity cards based on filter results, and embed YouTube videos. 
