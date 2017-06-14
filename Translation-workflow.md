@@ -9,7 +9,7 @@ In order to add translated documents to an existing document, you need to have m
 * When the user selects a language, they will continue to see all of the available information in Uwazi, but if any of that content is available in the selected language they will see that instead of the default language. * This includes the user interface, document/entity properties, and the documents themselves. 
 
 # Workflow: How to add translated documents
-In Uwazi, 
+1. Upload the original 
 
 # Workflow: How to translate the interface
 For information on how to translate the Uwazi interface, see the section of this user guide titled [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface).
