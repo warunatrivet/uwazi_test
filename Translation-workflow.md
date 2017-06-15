@@ -13,7 +13,7 @@ In order to add translated documents to an existing document, you need to have m
 1. Switch the website's language to the language of the translated document you are adding. For example, if you are adding a French translation of a document in Uwazi, make sure you have selected _FR_ as the interface language in the top right corner. 
 2. Open the document for which you want to add a translated document to. 
 3. Go to the attachments tab. 
-4. Upload the translated document as an attachment.
+4. Replace the current document with the translated document.
 
 # Workflow: How to translate the interface
 For information on how to translate the Uwazi interface, see the section of this user guide titled [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface).
