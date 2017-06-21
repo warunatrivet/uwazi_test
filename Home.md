@@ -12,7 +12,6 @@
     * [Edit your site information](https://github.com/huridocs/uwazi/wiki/Edit-your-site-information)
     * [Create pages](https://github.com/huridocs/uwazi/wiki/Create-pages) and use [custom syntax](https://github.com/huridocs/uwazi/wiki/Custom-Syntax)
     * [Configure navigation menu links](https://github.com/huridocs/uwazi/wiki/Configure-navigation-menu-links)
-    * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
     * [Configure filters](https://github.com/huridocs/uwazi/wiki/Configure-filters)
 * Build your information architecture
     * [Create document types](https://github.com/huridocs/uwazi/wiki/Create-document-types)
@@ -31,6 +30,11 @@
 * Search and filter your collection
     * [Search](https://github.com/huridocs/uwazi/wiki/Search)
     * [Filter](https://github.com/huridocs/uwazi/wiki/Filter)
+* Translate your collection
+    * [Our translation methodology](https://github.com/huridocs/uwazi/wiki/Our-translation-methodology)
+    * [Upload translated documents](https://github.com/huridocs/uwazi/wiki/Upload-translated-documents)
+    * Translate document metadata and filters
+    * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
 
 # Spanish User Guide
 * [¿Qué es Uwazi?](https://github.com/huridocs/uwazi/wiki/%C2%BFQu%C3%A9-es-Uwazi%3F)
