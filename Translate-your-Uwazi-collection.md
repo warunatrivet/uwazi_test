@@ -37,8 +37,6 @@ Now, from the language you want to upload, go to the Attachments tab. There are 
 
 Notice than replace documents will reset the document's *Table of Contents* and *References* if exists. This is because the new document has a new content: maybe different paragraphs, different number of pages and of course a completely different  language. 
 
-![translate](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-alert.png)
-
 Once you confirm the upload, and after some seconds of waiting, your new document will be uploaded and ready on the new language. Remember that if you already translated the properties and thesaurus, these will be automatically translated too.
 
 ![translate](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-translated.png)
