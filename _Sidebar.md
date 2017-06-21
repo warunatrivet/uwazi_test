@@ -31,6 +31,11 @@
 * Search and filter your collection
     * [Search](https://github.com/huridocs/uwazi/wiki/Search)
     * [Filter](https://github.com/huridocs/uwazi/wiki/Filter)
+* Translate your collection
+    * Our translation methodology
+    * Upload translated documents
+    * Translate document properties
+    * Translate the interface
 
 ***
 # Spanish user guide
