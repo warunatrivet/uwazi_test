@@ -15,5 +15,21 @@ In order to add translated documents to an existing document, you need to have m
 3. Go to the attachments tab. 
 4. Replace the current document with the translated document.
 
-# Workflow: How to translate the interface
-For information on how to translate the Uwazi interface, see the section of this user guide titled [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface).
+
+***
+
+## Uploading translated documents
+
+Once you have a translated document in your computer, is time to upload it to Uwazi. First thing you need to check is the fallback. Access to the document you want to translate and check both languages. If the document appears in both, the fallback is working properly. Notice that if you already translated the properties and thesaurus, they will appear translated in each document, regardless the language of the main document.
+
+![translate](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-fallback.png)
+
+Now, from the language you want to upload, go to the Attachments tab. There are three buttons below the name of the document. You should click on the second one: *Reupload a document*. This will replace the current document with the translated one. The main document will remain in the original language, but both PDF will be connected. That way you can navigate between languages and see both documents.
+
+![translate](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-replace-button.png)
+
+Notice than replace documents will reset the document's *Table of Contents* and *References* if exists. This is because the new document has a new content: maybe different paragraphs, different number of pages and of course a completely different  language. 
+
+Once you confirm the upload, and after some seconds of waiting, your new document will be uploaded and ready on the new language. Remember that if you already translated the properties and thesaurus, these will be automatically translated too.
+
+![translate](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-translated.png)
