@@ -1,4 +1,4 @@
-In your settings, you can translate the interface of your Uwazi site.  
+In your settings, you can translate the interface of your Uwazi site, such as labels, buttons, etc.  
 
 1. Click on the gear icon in the top right corner of the site
 
@@ -11,7 +11,3 @@ In your settings, you can translate the interface of your Uwazi site.
 3. Click the _Translate_ button next to any word/phrase in this list to translate it into another language. 
 
 ![Translate word](http://www.uwazi.io/wp-content/uploads/2017/04/translate-word.png)
-
-Each new word or phrase you add to the Uwazi interface will be automatically added to this translation list. 
-
-Note: Your Uwazi instance will be set up in English as a default and ready for translation into Spanish. If you require other languages, our Uwazi team can set that up for you upon request. 
