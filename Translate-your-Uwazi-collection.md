@@ -4,7 +4,7 @@ You can also translate the Uwazi interface with our translation system following
 
 ![translate](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-context.png)
 
-# Translation methodology
+## Translation methodology
 
 Uwazi translations works with a methodology called **fallback**. A fallback refers to an alternative document if the main one is not available.
 
@@ -25,7 +25,7 @@ As you can imagine, this methodology has some pros and cons:
 - Your data will be consistent between languages. All the languages will access to the same amount of documents. No more orphan languages with just a few PDFs.
 - As fallback shares documents through different languages, sometimes you can find a document written in a language different from the interface you are navigating.
 
-# How to upload a translated document
+## Uploading translated documents
 
 Once you have a translated document in your computer, is time to upload it to Uwazi. First thing you need to check is the fallback. Access to the document you want to translate and check both languages. If the document appears in both, the fallback is working properly. Notice that if you already translated the properties and thesaurus, they will appear translated in each document, regardless the language of the main document.
 
