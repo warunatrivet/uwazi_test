@@ -1,4 +1,4 @@
-This guide tackles one of the main aspect of translations in Uwazi: **how to upload a translated document into the system**. You can also check how to [translate metadata, properties, thesaurus...](https://github.com/huridocs/uwazi/wiki/Translate-document-metadata-and-filters) or [how to translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface).
+This guide tackles one of the main aspect of translations in Uwazi: **how to upload a translated document into the system**. You can also check [how to translate metadata, properties, thesaurus...](https://github.com/huridocs/uwazi/wiki/Translate-document-metadata-and-filters) or [how to translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface).
 
 ![Upload translated documents](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-documents.png)
 
