@@ -1,3 +1,5 @@
+This guide tackles one of the main aspect of translations in Uwazi: **how to upload a translated document into the system**. You can also check how to [translate metadata, properties, thesaurus...](https://github.com/huridocs/uwazi/wiki/Translate-document-metadata-and-filters) or [how to translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface).
+
 ![Upload translated documents](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-documents.png)
 
 First thing you will want to do is check is the fallback ([more information on Uwazi's fallback translation methodology](https://github.com/huridocs/uwazi/wiki/How-to-translate-content)) by opening the document you want to translate and check both languages. If the document appears in both, the fallback is working properly. (Notice that if you already translated the properties and thesaurus, they will appear translated in each document, regardless the language of the main document.)
