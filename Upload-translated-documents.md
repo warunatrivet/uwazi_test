@@ -1,6 +1,6 @@
 ![Upload translated documents](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-documents.png)
 
-First thing you will want to do is check is the fallback ([more information on Uwazi's fallback translation methodology](https://github.com/huridocs/uwazi/wiki/Our-translation-methodology)) by opening the document you want to translate and check both languages. If the document appears in both, the fallback is working properly. (Notice that if you already translated the properties and thesaurus, they will appear translated in each document, regardless the language of the main document.)
+First thing you will want to do is check is the fallback ([more information on Uwazi's fallback translation methodology](https://github.com/huridocs/uwazi/wiki/How-to-translate-content)) by opening the document you want to translate and check both languages. If the document appears in both, the fallback is working properly. (Notice that if you already translated the properties and thesaurus, they will appear translated in each document, regardless the language of the main document.)
 
 ![translate](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-fallback.png)
 
