@@ -1,3 +1,5 @@
+![Translate the interface](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-interface.png)
+
 In your settings, you can translate the interface of your Uwazi site, such as labels, buttons, etc.  
 
 1. Click on the gear icon in the top right corner of the site
