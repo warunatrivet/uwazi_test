@@ -2,8 +2,6 @@
 
 There are two main groups of content:
 
-![translate](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-context.png)
-
 ### Uwazi Interface
 
 The Uwazi Interface (also called "System") contains all translations for every compontent you see in the application: buttons, alerts, messages... 
@@ -19,6 +17,8 @@ Every document you upload, entity you create, property or thesauri you add is al
 Sometimes you will need to translate them from `Settings > Translation`, other times it will be as easy as changing the language and modify the content there.
 
 Check our [guide to translate documents](https://github.com/huridocs/uwazi/wiki/Upload-translated-documents) and our [guide to translate metadata and filters](https://github.com/huridocs/uwazi/wiki/Translate-document-metadata-and-filters) for more information.
+
+![translate](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-context.png)
 
 ## Our translation methodology
 
