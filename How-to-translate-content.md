@@ -1,6 +1,6 @@
 ## Which content can you translate?
 
-There are two main groups of content:
+All the content inside Uwazi can be traslated to any language you want. There are different ways to translate content (depend on what you want to have translated) but basically they are divided in two main groups:
 
 ### Uwazi Interface
 
