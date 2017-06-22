@@ -2,16 +2,18 @@ This guide tackles one of the main aspect of translations in Uwazi: **how to tra
 
 ![Translate the interface](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-interface.png)
 
-In your settings, you can translate the interface of your Uwazi site, such as labels, buttons, etc.  
+In Settings you can translate all the interface of your Uwazi site, such as buttons, labels, messages...
 
-1. Click on the gear icon in the top right corner of the site
+1. Click on the gear icon in the top right corner of the site.
 
 ![Gear icon](http://www.uwazi.io/wp-content/uploads/2017/04/gear-icon.png)
 
-2. Click on _Translations_
+2. Navigate to _Translations_ tab and click on System translations.
 
 ![Translate](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-settings-interface.png)
 
-3. Click the _Translate_ button next to any word/phrase in this list to translate it into another language. 
+3. A list of all the phrases used on this context will appear here. The first one is the *base phrase*. This can't be translated to help you remember which was the context in case you decide to modify all the languages. The second and subsequents phrases are related to the different language you have activated in your site. Please [contact the development team](https://www.uwazi.io/contact) if you want to activate another language that is not in your site!
 
 ![Translate](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-system.png)
+
+Note: The *base phrase* and the English phrase are usually the same, but you can freely modify the English one in case you found another phrase that suits better with your way of communication.
