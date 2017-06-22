@@ -1,3 +1,9 @@
+## Which content can you translate?
+
+![translate](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-context.png)
+
+## Our translation methodology
+
 The Uwazi translation system works with a methodology called **fallback**. A fallback refers to an alternative document if the main (or intended) one is not available.
 
 In the example below, we have an instance with three different languages: English, Spanish and French.
