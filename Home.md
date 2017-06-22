@@ -33,7 +33,7 @@
 * Translate your collection
     * [Our translation methodology](https://github.com/huridocs/uwazi/wiki/Our-translation-methodology)
     * [Upload translated documents](https://github.com/huridocs/uwazi/wiki/Upload-translated-documents)
-    * Translate document metadata and filters
+    * [Translate document metadata and filters](https://github.com/huridocs/uwazi/wiki/Translate-document-metadata-and-filters)
     * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
 
 # Spanish User Guide
