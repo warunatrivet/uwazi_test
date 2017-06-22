@@ -31,7 +31,7 @@
     * [Search](https://github.com/huridocs/uwazi/wiki/Search)
     * [Filter](https://github.com/huridocs/uwazi/wiki/Filter)
 * Translate your collection
-    * [Our translation methodology](https://github.com/huridocs/uwazi/wiki/Our-translation-methodology)
+    * [How to translate content](https://github.com/huridocs/uwazi/wiki/How-to-translate-content)
     * [Upload translated documents](https://github.com/huridocs/uwazi/wiki/Upload-translated-documents)
     * [Translate document metadata and filters](https://github.com/huridocs/uwazi/wiki/Translate-document-metadata-and-filters)
     * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
