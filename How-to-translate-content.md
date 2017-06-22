@@ -45,6 +45,6 @@ Con:
 - Because the fallback approach shares documents through different languages, users may find a document written in a language different from the interface you are navigating.
 
 # Additional notes
-* You can translate Uwazi into any language, but we currently do not support right-to-left rendering for Arabic and other right-to-left languages. 
-* When languages are enabled, you will see the language abbreviation in the top right corner of the site.
+* But we currently do not support right-to-left rendering for Arabic and other right-to-left languages. 
 * To turn on any languages, you will need to request this directly from the [Uwazi development team](https://www.uwazi.io/contact-us/). 
+* When languages are enabled, you will see the language abbreviation in the top right corner of the site.
