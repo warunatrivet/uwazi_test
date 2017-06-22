@@ -2,5 +2,5 @@ This guide tackles one of the main aspect of translations in Uwazi: **how to tra
 
 ![Translate document metadata and filters](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-properties.png)
 
-![translate](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-properties-settings.png)
+![translate](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-settings-dictionary.png)
 ![translate](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-properties-inside.png)
