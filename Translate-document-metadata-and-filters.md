@@ -1,0 +1,1 @@
+![Translate document metadata and filters](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-properties.png)
