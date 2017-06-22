@@ -1,3 +1,5 @@
+This guide tackles one of the main aspect of translations in Uwazi: **how to upload a translated document into the system**. You can also check how to [translate metadata, properties, thesaurus...](https://github.com/huridocs/uwazi/wiki/Translate-document-metadata-and-filters) or [how to upload translated documents](https://github.com/huridocs/uwazi/wiki/Upload-translated-documents).
+
 ![Translate the interface](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-interface.png)
 
 In your settings, you can translate the interface of your Uwazi site, such as labels, buttons, etc.  
