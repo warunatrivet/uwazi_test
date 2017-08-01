@@ -1,0 +1,28 @@
+You can access Uwazi's API options by going to: 
+https://yourinstancename.uwazi.io/api
+
+This is a work-in-progress so we will continue to add and improve on this. 
+
+Frequently asked questions:
+
+1. Do you have an authorisation mechanism?
+
+We do have an authentication mechanism for editing / deleting any sort
+of data, but the public information does not require authorization.
+
+2. Do you have rate limiting?
+
+At this time, no. 
+
+3. Are documents and entities as exposed through the web interface both accessible through the /entities
+endpoints?
+
+Yes, documents are entities that have a main file attached to them, so the entities/ endpoint will return both documents and entities.
+
+4. Is there a maximum amount of results returned by GET /search ?
+
+No, the search can return anywhere from 0 to all the documents.  The default is 30 but the LIMIT property (as you can check by selecting 'load more' in the library) can be set to any number you wish.  Higher numbers will take longer, be bigger and put extra toll on the server, so be careful.
+
+5. What is the templateId in GET /entities/count_by_template ?
+
+That is the mongo _id for a particular template type.  For the time being, you could ask the API for templates and then get the _id from those results.  Alternatively, the ID is shown in the URL if you edit a particular template.
