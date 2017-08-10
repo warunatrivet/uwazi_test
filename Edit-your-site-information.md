@@ -32,6 +32,12 @@ This is a JSON configuration object that should match the options values require
 
 This setting takes precedence over all other mailer configuration. If left blank, then the configuration file in `/api/config/mailer.js` will be used.
 
+## Google Analytics
+
+You can use Google Analytics to track website visits by adding your [Google Analytics ID](https://support.google.com/analytics/answer/3123666?hl=en) to Uwazi. 
+
+![Google Analytics field](http://www.uwazi.io/wp-content/uploads/2017/08/GA-Uwazi.png) 
+
 ## Custom header
 
 Sadly is not possible to edit your header from Settings right now, but we will work to make it available soon. Meanwhile, you can create an [issue](https://github.com/huridocs/uwazi/issue/) and we will customise the header background image for you.
