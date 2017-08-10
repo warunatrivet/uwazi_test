@@ -13,3 +13,9 @@ Once you have selected one or more document or entity type to filter, the side p
 Note: When you filter the documents using more than one document or entity type, our system will find the common properties present in all these types and let you filter based on those properties. In this example below, you can see how we use a common property (Country) to find information across document/entity types:
 
 ![Filters with common properties](http://huridocs.github.io/uwazi-assets/wiki/screenshots/filters-common.png)
+
+## AND/OR toggle
+
+Users can toggle between using an AND operator for the filter or using the OR operator. 
+Using the AND operator will display the documents or entities that contain all the properties for which you are filtering. 
+Using the OR operator will display the documents or entities that contain at least one of the properties for which you are filtering.
