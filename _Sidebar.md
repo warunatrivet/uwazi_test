@@ -20,7 +20,6 @@
 * Add documents and entities to your collection
     * [Upload and publish documents](https://github.com/huridocs/uwazi/wiki/Upload-and-publish-documents)
     * [Add entities](https://github.com/huridocs/uwazi/wiki/Create-entities)
-    * [Add translated documents](https://github.com/huridocs/uwazi/wiki/Translation-workflow)
 * Organise your collection
     * [Open and view a document](https://github.com/huridocs/uwazi/wiki/Open-and-view-a-document)
     * [Apply properties](https://github.com/huridocs/uwazi/wiki/Apply-properties)
