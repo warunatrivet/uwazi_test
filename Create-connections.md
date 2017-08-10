@@ -8,7 +8,8 @@ To create a new connection, just click on the **Create** button:
 
 ![Create a connection](http://huridocs.github.io/uwazi-assets/wiki/screenshots/connections-create.png?ver=1)
 
-In the next step you will be able to select the _connection type_ and the _target document/entity_. You can read more about [Connections setup](https://github.com/huridocs/uwazi/wiki/Name-connections) to create new kind of connections and use them on your collection.
+In the next step you will be able to select the _connection type_ and the _target document/entity_. Use the search field to find your connection's _target document/entity_ by typing in words from the title of the document/entity.
+You can read more about [Connections setup](https://github.com/huridocs/uwazi/wiki/Name-connections) to create new kind of connections and use them on your collection.
 
 ![Connection data](http://huridocs.github.io/uwazi-assets/wiki/screenshots/connection-data.png?ver=1)
 
