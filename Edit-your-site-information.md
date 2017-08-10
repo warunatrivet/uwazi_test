@@ -34,7 +34,7 @@ This setting takes precedence over all other mailer configuration. If left blank
 
 ## Google Analytics
 
-You can use Google Analytics to track website visits by adding your [Google Analytics ID](https://support.google.com/analytics/answer/3123666?hl=en) to Uwazi. 
+You can use Google Analytics to track website visits by adding your [Google Analytics ID](https://support.google.com/analytics/answer/3123666?hl=en) to Uwazi under Settings > Collection. 
 
 ![Google Analytics field](http://www.uwazi.io/wp-content/uploads/2017/08/GA-Uwazi.png) 
 
