@@ -2,7 +2,11 @@ Properties provide an important way for users to:
 1. View important attributes at a glance (in the right sidebar), and 
 2. Filter the collection to better understand and analyse the collection.
 
-Applying properties to your documents or entities involves clicking _Edit_ and filling in the property fields with the relevant information. In this user guide we've included additional instructions on how to:
+Applying properties to your documents or entities involves clicking _Edit_ and filling in the property fields with the relevant information. 
+
+![Apply properties gif](http://g.recordit.co/Jx0Sh9FvDQ.gif)
+
+On this user guide page, we've included additional instructions on how to:
 
 * [Add date property information](https://github.com/huridocs/uwazi/wiki/Apply-properties#add-date-property-information)
 * [Embed a YouTube video](https://github.com/huridocs/uwazi/wiki/Apply-properties#embed-a-youtube-video)
