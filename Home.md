@@ -1,5 +1,6 @@
 ![Uwazi logo](http://huridocs.github.io/uwazi-assets/wiki/logo.png)
-### Uwazi is an innovative software solution designed to help human rights organisations organise, analyse and publish their documents, so that the information within them is more accessible and easier to analyse. 
+
+Uwazi is an innovative software solution designed to help human rights organisations organise, analyse and publish their documents, so that the information within them is more accessible and easier to analyse. 
 
 > “Information and documentation are the only weapons of human rights NGOs – so we better make sure we’re damn good at it, and better than the others.” – Hans Thoolen, HURIDOCS co-founder
 
@@ -22,7 +23,3 @@ In 2010, HURIDOCS partnered with Institute for Human Rights and Development in A
 Through consultations with human rights organisations, we learned that document collections are not helpful unless they can be connected to a bigger narrative: case documents need to be connected to judgement documents, judgement documents needs to be connected to judges, and so on. All of this information needs to be organised, in order to be understood. HURIDOCS built Uwazi to address these needs. We continue to develop new features in response to feedback from our users.
 
 Significant funding for Uwazi development has been provided by the MacArthur Foundation and the Center for Justice and International Law (CEJIL).
-
-
-# Spanish User Guide
-* [¿Qué es Uwazi?](https://github.com/huridocs/uwazi/wiki/%C2%BFQu%C3%A9-es-Uwazi%3F)
