@@ -1,39 +1,31 @@
 # English user guide
-* Uwazi basics
+* Interacting with your PandaPay Customer
     * [Glossary of terms](https://github.com/huridocs/uwazi/wiki/Glossary-of-terms)
-* Hosting options
+* Interacting with your PandaPay Donations
     * [Install Uwazi on your server](https://github.com/huridocs/uwazi/wiki/Install-Uwazi-on-your-server)
     * [Host Uwazi with us](https://github.com/huridocs/uwazi/wiki/Host-Uwazi-with-HURIDOCS)
-* Manage settings and configurations
+* Interacting with your PandaPay Grants
     * [Edit your account information](https://github.com/huridocs/uwazi/wiki/Edit-your-account-information)
     * [Manage users](https://github.com/huridocs/uwazi/wiki/Manage-users)
     * [Edit your site information](https://github.com/huridocs/uwazi/wiki/Edit-your-site-information)
     * [Create pages](https://github.com/huridocs/uwazi/wiki/Create-pages) and use [custom syntax](https://github.com/huridocs/uwazi/wiki/Custom-Syntax)
     * [Configure navigation menu links](https://github.com/huridocs/uwazi/wiki/Configure-navigation-menu-links)
     * [Configure filters](https://github.com/huridocs/uwazi/wiki/Configure-filters)
-* Build your information architecture
+* Interacting with your PandaPay Recurrent Billing
     * [Create document type](https://github.com/huridocs/uwazi/wiki/Create-document-types)
     * [Create entity type](https://github.com/huridocs/uwazi/wiki/Create-entity-types)
     * [Create dictionaries](https://github.com/huridocs/uwazi/wiki/Create-dictionaries)
     * [Name connections](https://github.com/huridocs/uwazi/wiki/Name-connections)
-* Add documents and entities to your collection
+* Interacting with your PandaPay Account Balances
     * [Upload and publish documents](https://github.com/huridocs/uwazi/wiki/Upload-and-publish-documents)
     * [Add entities](https://github.com/huridocs/uwazi/wiki/Create-entities)
-* Organise your collection
+* Interacting with your PandaPay Searches
     * [Open and view a document](https://github.com/huridocs/uwazi/wiki/Open-and-view-a-document)
     * [Apply properties](https://github.com/huridocs/uwazi/wiki/Apply-properties)
     * [Create connections](https://github.com/huridocs/uwazi/wiki/Create-connections)
     * [Create a table of contents](https://github.com/huridocs/uwazi/wiki/Create-a-table-of-contents)
     * [Create references](https://github.com/huridocs/uwazi/wiki/Create-references)
     * [Upload files to a document or entity](https://github.com/huridocs/uwazi/wiki/Upload-files-to-a-document-or-entity)
-* Search and filter your collection
-    * [Search](https://github.com/huridocs/uwazi/wiki/Search)
-    * [Filter](https://github.com/huridocs/uwazi/wiki/Filter)
-* Translate your collection
-    * [How to translate content](https://github.com/huridocs/uwazi/wiki/How-to-translate-content)
-    * [Upload translated documents](https://github.com/huridocs/uwazi/wiki/Upload-translated-documents)
-    * [Translate document metadata and filters](https://github.com/huridocs/uwazi/wiki/Translate-document-metadata-and-filters)
-    * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
 
 ***
 # Spanish user guide
