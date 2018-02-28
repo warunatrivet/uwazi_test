@@ -1,4 +1,4 @@
-Settings > filters allows you to pick-up which document types and entities are going to be display atop the side panel with the filtering options for the library. It also lets you rearrange the order and group them so users have a better understanding on the structure of your document collection.
+Settings > filters allows you to pick-up which document types and entities are going to be displayed atop the side panel with the filtering options in the library. It also lets you rearrange the order and group them so users have a better understanding on the structure of your document collection.
 
 1. Click on the gear icon in the top right corner of the site
 
@@ -13,3 +13,15 @@ Settings > filters allows you to pick-up which document types and entities are g
 Users will see the available filters on the library:
 
 ![Available filters](http://www.uwazi.io/wp-content/uploads/2017/04/filters-display.png)
+
+## Default filters
+
+Default filters can be configured in documents and entities metadata in settings by checking the option "Default filter". 
+
+These filters are presented to the user when no document or entity type is selected. Ideally, use this option for relevant filters affecting several documents and entity types.
+
+
+
+
+
+
