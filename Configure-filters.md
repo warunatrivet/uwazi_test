@@ -18,8 +18,11 @@ Users will see the available filters on the library:
 
 Default filters can be configured in documents and entities metadata in settings by checking the option "Default filter". 
 
+![](https://github.com/huridocs/uwazi-assets/raw/master/wiki/screenshots/default-filter-checkbox.png)
+
 These filters are presented to the user when no document or entity type is selected. Ideally, use this option for relevant filters affecting several documents and entity types.
 
+![](https://github.com/huridocs/uwazi-assets/raw/master/wiki/screenshots/default-filter-in-action.png)
 
 
 
