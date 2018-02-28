@@ -1,4 +1,4 @@
-In your settings, you can configure what information is filterable for your user.  
+Settings > filters allows you to pick-up which document types and entities are going to be display atop the side panel with the filtering options for the library. It also lets you rearrange the order and group them so users have a better understanding on the structure of your document collection.
 
 1. Click on the gear icon in the top right corner of the site
 
