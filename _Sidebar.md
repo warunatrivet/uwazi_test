@@ -11,6 +11,7 @@
     * [Create pages](https://github.com/huridocs/uwazi/wiki/Create-pages) and use [custom syntax](https://github.com/huridocs/uwazi/wiki/Custom-Syntax)
     * [Configure navigation menu links](https://github.com/huridocs/uwazi/wiki/Configure-navigation-menu-links)
     * [Configure filters](https://github.com/huridocs/uwazi/wiki/Configure-filters)
+    * [Make you collection private](https://github.com/huridocs/uwazi/wiki/Make-your-collection-private)
 * Build your information architecture
     * [Create document type](https://github.com/huridocs/uwazi/wiki/Create-document-types)
     * [Create entity type](https://github.com/huridocs/uwazi/wiki/Create-entity-types)
