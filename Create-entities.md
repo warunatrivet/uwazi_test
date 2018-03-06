@@ -5,8 +5,8 @@ Before you create a new entity, you will want to [create your entity template(s)
 
 Create a new entity by clicking on the upload icon in the top right corner of the site.
 
-![upload](http://www.uwazi.io/wp-content/uploads/2017/04/doc-upload.png)
+![upload](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/uploads_link.jpg)
 
 Then click the _add entity_ button in the bottom right corner of the site.
 
-![add entity](http://www.uwazi.io/wp-content/uploads/2017/04/new-entity-1.png)
+![add entity](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/new_entity.jpg)
