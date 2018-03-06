@@ -2,11 +2,11 @@ In your settings, you can edit your site information such as: the name of your s
 
 1. Click on the gear icon in the top right corner of the site
 
-![Gear icon](http://www.uwazi.io/wp-content/uploads/2017/04/gear-icon.png)
+![Gear icon](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/settings_link.jpg)
 
 2. Click on _Collection_
 
-![Site info](http://www.uwazi.io/wp-content/uploads/2017/04/site-info.png)
+![Site info](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/collection.jpg)
 
 # Name
 This is easy: your collection name :)
@@ -36,7 +36,7 @@ This setting takes precedence over all other mailer configuration. If left blank
 
 You can use Google Analytics to track website visits by adding your [Google Analytics ID](https://support.google.com/analytics/answer/3123666?hl=en) to Uwazi under Settings > Collection. 
 
-![Google Analytics field](http://www.uwazi.io/wp-content/uploads/2017/08/GA-Uwazi.png) 
+![Google Analytics field](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/analytics.jpg) 
 
 ## Custom header
 
