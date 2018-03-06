@@ -33,6 +33,7 @@
     * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
 * Uwazi basics
     * [Glossary of terms](https://github.com/huridocs/uwazi/wiki/Glossary-of-terms)
+    * [The history of Uwazi](https://github.com/huridocs/uwazi/wiki/History-of-Uwazi)
 * Hosting options
     * [Install Uwazi on your server](https://github.com/huridocs/uwazi/wiki/Install-Uwazi-on-your-server)
     * [Host Uwazi with us](https://github.com/huridocs/uwazi/wiki/Host-Uwazi-with-HURIDOCS)
