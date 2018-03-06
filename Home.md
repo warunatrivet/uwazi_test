@@ -1,4 +1,4 @@
-![Uwazi logo](http://huridocs.github.io/uwazi-assets/wiki/logo.png)
+![Uwazi logo](http://huridocs.github.io/uwazi-assets/wiki/logo.png | width=100)
 
 Uwazi is an innovative software solution designed to help human rights organisations organise, analyse and publish their documents, so that the information within them is more accessible and easier to analyse. 
 
