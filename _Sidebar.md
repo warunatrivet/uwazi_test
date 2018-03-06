@@ -4,14 +4,6 @@
     * [Create entity type](https://github.com/huridocs/uwazi/wiki/Create-entity-types)
     * [Create dictionaries](https://github.com/huridocs/uwazi/wiki/Create-dictionaries)
     * [Name connections](https://github.com/huridocs/uwazi/wiki/Name-connections)
-* Manage settings and configurations
-    * [Edit your account information](https://github.com/huridocs/uwazi/wiki/Edit-your-account-information)
-    * [Manage users](https://github.com/huridocs/uwazi/wiki/Manage-users)
-    * [Edit your site information](https://github.com/huridocs/uwazi/wiki/Edit-your-site-information)
-    * [Create pages](https://github.com/huridocs/uwazi/wiki/Create-pages) and use [custom syntax](https://github.com/huridocs/uwazi/wiki/Custom-Syntax)
-    * [Configure navigation menu links](https://github.com/huridocs/uwazi/wiki/Configure-navigation-menu-links)
-    * [Configure filters](https://github.com/huridocs/uwazi/wiki/Configure-filters)
-    * [Make your collection private](https://github.com/huridocs/uwazi/wiki/Make-your-collection-private)
 * Add documents and entities to your collection
     * [Upload and publish documents](https://github.com/huridocs/uwazi/wiki/Upload-and-publish-documents)
     * [Add entities](https://github.com/huridocs/uwazi/wiki/Create-entities)
@@ -26,6 +18,14 @@
 * Search and filter your collection
     * [Search](https://github.com/huridocs/uwazi/wiki/Search)
     * [Filter](https://github.com/huridocs/uwazi/wiki/Filter)
+* Manage settings and configurations
+    * [Edit your account information](https://github.com/huridocs/uwazi/wiki/Edit-your-account-information)
+    * [Manage users](https://github.com/huridocs/uwazi/wiki/Manage-users)
+    * [Edit your site information](https://github.com/huridocs/uwazi/wiki/Edit-your-site-information)
+    * [Create pages](https://github.com/huridocs/uwazi/wiki/Create-pages) and use [custom syntax](https://github.com/huridocs/uwazi/wiki/Custom-Syntax)
+    * [Configure navigation menu links](https://github.com/huridocs/uwazi/wiki/Configure-navigation-menu-links)
+    * [Configure filters](https://github.com/huridocs/uwazi/wiki/Configure-filters)
+    * [Make your collection private](https://github.com/huridocs/uwazi/wiki/Make-your-collection-private)
 * Translate your collection
     * [How to translate content](https://github.com/huridocs/uwazi/wiki/How-to-translate-content)
     * [Upload translated documents](https://github.com/huridocs/uwazi/wiki/Upload-translated-documents)
