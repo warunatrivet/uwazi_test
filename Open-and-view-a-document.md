@@ -2,8 +2,8 @@ In the library section, you will find your entire document collection. Each docu
 
 hover over the document card and click on the _document_ icon:
 
-![Hover and click view icon](http://www.uwazi.io/wp-content/uploads/2017/04/hover-document-view.png)
+![Hover and click view icon](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/open_card.jpg)
 
 or, click on the card to open the right side panel and then click on the _document_ icon:
 
-![Open side bar and click view](http://www.uwazi.io/wp-content/uploads/2017/04/click-view-document.png)
+![Open side bar and click view](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/open_sidepanel.jpg)
