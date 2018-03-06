@@ -14,7 +14,7 @@ Under _Entities_, you can view, edit, and delete existing entity types.
 
 1. Click on the gear icon in the top right corner of the site.
 
-![Gear icon](http://www.uwazi.io/wp-content/uploads/2017/04/gear-icon.png)
+![Gear icon](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/settings_link.jpg)
 
 2. Go to _Entities_.
 3. Click on _Add entity_.
@@ -22,6 +22,6 @@ Under _Entities_, you can view, edit, and delete existing entity types.
 5. Apply properties by dragging them into the designated box. 
 6. Click _Save_.
 
-![New template](http://www.uwazi.io/wp-content/uploads/2017/04/doc-template.png)
+![New template](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/new_document_entity.jpg)
 
 Note: When you add a **multi-select property** to a type, you will see a field titled _Thesauri_ in which you can select a _Dictionary_ or an _Entity type_ that you have already created. See the section on [managing your dictionaries](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#manage-your-dictionaries) for more information on how to create these dictionaries. 
