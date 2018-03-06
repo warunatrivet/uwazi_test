@@ -1,9 +1,4 @@
 # English user guide
-* Uwazi basics
-    * [Glossary of terms](https://github.com/huridocs/uwazi/wiki/Glossary-of-terms)
-* Hosting options
-    * [Install Uwazi on your server](https://github.com/huridocs/uwazi/wiki/Install-Uwazi-on-your-server)
-    * [Host Uwazi with us](https://github.com/huridocs/uwazi/wiki/Host-Uwazi-with-HURIDOCS)
 * Manage settings and configurations
     * [Edit your account information](https://github.com/huridocs/uwazi/wiki/Edit-your-account-information)
     * [Manage users](https://github.com/huridocs/uwazi/wiki/Manage-users)
@@ -36,7 +31,11 @@
     * [Upload translated documents](https://github.com/huridocs/uwazi/wiki/Upload-translated-documents)
     * [Translate document metadata and filters](https://github.com/huridocs/uwazi/wiki/Translate-document-metadata-and-filters)
     * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
-
+* Uwazi basics
+    * [Glossary of terms](https://github.com/huridocs/uwazi/wiki/Glossary-of-terms)
+* Hosting options
+    * [Install Uwazi on your server](https://github.com/huridocs/uwazi/wiki/Install-Uwazi-on-your-server)
+    * [Host Uwazi with us](https://github.com/huridocs/uwazi/wiki/Host-Uwazi-with-HURIDOCS)
 ***
 # Spanish user guide
 * [¿Qué es Uwazi?](https://github.com/huridocs/uwazi/wiki/%C2%BFQu%C3%A9-es-Uwazi%3F)
