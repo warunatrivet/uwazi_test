@@ -20,7 +20,7 @@ On this user guide page, we've included additional instructions on how to:
 2. In your document or entity, click on _edit_.
 3. In the _date_ property, select a date by using the calendar or enter a date using the format: Mar 02, 2012
 
-![Enter date](http://www.uwazi.io/wp-content/uploads/2017/04/date-property.png)
+![Enter date](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/edit-date.jpg)
 
 ## Embed a YouTube video
 1. Add a _Rich text_ property to your template. You may want to title this property _video_. 
