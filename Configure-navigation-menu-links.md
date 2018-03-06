@@ -2,11 +2,11 @@ In your settings, you can configure navigation menu links to display at the top 
 
 1. Click on the gear icon in the top right corner of the site
 
-![Gear icon](http://www.uwazi.io/wp-content/uploads/2017/04/gear-icon.png)
+![Gear icon](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/settings_link.jpg)
 
 2. Click on _Menu_
 
-![Menu links](http://www.uwazi.io/wp-content/uploads/2017/04/menu-links.png)
+![Menu links](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/menu_links.jpg)
 
 3. Click on _Add link_ to add a new menu link. To add a link to a list of filter results, run that filter and copy the URL in your browser. Each filter you run in Uwazi has a unique URL so it is easy to share the results. 
 
