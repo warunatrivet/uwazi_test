@@ -6,3 +6,7 @@ Uwazi relationships support information hubs, that is, a concentrator that holds
 
 ![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationships-hubs-example.png)
 
+You can create and edit relationships by clicking on the "Edit" button at the bottom of the page. After adding, removing or renaming the connected entities or documents, click on save to store your changes:
+
+![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationships-edition.png)
+
