@@ -25,7 +25,7 @@ Former select and multiselect fields that used an entity template as options, ha
 
 This means, a Relationship field will behave as a regular multiselect, and at the same time, create a relationship of a particular type that will be displayed in the relationships tree view:
 
-![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationships-field-tree.png)
+![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationship-field-tree.png)
 
 
 
