@@ -8,6 +8,10 @@ Uwazi relationships support information hubs, that is, a concentrator that holds
 
 ![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationships-hubs-example.png)
 
+A hub denotes relationships that, not only make sense to have grouped, but that would INFER A RELATIONSHIP BETWEEN ALL ITS CHILDREN.
+
+So, if document A has a hub with documents B and C, then a relationship would be inferred between B and C also. Not only inferred but it actually exists. On the other hand, if you have document A with one hub to B and another hub to C, then B and C will have NO relationship between each other.
+
 ## Creating connections
 
 You can create and edit relationships by clicking on the "Edit" button at the bottom of the page. After adding, removing or renaming the connected entities or documents, click on save to store your changes:
