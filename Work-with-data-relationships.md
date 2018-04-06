@@ -35,4 +35,9 @@ And we configure a Relationship field with "Judges" as the target entity and "Si
 
 ![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationships-as-metadata-1.png)
 
+Moreover, this field can be used for filtering as a regular multiselect:
+
+![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationships-as-filter.png)
+
+
 
