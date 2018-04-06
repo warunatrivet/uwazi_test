@@ -33,6 +33,6 @@ Likewise, configuring a Relationship field for a set of connections that already
 
 And we configure a Relationship field with "Judges" as the target entity and "Signers" as the relationship type, it will be presented in the metadata as:
 
-![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationships-metadata-example.png)
+![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationships-as-metadata.png)
 
 
