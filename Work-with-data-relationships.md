@@ -41,7 +41,7 @@ Moreover, this field can be used for filtering as a regular multiselect:
 
 Also, you can configure this field as the rest of the metadata fields:
 
-![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationships-field-config-2.png)
+![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationship-field-config-2.png)
 
 - Required: will force a particular entity of document to have at least one relationship of a particular type. Ie, all documents must have a country.
 - Show in cards: will display the relationships as metadata en the grid cards.
