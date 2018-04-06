@@ -27,9 +27,9 @@ This means, a Relationship field will behave as a regular multiselect, and at th
 
 ![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationship-field-tree.png)
 
+Likewise, configuring a Relationship field for a set of connections that already exist, will display these connections as a multiselect field. Ie. we added some connections as signers of a document:
 
-
-
+![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationships-example-1.png)
 
 
 
