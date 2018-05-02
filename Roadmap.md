@@ -1,7 +1,7 @@
 ## Short term
-* Finish relationships
+* Finish relationships. Our new relationships features still need much improvement to fully unfold its potential. Based on user feedback and our own ideas, notably:
+  * Be able to regroup scattered connections in a hub.
 
-  Our new relationships features still need much improvement to fully unfold its potential.
 * Library and document search improvement (several issues)
 * More accessible documents (show text, etc). Goes along with PDF.js
 * PDF pre-render, show text + several usability and SEO improvements, faster opening. Document thumbnail.
