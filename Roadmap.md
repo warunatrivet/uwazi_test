@@ -8,10 +8,14 @@
   * By able to group by entity type and connection type, instead of hubs.
   * Be able to create entities and documents from the relationships tree.
   * Be able to create new relationship types from the relationships tree.
+  * Several small tweaks and bug fixes.
 
-* Library and document search improvement (several issues)
-* More accessible documents (show text, etc). Goes along with PDF.js
-* PDF pre-render, show text + several usability and SEO improvements, faster opening. Document thumbnail.
+* Library and document search improvements. Full text search has several issues, with little effort we can offer our users better results and access to the information.
+* More accessible documents.
+  * Be able to render a text version of the document. Needed for screen readers, search engines and to have proper copy/paste.
+  * Detach our text references from a particular PDF.js version. So we can keep that library up to date.
+  * Have a pre-render so documents load faster.
+  * Have a document thumbnail with the first page.
 * Geo-location
 * Graphs
 * Support for video and image document types or field types
