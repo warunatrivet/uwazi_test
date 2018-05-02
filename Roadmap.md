@@ -2,7 +2,7 @@
 * Finish relationships. Our new relationships features still need much improvement to fully unfold its potential. Based on user feedback and our own ideas, notably:
   * Be able to regroup scattered connections in a hub.
   * Filtering by connection metadata.
-  * Connection can also be rendered in the side panel, both in library and in connections view (that would be, the connections of something connected)
+  * Connections can also be rendered in the side panel, both in library and in connections view (that would be, the connections of something connected).
 
 * Library and document search improvement (several issues)
 * More accessible documents (show text, etc). Goes along with PDF.js
