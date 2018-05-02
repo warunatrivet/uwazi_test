@@ -1,5 +1,6 @@
 ## Short term
 * Finish relationships
+
   Our new relationships features still need much improvement to fully unfold its potential.
 * Library and document search improvement (several issues)
 * More accessible documents (show text, etc). Goes along with PDF.js
