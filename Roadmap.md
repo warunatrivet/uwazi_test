@@ -9,6 +9,7 @@
   * Be able to create entities and documents from the relationships tree.
   * Be able to create new relationship types from the relationships tree.
   * Several small tweaks and bug fixes.
+  * Admin interface for defining relationship metadata fields.
 
 * Library and document search improvements. Full text search has several issues, with little effort we can offer our users better results and access to the information.
 * More accessible documents.
