@@ -4,7 +4,10 @@
   * Filtering by connection metadata.
   * Connections can also be rendered in the side panel, both in library and in connections view (that would be, the connections of something connected).
   * Improve performance for high volume of relationships.
-  * Admins can define a default view (grouping and sorting)
+  * Admins can define a default view (grouping, filtering and sorting)
+  * By able to group by entity type and connection type, instead of hubs.
+  * Be able to create entities and documents from the relationships tree.
+  * Be able to create new relationship types from the relationships tree.
 
 * Library and document search improvement (several issues)
 * More accessible documents (show text, etc). Goes along with PDF.js
