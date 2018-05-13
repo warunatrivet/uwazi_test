@@ -40,6 +40,12 @@ A user has three fields to be completed:
 - E-Mail
 - Role (Editor or Admin).
 
-We will send an email to that person with a link to set the user's password.
+We will send an email to that person with a link to set the user's password. 
+
+Note that if you are hosting your own Uwazi, if you are accessing the instance as localhost, for instance: http://localhost:3000/settings to send the invitation, it will use that address as the instance URL.
+
+So, if you have a proper domain, please, create the account from that url, for instance: http://yourdoumain.com/settings. This will send a 'yourdomain.com' URL.
+
+If you are using a local IP, for an intranet installation, then use something like http://192.168.xx.yy/settings for it to send with that address.
 
 ![New user](http://huridocs.github.io/uwazi-assets/wiki/screenshots/users-new.png)
