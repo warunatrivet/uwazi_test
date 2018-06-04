@@ -18,7 +18,7 @@
   * Have a pre-render so documents load faster.
   * Have a document thumbnail with the first page.
 * Geo-location
-* Graphs
+* Graphs - Build a user interface to allow admins to create their own graphs and charts. 
 * Support for video and image document types or field types
 * Several sorting issues
 * Unpublished documents workflow
