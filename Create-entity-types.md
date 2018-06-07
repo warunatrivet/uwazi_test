@@ -20,8 +20,9 @@ Under _Entities_, you can view, edit, and delete existing entity types.
 2. Go to _Entity types_.
 3. Click on _Add entity type_.
 4. You will see two default properties: _Title_, and _Date added_. 
-5. Apply properties by dragging them into the designated box. 
-6. Click _Save_.
+5. Add properties by dragging them into the designated box. 
+6. Edit the Name of the property that you are adding.
+7. Click _Save_.
 
 ![New template](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/new_document_entity.jpg)
 
