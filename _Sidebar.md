@@ -2,7 +2,7 @@
 * Build your information architecture
     * [Create document type](https://github.com/huridocs/uwazi/wiki/Create-document-types)
     * [Create entity type](https://github.com/huridocs/uwazi/wiki/Create-entity-types)
-    * [Create thesauri](https://github.com/huridocs/uwazi/wiki/Create-dictionaries)
+    * [Create thesauri](https://github.com/huridocs/uwazi/wiki/Create-thesauri)
     * [Name connections](https://github.com/huridocs/uwazi/wiki/Name-connections)
 * Add documents and entities to your collection
     * [Upload and publish documents](https://github.com/huridocs/uwazi/wiki/Upload-and-publish-documents)
