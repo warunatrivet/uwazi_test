@@ -30,4 +30,4 @@ When adding a new property to a document or entity type, you can choose whether 
 
 ![property options](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/document_properties.jpg)
 
-Note: When you add a **multi-select property** to a type, you will see a field titled _Thesauri_ in which you can select a _Dictionary_ or an _Entity type_ that you have already created. See the section on [managing your dictionaries](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#manage-your-dictionaries) for more information on how to create these dictionaries. 
+Note: When you add a **multi-select property** to a type, you will see a field titled _Thesauri_ in which you can select a _Dictionary_ or an _Entity type_ that you have already created. See the section on [managing your dictionaries](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#manage-your-dictionaries) for more information on how to work with dictionaries. 
