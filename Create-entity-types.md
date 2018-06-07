@@ -1,4 +1,4 @@
-Types allow you to collect structured, consistent metadata on your entities. Within each type, you can assign properties:
+Entity Types allow you to attribute structured, consistent metadata to your entities. Within each Entity type, you can assign properties:
 * text 
 * numeric
 * select
