@@ -3,8 +3,9 @@ Document types allow you to attribute structured, consistent metadata to your do
 * numeric
 * select
 * multi-select
-* date
+* date, date range, multi date, multi date range
 * rich text
+* geolocation
 
 For example, you may want to create a document type called "NGO Reports" which will contain properties such as title, date published, NGO author, etc. You will create one document type for each kind of document that has a distinct set of properties.
 
