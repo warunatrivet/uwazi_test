@@ -20,7 +20,7 @@ Under _Documents_, you can view, edit, and delete existing document types.
 2. Go to _Document Types_.
 3. Click on _Add document type_ under _Document types_.
 4. You will see two default properties: _Title_, and _Date added_. 
-5. Apply properties by dragging them into the designated box. 
+5. Add properties by dragging them into the designated box. 
 6. Edit the Name of the property that you are adding.
 7. Click _Save_.
 
