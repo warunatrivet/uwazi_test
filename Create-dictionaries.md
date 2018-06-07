@@ -7,7 +7,6 @@ You can view, edit and delete your existing dictionaries by going to _Dictionari
 1. Click on the gear icon in the top right corner of the site.
 
 ![Gear icon](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/settings_link.jpg)
-
 2. Go to _Dictionaries_
 3. Click on _Add dictionary_ under _Dictionaries_. 
 4. Name your dictionary. 
