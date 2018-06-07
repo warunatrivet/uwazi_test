@@ -17,10 +17,12 @@ Under _Documents_, you can view, edit, and delete existing document types.
 
 ![Gear icon](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/settings_link.jpg)
 
-2. Go to _Documents_.
-3. Click on _Add document_ under _Documents_.
+2. Go to _Document Types_.
+3. Click on _Add document type_ under _Document types_.
 4. You will see two default properties: _Title_, and _Date added_. 
 5. Apply properties by dragging them into the designated box. 
+6. Edit the Name of the property that you are adding.
+7. Indicate whether the property is required, whether it should be shown in Cards or used as a filter.
 6. Click _Save_.
 
 ![New template](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/new_document_entity.jpg)
