@@ -1,4 +1,4 @@
-A dictionary in Uwazi is a list of terms that you will reference in the properties. For example, you may want to create a dictionary for countries so that you can refer to this list when you add the _country_ property to your document template.
+A dictionary in Uwazi is a list of terms that you will reference in the properties. For example, you may want to create a dictionary for countries so that you can refer to this list when you add the _country_ property to your document template. Using dictionaries will make data entry and retrieval more precise, coherent and easy.
 
 You can view, edit and delete your existing dictionaries by going to _Dictionaries_.
 
