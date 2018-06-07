@@ -7,8 +7,8 @@ Create a new entity by clicking on the upload icon in the top right corner of th
 
 ![upload](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/uploads_link.jpg)
 
-Give the entity a title, indicate the type of entity
-
-Then click the _save_ button in the bottom right corner of the site.
+Give the entity a title, indicate the type of entity and other characteristics.
 
 ![add entity](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/new_entity.jpg)
+
+Then click the _save_ button in the bottom right corner of the site.
