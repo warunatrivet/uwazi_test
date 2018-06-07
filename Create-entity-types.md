@@ -3,10 +3,11 @@ Entity Types allow you to attribute structured, consistent metadata to your enti
 * numeric
 * select
 * multi-select
-* date
+* date, date range, multi date, multi date range
 * rich text
+* geolocation
 
-For example, you may want to create an entity type called "Court" which will contain properties such as name, judge, location, etc. You will create one entity type for each kind of entity that has a distinct set of properties.
+For example, you may want to create an entity type called "Court" which will contain properties such as name, judges, location, etc. You will create one entity type for each entity that has a distinct set of properties.
 
 Under _Entities_, you can view, edit, and delete existing entity types. 
 
@@ -16,8 +17,8 @@ Under _Entities_, you can view, edit, and delete existing entity types.
 
 ![Gear icon](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/settings_link.jpg)
 
-2. Go to _Entities_.
-3. Click on _Add entity_.
+2. Go to _Entity types_.
+3. Click on _Add entity type_.
 4. You will see two default properties: _Title_, and _Date added_. 
 5. Apply properties by dragging them into the designated box. 
 6. Click _Save_.
