@@ -1,4 +1,4 @@
-Document types allow you to attribute structured, consistent metadata to your documents. Within each template, you can assign properties of the type:
+Document types allow you to attribute structured, consistent metadata to your documents. For each document template, you can assign properties of the type:
 * text 
 * numeric
 * select
