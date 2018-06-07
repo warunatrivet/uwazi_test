@@ -26,7 +26,7 @@ Under _Documents_, you can view, edit, and delete existing document types.
 
 ![New template](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/new_document_entity.jpg)
 
-When adding a new property to a document or entity type, you can choose whether you want that property to: be required, show in the library cards, and/or be included in the list of filters for which your users have access. 
+When adding a new property to a document or entity type, you can choose whether you want that property to: be required, to be shown in the library cards, and/or to be included in the list of filters to which your users have access. 
 
 ![property options](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/document_properties.jpg)
 
