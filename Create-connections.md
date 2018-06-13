@@ -2,9 +2,9 @@ Connections allow you to link up two documents or entities without any hierarchi
 
 You can see all the connections a document has on the right panel, clicking on the **Connections** tab. Notice that you can create a connection **inside** the document, not from Library (we will improve this soon).
 
-![Connections tab](http://huridocs.github.io/uwazi-assets/wiki/screenshots/connections-base.png?ver=1)
+![Connections tab](http://huridocs.github.io/uwazi-assets/wiki/screenshots/connections-base-new.png?ver=1)
 
-To create a new connection, just click on the **Create** button:
+To create a new connection, just click on the **Edit** button and then on the Add entities / documents +:
 
 ![Create a connection](http://huridocs.github.io/uwazi-assets/wiki/screenshots/connections-create.png?ver=1)
 
