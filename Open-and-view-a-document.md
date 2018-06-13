@@ -2,7 +2,7 @@ In the library section, you will find your entire document collection. Each docu
 
 hover over the document card and click on the _document_ icon:
 
-![Hover and click view icon](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/open_card.jpg)
+![Hover and click view icon](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/open_card.png)
 
 or, click on the card to open the right side panel and then click on the _document_ icon:
 
