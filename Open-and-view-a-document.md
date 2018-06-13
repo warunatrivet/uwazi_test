@@ -6,4 +6,4 @@ hover over the document card and click on the _document_ icon:
 
 or, click on the card to open the right side panel and then click on the _document_ icon:
 
-![Open side bar and click view](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/open_sidepanel.jpg)
+![Open side bar and click view](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/open_sidepanel.png)
