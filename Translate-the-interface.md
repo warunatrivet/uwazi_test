@@ -17,3 +17,8 @@ In Settings you can translate all the interface of your Uwazi site, such as butt
 ![Translate](http://huridocs.github.io/uwazi-assets/wiki/screenshots/translate-system.png)
 
 Note: The *base phrase* and the English phrase are usually the same, but you can freely modify the English one in case you found another phrase that suits better with your way of communication.
+
+## Live translation
+
+Its also possible to translate UI labels while navigating and Uwazi instance. While logged in as admin, click to the translations toggle in the top bar besides the language links:
+
