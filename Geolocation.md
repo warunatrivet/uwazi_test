@@ -11,3 +11,8 @@ The map will automatically group pins in clusters. Clicking on a cluster will ge
 Clicking on a map ping, or one of the results in the cluster, will display the entity details:
 
 ![Entity details](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/geolocation-entity-details.png)
+
+Configuring gelocation its a simple step. In order to add a geolocation field to an entity or document, drag and drop the field type in the templates configuration:
+
+![Adding a geolocation field](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/geolocation-settings.png)
+
