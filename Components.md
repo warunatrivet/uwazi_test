@@ -45,3 +45,29 @@ Will create a link to the library with a particular subselection of data.
 Will display the total for a particular option from a library filter (or aggregation). In this case for the property "type_of_case" and the value "931c8ec2-848d-4e70-a10a-5f8517d08db8" (Financial crime case). This requires knowledge of which value represents each database id. This information can be obtained by accessing https://your_uwazi_url/api. 
 
 The rest of the code is regular HTML than can be tweaked via [CSS customization](https://github.com/huridocs/uwazi/wiki/Customize-the-interface)
+
+## Bar chart
+```
+<BarChart property="nigerian_state" context="59d25ff4d841d62ab6858184" />
+```
+
+Will render:
+
+![Bar chart](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/component-graph-bar.png)
+
+## Pie chart
+```
+<PieChart property="type_of_court" context="59d259f4d841d62ab6858157" />
+```
+
+Will render:
+
+![Pie chart](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/component-pie-chart.png)
+
+## Card list
+
+```
+https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/component-card-list.png
+```
+Renders:
+![Card list](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/component-card-list.png)
