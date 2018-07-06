@@ -20,5 +20,7 @@ Note: The *base phrase* and the English phrase are usually the same, but you can
 
 ## Live translation
 
-Its also possible to translate UI labels while navigating and Uwazi instance. While logged in as admin, click to the translations toggle in the top bar besides the language links:
+It is also possible to translate UI labels while navigating and Uwazi instance. While logged in as admin, click  on the translations toggle in the top bar besides the language links:
+
+![Activate inline translations](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/translate-activate.png)
 
