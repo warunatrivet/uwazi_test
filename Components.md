@@ -67,7 +67,7 @@ Will render:
 ## Card list
 
 ```
-https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/component-card-list.png
+{list}(https://your_uwazi_url/en/library/?q=(order:desc,sort:creationDate))(limit:3)
 ```
 Renders:
 ![Card list](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/component-card-list.png)
