@@ -33,7 +33,7 @@
     * [Upload translated documents](https://github.com/huridocs/uwazi/wiki/Upload-translated-documents)
     * [Translate document metadata and filters](https://github.com/huridocs/uwazi/wiki/Translate-document-metadata-and-filters)
     * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
-    * [Customize the interface](https://github.com/huridocs/uwazi/wiki/customize-interface)
+    * [Customize the interface](https://github.com/huridocs/uwazi/wiki/Customize-the-interface)
     * [Data Visualization Components](https://github.com/huridocs/uwazi/wiki/components)
 * Uwazi basics
     * [Glossary of terms](https://github.com/huridocs/uwazi/wiki/Glossary-of-terms)
