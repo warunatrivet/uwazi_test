@@ -32,7 +32,13 @@ Explained:
 ```
 <Dataset />
 ```
-Will inject the data from the default library query so its available to be used as data source for the components.
+Will inject the data from the default library query so its available to be used as data source for the components. This includes all aggregations for all filters.
+
+You can create other datasets based on library queries that will provide different aggregations for your charts and graphs:
+
+```
+<Dataset name='a_name_to_refer_this_dataset' url'http://localhost:3000/?q=(filters:(super_powers:(values:!(ecff0687-19c0-459c-bcbe-0e8d78e1a919))),order:desc,sort:creationDate,types:!(%2758ad7d240d44252fee4e61fd%27))' />
+```
 
 ```
 <MarkdownLink url="https://your_uwazi_url/en/library/?q=(filters:(type_of_case:(values:!(%27931c8ec2-848d-4e70-a10a-5f8517d08db8%27))),order:desc,sort:creationDate,types:!(%2759d25a6fd841d62ab685815d%27))">
