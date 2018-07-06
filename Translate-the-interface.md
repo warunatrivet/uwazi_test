@@ -24,3 +24,10 @@ It is also possible to translate UI labels while navigating and Uwazi instance. 
 
 ![Activate inline translations](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/translate-activate.png)
 
+This will highlight all translatable items in the current view:
+
+![Highlight translatables](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/translate-highlights.png)
+
+Click on the item you want to translate, add the translations and save =)
+
+![Translate dialog](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/translate-dialog.png)
