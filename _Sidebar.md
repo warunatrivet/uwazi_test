@@ -24,7 +24,7 @@
     * [Edit your account information](https://github.com/huridocs/uwazi/wiki/Edit-your-account-information)
     * [Manage users](https://github.com/huridocs/uwazi/wiki/Manage-users)
     * [Edit your site information](https://github.com/huridocs/uwazi/wiki/Edit-your-site-information)
-    * [Create pages](https://github.com/huridocs/uwazi/wiki/Create-pages) and use [custom syntax](https://github.com/huridocs/uwazi/wiki/Custom-Syntax)
+    * [Create pages](https://github.com/huridocs/uwazi/wiki/Create-pages)
     * [Configure navigation menu links](https://github.com/huridocs/uwazi/wiki/Configure-navigation-menu-links)
     * [Configure filters](https://github.com/huridocs/uwazi/wiki/Configure-filters)
     * [Make your collection private](https://github.com/huridocs/uwazi/wiki/Make-your-collection-private)
