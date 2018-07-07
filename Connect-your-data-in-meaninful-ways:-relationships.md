@@ -52,6 +52,11 @@ Also, you can configure this field as the rest of the metadata fields:
 - Use as filter: this relationship can be filtered in the library.
 - Default filter: this filter will be shown regardless of document and entity types being selected.
 
+## Working with hubs
+
+You can move relationships between hubs to make sure you data is properly grouped. When in relationships view, hit the "Edit" button and use the available controls to configure your connections:
+
+![Editing hubs](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationships-edit-hubs.png)
 
 
 
