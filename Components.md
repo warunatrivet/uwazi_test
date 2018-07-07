@@ -61,6 +61,8 @@ Will render:
 
 ![Bar chart](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/component-graph-bar.png)
 
+Context is used for pulling out translations for the labels. This value is the id of the thesaurus, if labels are coming from a thesaurus and the id of the entity template, if its coming from using templates as select options.
+
 ## Pie chart
 ```
 <PieChart property="type_of_court" context="59d259f4d841d62ab6858157" />
