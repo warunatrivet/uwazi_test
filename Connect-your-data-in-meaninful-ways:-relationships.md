@@ -58,6 +58,10 @@ You can move relationships between hubs to make sure you data is properly groupe
 
 ![Editing hubs](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationships-edit-hubs.png)
 
+## Text references in relationship view
 
+Text references are also rendered in relationships view:
+
+![Text references in relationships](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationships-text-references.png)
 
 
