@@ -79,3 +79,5 @@ Will render:
 ```
 Renders:
 ![Card list](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/component-card-list.png)
+
+This syntax will display an arbitrary number of cards, defined by the param "limit", based on a library query URL.
