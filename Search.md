@@ -2,10 +2,19 @@ A simple way to search documents or entities in your collection is using the **S
 
 ![Search box on library](http://huridocs.github.io/uwazi-assets/wiki/screenshots/Search_base_new.png)
 
-Once you start typing something in that box, we will suggest some direct links to documents and entities matching your query.
+You can perform a generic search, which will show any terms mentioned in the search query.
 
-![Search suggestions](http://huridocs.github.io/uwazi-assets/wiki/screenshots/search-suggestions.png)
+![Search suggestions](http://huridocs.github.io/uwazi-assets/wiki/screenshots/Search_basic.png)
 
-Moreover you can click on _View all results for **keyword**_ to see all the documents and entities related to your query.
+Or you can search for a specific term or phrase using “...” to find the exact match.
 
-![Search results](http://huridocs.github.io/uwazi-assets/wiki/screenshots/search-results.png)
+![Search results](http://huridocs.github.io/uwazi-assets/wiki/screenshots/Search_exact_match.png)
+
+It is also possible to search for a word or a phrase in the whole collection… 
+
+![Search results](http://huridocs.github.io/uwazi-assets/wiki/screenshots/Search_collection_result.png)
+
+
+
+
+
