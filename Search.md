@@ -14,7 +14,17 @@ It is also possible to search for a word or a phrase in the whole collection…
 
 ![Search results](http://huridocs.github.io/uwazi-assets/wiki/screenshots/Search_collection_result.png)
 
+… or inside a particular document. To do that, click on a document you want to search and then click on the search icon on the right hand side. You will see all the mentions of your search query listed in chronological order as they appear in the document. 
 
+![Search results](http://huridocs.github.io/uwazi-assets/wiki/screenshots/Search_document_result1.png)
+
+Click on a page number and you will see your search query highlighted in the body of the document. 
+
+![Search results](http://huridocs.github.io/uwazi-assets/wiki/screenshots/Search_document_result2.png)
+
+You can now search for specific info using wildcards, boolean search and query strings.
+
+![Search results](http://huridocs.github.io/uwazi-assets/wiki/screenshots/Search_boolean.png)
 
 
 
