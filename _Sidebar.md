@@ -16,7 +16,6 @@
     * [Connect your data in meaninful ways: relationships](https://github.com/huridocs/uwazi/wiki/Connect-your-data-in-meaninful-ways:-relationships)
     * [Create references](https://github.com/huridocs/uwazi/wiki/Create-references)
     * [Upload files to a document or entity](https://github.com/huridocs/uwazi/wiki/Upload-files-to-a-document-or-entity)
-    * [Work with GeoLocation](https://github.com/huridocs/uwazi/wiki/geolocation)
 * Search and filter your collection
     * [Search](https://github.com/huridocs/uwazi/wiki/Search)
     * [Filter](https://github.com/huridocs/uwazi/wiki/Filter)
@@ -36,6 +35,7 @@
 * Design and data visualisation
     * [Customize the interface](https://github.com/huridocs/uwazi/wiki/Customize-the-interface)
     * [Data Visualization Components](https://github.com/huridocs/uwazi/wiki/components)
+    * [Work with GeoLocation](https://github.com/huridocs/uwazi/wiki/geolocation)
 * Uwazi basics
     * [Glossary of terms](https://github.com/huridocs/uwazi/wiki/Glossary-of-terms)
     * [The history of Uwazi](https://github.com/huridocs/uwazi/wiki/History-of-Uwazi)
