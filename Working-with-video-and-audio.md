@@ -1,4 +1,19 @@
+## Image and Media fields
+
 Uwazi supports several embedded and native media types including: YouTube, FaceBook, SoundCloud, Streamable, Vidme, Vimeo, Wistia, Twitch, DailyMotion, mp3, mp4, wave, and others. This is achieved via integration with  [React-player](https://www.npmjs.com/package/react-player), supporting all features this component provides.
+
+Add an image or media field to your documents and entities to use this feature:
+
+![Image and media fields](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/image-and-video-fields.png)
+
+These fields support several visualization options:
+
+- Hide label: if checked it won't display this field's label in library cards.
+- Full width: will remove the margins to the card border, allowing for richer visuals.
+- Show in cards: media will be displayed in cards.
+- Style, being either "Fit" will show the entire media inside the container or "Fill" will attempt to fill the container, using it's entire width. In cards, cropping is likely to occur.
+
+## Embedding media into rich text fields
 
 In order to embed a media file, add a rich text field to a document or entity and use the following syntax:
 ```
