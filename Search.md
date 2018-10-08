@@ -22,6 +22,8 @@ Click on a page number and you will see your search query highlighted in the bod
 
 ![Search results](http://huridocs.github.io/uwazi-assets/wiki/screenshots/Search_document_result2.png)
 
+## Query string searches
+
 You can now search for specific info using wildcards, boolean search and query strings.
 
 - \* for wildcard search. Ie: "juris*" will match words such as jurisdiction, jurisdictional, jurists, jurisprudence, etc.
