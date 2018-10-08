@@ -31,3 +31,18 @@ When adding a new property to a document or entity type, you can choose whether 
 ![property options](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/document_properties.jpg)
 
 Note: When you add a **multi-select property** to a type, you will see a field titled _Thesauri_ in which you can select a _Dictionary_ or an _Entity type_ that you have already created. See the section on [Create and manage your thesauri](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#manage-your-thesauri) for more information on how to work with dictionaries. 
+
+## Document thumbnails
+In order to display thumbnails in your cards and side panel for document preview, you need to active the "Preview" field for that particular template. 
+
+![Preview field](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/thumbnails-field.png)
+
+Since it behaves as a regular field, admins can choose where it should be display in the card by dragging the field to the desired position. This field comes with and option "Fill width" that will remove margins with the side of the cards, allowing for better visuals.
+
+It also comes with two rendering options, "Fill" centering the image so that it will take more space in the screen, and "Fit", making sure that the whole image will be displayed.
+
+This is the result activating all options "No label", "Show in cards", "Full-width" and "Fit":
+
+![Document list with previews](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/thumbnails-preview.png)
+
+
