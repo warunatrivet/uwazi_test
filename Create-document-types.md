@@ -1,7 +1,7 @@
 Document types allow you to attribute structured, consistent metadata to your documents. For each document template, you can assign properties of the type:
 * text 
 * numeric
-* select
+* select ([needs thesauri](https://github.com/huridocs/uwazi/wiki/Create-thesauri)) 
 * multi-select
 * date, date range, multi date, multi date range
 * rich text
