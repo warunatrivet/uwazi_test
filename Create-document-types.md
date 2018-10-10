@@ -2,7 +2,7 @@ Document types allow you to attribute structured, consistent metadata to your do
 * text 
 * numeric
 * select ([needs thesauri](https://github.com/huridocs/uwazi/wiki/Create-thesauri)) 
-* multi-select
+* multi-select ([needs thesauri](https://github.com/huridocs/uwazi/wiki/Create-thesauri)) 
 * date, date range, multi date, multi date range
 * rich text
 * geolocation
