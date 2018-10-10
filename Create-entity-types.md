@@ -1,8 +1,8 @@
 Entity Types allow you to attribute structured, consistent metadata to your entities. Within each Entity type, you can assign properties:
 * text 
 * numeric
-* select
-* multi-select
+* select ([needs thesauri](https://github.com/huridocs/uwazi/wiki/Create-thesauri)) 
+* multi-select ([needs thesauri](https://github.com/huridocs/uwazi/wiki/Create-thesauri)) 
 * date, date range, multi date, multi date range
 * rich text
 * geolocation
