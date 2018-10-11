@@ -42,6 +42,7 @@
 * Hosting options
     * [Install Uwazi on your server](https://github.com/huridocs/uwazi/wiki/Install-Uwazi-on-your-server)
     * [Host Uwazi with us](https://github.com/huridocs/uwazi/wiki/Host-Uwazi-with-HURIDOCS)
+    * [Backup and restore](https://github.com/huridocs/uwazi/wiki/Backup-and-restore)
 ***
 # Spanish user guide
 * [¿Qué es Uwazi?](https://github.com/huridocs/uwazi/wiki/%C2%BFQu%C3%A9-es-Uwazi%3F)
