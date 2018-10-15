@@ -1,11 +1,11 @@
 You can download the latest version of Uwazi here on [Github](https://github.com/huridocs/uwazi/releases). Be sure you have everything configured on your server first - here is a [list of Uwazi's dependencies](https://github.com/huridocs/uwazi/blob/development/README.md).  
 
-Production Configuration (advanced)
+### Production Configuration (advanced)
 
 Uwazi is configured to run correctly with its default values. There is no need to change or reconfigure these values.
 
 However, if you require different database names, elastic indexes, etc. you can override those defaults by exporting one or more of the following environment variables:
-
+```
 $ export DBHOST=localhost
 $ export DATABASE_NAME=uwazi_development
 $ export ELASTICSEARCH_URL=http://localhost:9200
@@ -13,7 +13,7 @@ $ export INDEX_NAME=uwazi_development
 $ export PORT=3000
 $ export UPLOADS_FOLDER=/path/to/uploaded_documents
 $ export LOGS_DIR=/path/to/log
-
+```
 Again, please notice that there is no need to export any value for a normal installation and only do so if you are certain you need different defaults. If these values are not correctly overridden, Uwazi will fail to run properly.
 
 For production environments, you may need to activate your system's sendmail so user's receive sign up and password recovery notifications.
