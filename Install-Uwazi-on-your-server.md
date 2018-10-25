@@ -13,6 +13,7 @@ $ export INDEX_NAME=uwazi_development
 $ export PORT=3000
 $ export UPLOADS_FOLDER=/path/to/uploaded_documents
 $ export LOGS_DIR=/path/to/log
+$ export LOCALHOST_ONLY = true
 ```
 Again, please notice that there is no need to export any value for a normal installation and only do so if you are certain you need different defaults. If these values are not correctly overridden, Uwazi will fail to run properly.
 
