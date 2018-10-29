@@ -96,3 +96,17 @@ Renders:
 ![Card list](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/component-card-list.png)
 
 This syntax will display an arbitrary number of cards, defined by the param "limit", based on a library query URL.
+
+## Map
+
+```
+<Dataset geolocation="true" />
+<Map />
+```
+Renders:
+![Map](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/component-map.png)
+
+
+The map component requires a dataset with geolocation data in order to work properly, and the `geolocation` attribute of the `Dataset` component should be activated (`geolocation="true"`).
+
+Clicking on individual or cluster markers in the map will open a side panel with more information about the selected items.
