@@ -46,3 +46,4 @@
 ***
 # Spanish user guide
 * [¿Qué es Uwazi?](https://github.com/huridocs/uwazi/wiki/%C2%BFQu%C3%A9-es-Uwazi%3F)
+* [Crear tipos de documentos](https://github.com/huridocs/uwazi/wiki/Crear-tipos-de-documentos)
