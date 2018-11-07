@@ -1,27 +1,27 @@
-A thesaurus in Uwazi is a list of terms that you will reference in the properties. For example, you may want to create a thesaurus for countries so that you can refer to this list when you add the _country_ property to your document template. Using thesauri will make data entry and retrieval more precise, coherent and easy.
+Un tesauro en Uwazi es una lista de términos a los que harás referencias en las propiedades. Por ejemplo, es posible que desees crear un diccionario de los países para que puedas consultar esta lista cuando agregues la _propiedad país_ a tu plantilla de documento. El uso de tesauros hará que el ingreso y recuperación de datos sea más precisa, coherente y fácil.
 
-You can view, edit and delete your existing thesauri by going to _Thesauri_.
+Puedes ver, editar y eliminar tus tesauros existentes en _Tesauros_.
 
-## Follow these steps:
+## Sigue estas instrucciones:
 
-1. Click on the gear icon in the top right corner of the site.
+1. Haz clic en el ícono de engranaje en la esquina superior derecha del sitio.
 
 ![Gear icon](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/settings_link.jpg)
 
-2. Go to _Thesauri_
-3. Click on _Add thesaurus_ under _Thesauri_. 
-4. Name your thesaurus. 
-5. Add items.
-6. Click _Save_ when finished.
+2. Ve a la opción _Tesauro_
+3. Da clic en _Agregar tesauro_ dentro de _Tesauros_. 
+4. Dale un nombre a tu tesauros. 
+5. Agrega los elementos.
+6. Da clic en _Guardar_ cuando termines.
 
 ![new thesaurus](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/dictionaries.jpg)
 
-## Nested options in thesauri
+## Opciones anidadas en tesauros
 
-For big thesauri, grouping values in groups makes information more accessible. In the thesauri creation interface, there is a "Create group" at the bottom action buttons and some controls to move items around:
+Para los grandes tesauros, agrupar valores dentro de grupos hace que la información sea más accesible. En la interfaz de creación de tesauros, hay un botón de "Crear grupo" y algunos controles para configurar estos elementos: 
 
 ![Create nested thesauri](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/thesauri-nested.png)
 
-Which gets render as a filter:
+Que se presenta como un filtro:
 
 ![Multi-select filter with nesting](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/thesauri-nested-filter.png)
