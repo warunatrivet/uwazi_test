@@ -1,4 +1,8 @@
-A thesaurus in Uwazi is a list of terms that you will reference in the properties. For example, you may want to create a thesaurus for countries so that you can refer to this list when you add the _country_ property to your document template. Using thesauri will make data entry and retrieval more precise, coherent and easy.
+A thesaurus in Uwazi is a list of terms that you will reference in the properties. 
+
+For example, you may want to create a thesaurus for countries so that you can refer to this list when you add the _country_ property to your document template. Using thesauri will make data entry and retrieval more precise, coherent and easy.
+
+You can use the same thesauri across document and entity types by calling a thesaurus from a property, thus connecting different types of information by a common property.
 
 You can view, edit and delete your existing thesauri by going to _Thesauri_.
 
