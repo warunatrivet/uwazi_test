@@ -30,7 +30,7 @@ Al agregar una nueva propiedad a un documento o tipo de entidad, puedes elegir s
 
 ![property options](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/document_properties.jpg)
 
-Nota: cuando agregas una **propiedad de selección múltiple** a un tipo de documento, verás un campo titulado _Tesauro_ en el que puedes seleccionar un _Diccionario_ o un tipo de entidad_ que ya hayas creado. Consulta la sección sobre [Crear y administrar sus tesauros](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#manage-your-thesauri) para más información sobre cómo trabajar con diccionarios. 
+Nota: cuando agregas una **propiedad de selección múltiple** a un tipo de documento, verás un campo titulado _Tesauro_ en el que puedes seleccionar un _Diccionario_ o un tipo de entidad_ que ya hayas creado. Consulta la sección sobre [Crear y administrar sus tesauros](https://github.com/huridocs/uwazi/wiki/Crear-tesauros) para más información sobre cómo trabajar con diccionarios. 
 
 ## Thumbnails de los documentos 
 Para mostrar las pequeñas previsualizaciones del documento en sus tarjetas y en el panel lateral para la vista previa del documento, debes activar el campo "Vista previa" para esa plantilla en particular.
