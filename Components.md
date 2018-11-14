@@ -63,7 +63,7 @@ Will render:
 
 Context is used for pulling out translations for the labels. This value is the id of the thesaurus, if labels are coming from a thesaurus and the id of the entity template, if its coming from using templates as select options.
 
-You can find these values via the api: https://your_uwazi_url/api/templates. ie, for a thesauri based property (selects and multiselects), it looks like:
+You can find these values via the api: https://your_uwazi_url/api/templates. ie, for a thesauri based property (selects and multiselects), it looks like: (Depending on your browser, you may need to install a JSON viewer extension) 
 
 ```
 id	"cb273227-0e0b-44e1-98e5-6c88fb0e7ed1"
