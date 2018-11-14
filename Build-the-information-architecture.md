@@ -13,7 +13,7 @@ To access your settings, click on the gear icon in the top right corner of the s
 
 You will see the following list of options on the left side, below your settings. 
 
-![Structure your content options](http://www.uwazi.io/wp-content/uploads/2017/04/structure-collections.png)
+![Structure your content options](https://www.huridocs.org/wp-content/uploads/2018/11/Captura-de-pantalla-2018-11-13-a-las-23.50.22.png)
 
 ## Create and manage your document or entity templates
 Templates allow you to collect structured, consistent metadata on your documents. Within each template, you can assign properties of the type:
