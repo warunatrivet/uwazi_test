@@ -9,7 +9,7 @@ You have the following ways to build the information architecture for your docum
 
 To access your settings, click on the gear icon in the top right corner of the site.
 
-![Gear icon](http://www.uwazi.io/wp-content/uploads/2017/04/gear-icon.png)
+![Gear icon](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/settings_link.jpg)
 
 You will see the following list of options on the left side, below your settings. 
 
