@@ -1,7 +1,7 @@
 Tienes las siguientes formas de crear la arquitectura de la información dentro de su colección de documentos:
-* [Crea y gestiona tus plantillas de documento y entidad](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#create-and-manage-your-document-or-entity-templates)
-* [Crea y gestiona tus tesauros](https://github.com/huridocs/uwazi/wiki/Crear-tesauros)
-* [Nombra tus conexiones](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#name-your-connections)
+* [Crea y gestiona tus plantillas de documento y entidad](https://github.com/huridocs/uwazi/wiki/Construir-la-arquitectura-de-la-informaci%C3%B3n#crea-y-gestiona-tus-plantillas-de-documento-y-entidad)
+* [Crea y gestiona tus tesauros](https://github.com/huridocs/uwazi/wiki/Construir-la-arquitectura-de-la-informaci%C3%B3n#crea-y-gestiona-tus-tesauros)
+* [Nombra tus conexiones](https://github.com/huridocs/uwazi/wiki/Construir-la-arquitectura-de-la-informaci%C3%B3n#nombra-tus-conexiones)
 
 ***
 
