@@ -1,6 +1,6 @@
 You have the following ways to build the information architecture for your document collection:
 * [Create and manage your document and entity templates](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#create-and-manage-your-document-or-entity-templates)
-* [Create and manage your thesauri](https://github.com/huridocs/uwazi/wiki/Create-thesauri)
+* [Create and manage your thesauri](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#create-and-manage-your-thesauri)
 * [Name your connections](https://github.com/huridocs/uwazi/wiki/Build-the-information-architecture#name-your-connections)
 
 ***
@@ -44,7 +44,7 @@ Create new entity templates by following the instructions for creating a new doc
 When you add a multi-select property to a template, you will see a field titled _Thesauri_ in which you can select a _Dictionary_ or an entity that you have already created. See the section on [managing your dictionaries](https://github.com/huridocs/uwazi/wiki/Create-dictionaries) for more information on how to create these dictionaries. 
 
 ## Create and manage your thesauri
-Check [here the instructions] (https://github.com/huridocs/uwazi/wiki/Create-thesauri) 
+Check [here the instructions](https://github.com/huridocs/uwazi/wiki/Create-thesauri) 
 
 ## Name your connections
 A connection is something that links two pieces of information in your collection. It could link a paragraph to a document, or a word to an entity. All you need to do is name these connections here, then create the connections within your collection.
