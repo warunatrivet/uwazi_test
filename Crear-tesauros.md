@@ -1,4 +1,8 @@
-Un tesauro en Uwazi es una lista de términos a los que harás referencias en las propiedades. Por ejemplo, es posible que desees crear un diccionario de los países para que puedas consultar esta lista cuando agregues la _propiedad país_ a tu plantilla de documento. El uso de tesauros hará que el ingreso y recuperación de datos sea más precisa, coherente y fácil.
+Un tesauro en Uwazi es una lista de términos a los que harás referencias en las propiedades. 
+
+Por ejemplo, es posible que desees crear un diccionario de los países para que puedas consultar esta lista cuando agregues la _propiedad país_ a tu plantilla de documento. El uso de tesauros hará que el ingreso y recuperación de datos sea más precisa, coherente y fácil.
+
+Puedes usar el mismo tesauro en todos los tipos de entidades y documentos agregando el tesauro desde una propiedad, conectando diferentes tipos de información a través de una propiedad en común.
 
 Puedes ver, editar y eliminar tus tesauros existentes en _Tesauros_.
 
