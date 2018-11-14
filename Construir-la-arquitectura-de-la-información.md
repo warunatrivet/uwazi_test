@@ -29,18 +29,19 @@ Por ejemplo, es posible que desees crear una plantilla de documento llamada "Inf
 
 Una entidad, en Uwazi, es un contenido que es similar a un documento en la forma en que está organizado, pero no requiere un PDF. Por ejemplo, es posible que desee crear entidades para incluir personas, eventos, tribunales o casos en su colección. Al igual que las plantillas de documentos, puede crear plantillas de entidad para cada tipo de entidad que necesite.
 
-En _Documentos_, puedes ver, editar y eliminar plantillas de documentos existentes.
+En _Tipos de documentos_, puedes ver, editar y eliminar plantillas de documentos existentes.
 
 Para crear una nueva plantilla de documento:
-1. Haz clic en _Agregar documento_ bajo _Documentos_.
+1. Haz clic en _Agregar tipo de documento_ bajo _Tipos de documentos_.
 2. Verá dos propiedades predeterminadas: _Título_ y _Fecha agregada_.
 3. Aplique los tipos de propiedad arrastrándolos al cuadro designado.
 4. Haz clic en _Guardar_.
 
-![New template](http://www.uwazi.io/wp-content/uploads/2017/04/doc-template.png)
+![New template](https://www.huridocs.org/wp-content/uploads/2018/11/Captura-de-pantalla-2018-11-14-a-las-00.24.31.png) 
 
-Similarly, under _Entities_, you can view, edit, and delete existing entity templates. 
-Create new entity templates by following the instructions for creating a new document template (above). 
+Del mismo modo, en _Tipos de entidades_, puedes ver, editar y eliminar las plantillas de entidades existentes. Crea nuevas plantillas de entidad siguiendo las instrucciones para crear una nueva plantilla de documento (arriba).
+
+Cuando agregas una propiedad de selección múltiple a una plantilla, verá un campo titulado _Thesauri_ en el que puede seleccionar un _Diccionario_ o una entidad que ya ha creado. Consulte la sección sobre [administrar sus diccionarios](https://github.com/huridocs/uwazi/wiki/Crear-tesauros) para obtener más información sobre cómo crear estos diccionarios.
 
 When you add a multi-select property to a template, you will see a field titled _Thesauri_ in which you can select a _Dictionary_ or an entity that you have already created. See the section on [managing your dictionaries](https://github.com/huridocs/uwazi/wiki/Create-dictionaries) for more information on how to create these dictionaries. 
 
@@ -50,4 +51,4 @@ Revisa las [instrucciones aquí](https://github.com/huridocs/uwazi/wiki/Crear-te
 ## Nombra tus conexiones
 A connection is something that links two pieces of information in your collection. It could link a paragraph to a document, or a word to an entity. All you need to do is name these connections here, then create the connections within your collection.
 
-![new connection](http://www.uwazi.io/wp-content/uploads/2017/04/connections.png)
+![nombra tus conexiones connection](http://www.uwazi.io/wp-content/uploads/2017/04/connections.png)
