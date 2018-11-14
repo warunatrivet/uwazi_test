@@ -5,36 +5,37 @@ Tienes las siguientes formas de crear la arquitectura de la información dentro 
 
 ***
 
-## How to access your options for building the information architecture
+## Cómo acceder a tus opciones para construir la arquitectura de la información
 
-To access your settings, click on the gear icon in the top right corner of the site.
+Para acceder a tu configuración, haz clic en el ícono de engranaje en la esquina superior derecha del sitio.
 
-![Gear icon](http://www.uwazi.io/wp-content/uploads/2017/04/gear-icon.png)
+![Gear icon](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/settings_link.jpg)
 
-You will see the following list of options on the left side, below your settings. 
+Verás la siguiente lista de opciones en el lado izquierdo, debajo de la configuración.
 
-![Structure your content options](http://www.uwazi.io/wp-content/uploads/2017/04/structure-collections.png)
+![Opciones para estructurar tus contenidos](https://www.huridocs.org//wp-content/uploads/2018/11/Captura-de-pantalla-2018-11-13-a-las-23.58.26.png)
 
 ## Crea y gestiona tus plantillas de documento y entidad
-Templates allow you to collect structured, consistent metadata on your documents. Within each template, you can assign properties of the type:
-* text 
-* numeric
-* select
-* multi-select
-* date
-* rich text
+Las plantillas te permiten recopilar metadatos coherentes y estructurados en tus documentos. Dentro de cada plantilla, puedes asignar propiedades del tipo:
 
-For example, you may want to create a document template called "NGO Reports" which will contain properties such as title, date published, NGO author, etc. You will create one document template for each type of document that has a distinct set of property types (or the same set of properties but a different name).
+* texto 
+* numérico
+* selección
+* multi-selección
+* fecha
+* texto enriquecido
 
-An entity, in Uwazi, is content that is similar to a document in the way it is organised, but does not require a PDF. For example, you may want to create entities in order to include a people, events, courts, or cases in your collection. Like document templates, you can create entity templates for each type of entity you are need. 
+Por ejemplo, es posible que desees crear una plantilla de documento llamada "Informes de ONG" que contendrá propiedades como el título, la fecha de publicación, el autor de la ONG, etc. Crea una plantilla de documento para cada tipo de documento que tenga un conjunto de propiedades distinto (o el mismo conjunto de propiedades pero un nombre diferente).
 
-Under _Documents_, you can view, edit, and delete existing document templates. 
+Una entidad, en Uwazi, es un contenido que es similar a un documento en la forma en que está organizado, pero no requiere un PDF. Por ejemplo, es posible que desee crear entidades para incluir personas, eventos, tribunales o casos en su colección. Al igual que las plantillas de documentos, puede crear plantillas de entidad para cada tipo de entidad que necesite.
 
-To create a new document template:
-1. Click on _Add document_ under _Documents_.
-2. You will see two default properties: _Title_, and _Date added_. 
-3. Apply property types by dragging them into the designated box. 
-4. Click _Save_.
+En _Documentos_, puedes ver, editar y eliminar plantillas de documentos existentes.
+
+Para crear una nueva plantilla de documento:
+1. Haz clic en _Agregar documento_ bajo _Documentos_.
+2. Verá dos propiedades predeterminadas: _Título_ y _Fecha agregada_.
+3. Aplique los tipos de propiedad arrastrándolos al cuadro designado.
+4. Haz clic en _Guardar_.
 
 ![New template](http://www.uwazi.io/wp-content/uploads/2017/04/doc-template.png)
 
