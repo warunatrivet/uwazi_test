@@ -43,8 +43,6 @@ Del mismo modo, en _Tipos de entidades_, puedes ver, editar y eliminar las plant
 
 Cuando agregas una propiedad de selección múltiple a una plantilla, verá un campo titulado _Thesauri_ en el que puede seleccionar un _Diccionario_ o una entidad que ya ha creado. Consulte la sección sobre [administrar sus diccionarios](https://github.com/huridocs/uwazi/wiki/Crear-tesauros) para obtener más información sobre cómo crear estos diccionarios.
 
-When you add a multi-select property to a template, you will see a field titled _Thesauri_ in which you can select a _Dictionary_ or an entity that you have already created. See the section on [managing your dictionaries](https://github.com/huridocs/uwazi/wiki/Create-dictionaries) for more information on how to create these dictionaries. 
-
 ## Crea y gestiona tus tesauros
 Revisa las [instrucciones aquí](https://github.com/huridocs/uwazi/wiki/Crear-tesauros) para crear, revisar y administrar tus tesauros. 
 
