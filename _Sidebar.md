@@ -50,3 +50,4 @@
     * [Crear tipos de documentos](https://github.com/huridocs/uwazi/wiki/Crear-tipos-de-documentos)
     * [Crear tipos de entidades](https://github.com/huridocs/uwazi/wiki/Crear-tipos-de-entidades)
     * [Crear tesauros](https://github.com/huridocs/uwazi/wiki/Crear-tesauros)
+    * [Crear tesauros](https://github.com/huridocs/uwazi/wiki/Nombra-tus-conexiones)
