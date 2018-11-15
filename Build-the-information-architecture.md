@@ -41,7 +41,7 @@ To create a new document template:
 Similarly, under _Entities_, you can view, edit, and delete existing entity templates. 
 Create new entity templates by following the instructions for creating a new document template (above). 
 
-When you add a multi-select property to a template, you will see a field titled _Thesauri_ in which you can select a _Dictionary_ or an entity that you have already created. See the section on [managing your dictionaries](https://github.com/huridocs/uwazi/wiki/Create-dictionaries) for more information on how to create these dictionaries. 
+When you add a multi-select property to a template, you will see a field titled _Thesauri_ in which you can select a _Dictionary_ or an entity that you have already created. See the section on [managing your dictionaries](https://github.com/huridocs/uwazi/wiki/Create-thesauri) for more information on how to create these dictionaries. 
 
 ## Create and manage your thesauri
 Check [here the instructions](https://github.com/huridocs/uwazi/wiki/Create-thesauri) to create, view and manage your thesauri. 
