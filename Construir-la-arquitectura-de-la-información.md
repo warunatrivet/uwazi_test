@@ -49,6 +49,6 @@ When you add a multi-select property to a template, you will see a field titled 
 Revisa las [instrucciones aquí](https://github.com/huridocs/uwazi/wiki/Crear-tesauros) para crear, revisar y administrar tus tesauros. 
 
 ## Nombra tus conexiones
-A connection is something that links two pieces of information in your collection. It could link a paragraph to a document, or a word to an entity. All you need to do is name these connections here, then create the connections within your collection.
+Una conexión es algo que vincula dos piezas de información en su colección. Podría vincular un párrafo a un documento, o una palabra a una entidad. Todo lo que necesitas hacer es nombrar estas conexiones aquí, luego crea las conexiones dentro de tu colección.
 
-![nombra tus conexiones connection](http://www.uwazi.io/wp-content/uploads/2017/04/connections.png)
+![nombra tus conexiones](http://www.uwazi.io/wp-content/uploads/2017/04/connections.png)
