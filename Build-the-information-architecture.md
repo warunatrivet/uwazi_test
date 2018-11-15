@@ -28,15 +28,15 @@ For example, you may want to create a document template called "NGO Reports" whi
 
 An entity, in Uwazi, is content that is similar to a document in the way it is organised, but does not require a PDF. For example, you may want to create entities in order to include a people, events, courts, or cases in your collection. Like document templates, you can create entity templates for each type of entity you are need. 
 
-Under _Documents_, you can view, edit, and delete existing document templates. 
+Under _Document types_, you can view, edit, and delete existing document templates. 
 
 To create a new document template:
-1. Click on _Add document_ under _Documents_.
+1. Click on _Add document type_ under _Document types_.
 2. You will see two default properties: _Title_, and _Date added_. 
 3. Apply property types by dragging them into the designated box. 
 4. Click _Save_.
 
-![New template](http://www.uwazi.io/wp-content/uploads/2017/04/doc-template.png)
+![New template](https://www.huridocs.org/wp-content/uploads/2018/11/Captura-de-pantalla-2018-11-14-a-las-00.24.31.png)
 
 Similarly, under _Entities_, you can view, edit, and delete existing entity templates. 
 Create new entity templates by following the instructions for creating a new document template (above). 
