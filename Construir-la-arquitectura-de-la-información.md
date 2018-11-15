@@ -49,4 +49,4 @@ Revisa las [instrucciones aquí](https://github.com/huridocs/uwazi/wiki/Crear-te
 ## Nombra tus conexiones
 Una conexión es algo que vincula dos piezas de información en su colección. Podría vincular un párrafo a un documento, o una palabra a una entidad. Todo lo que necesitas hacer es nombrar estas conexiones aquí, luego crea las conexiones dentro de tu colección.
 
-![nombra tus conexiones](https://github.com/huridocs/uwazi/wiki/Nombra-tus-conexiones)
+[nombra tus conexiones](https://github.com/huridocs/uwazi/wiki/Nombra-tus-conexiones)
