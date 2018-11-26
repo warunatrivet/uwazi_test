@@ -2,7 +2,7 @@ Administrators can configure the available languages in settings > languages:
 
 ![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/manage-languages.png)
 
-"Default language" means: it can't be deleted. It is used as the reference language for certain maintenance operations. So if there is a mismatch in the data, the default language will be the one used as reference.
+"Default language" means: it can't be deleted. It is used as the reference language for certain maintenance operations. So if there is a mismatch in the data, the default language will be the one used as reference. Ie, when adding a new language, if the database already has existing information, a copy of the existing information needs to be added to that new language. The default language will be used as reference for that copy.
 
 There are different levels of support depending on the language:
 
