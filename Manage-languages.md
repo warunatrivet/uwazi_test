@@ -1,6 +1,18 @@
-Administrator can configure the available languages in settings > languages:
+Administrators can configure the available languages in settings > languages:
 
 ![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/manage-languages.png)
+
+"Default language" means: it can't be deleted. It is used as the reference language for certain maintenance operations. So if there is a mismatch in the data, the default language will be the one used as reference.
+
+There are different levels of support depending on the language:
+
+* UI level: in principle all languages are supported and the UI can be translated, but we still don't support RTL.
+* Search Engine: please refer to [ElasticSearch's Language Analytizers page](https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-lang-analyzer.html). We support all the languages supported by default. Also please note that there are a few more supported via plug-ins.
+* Database level: in principle all languages supported by MongoDB.
+
+If you language is not in the list, please get in touch with us.
+
+Please refer to the "Translate your collection" section of this Wiki to get more information.
 
 ## Some notes on the Uwazi language model
 
