@@ -27,6 +27,7 @@
     * [Configure navigation menu links](https://github.com/huridocs/uwazi/wiki/Configure-navigation-menu-links)
     * [Configure filters](https://github.com/huridocs/uwazi/wiki/Configure-filters)
     * [Make your collection private](https://github.com/huridocs/uwazi/wiki/Make-your-collection-private)
+    * [Web analytics](https://github.com/huridocs/uwazi/wiki/Web-Analytics)
 * Translate your collection
     * [How to translate content](https://github.com/huridocs/uwazi/wiki/How-to-translate-content)
     * [Upload translated documents](https://github.com/huridocs/uwazi/wiki/Upload-translated-documents)
