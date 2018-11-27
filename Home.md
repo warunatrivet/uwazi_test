@@ -13,3 +13,5 @@ Uwazi was designed to address the unmet needs of human rights organisations. Hum
 
 # What problems does Uwazi solve?
 Most document management systems organise contents based on a document’s metadata (such as author, department, person, event, or year). But for human rights organisations, a document is often much more than these basic descriptors assigned to it – the content within the document also provides important insight. Uwazi addresses these problems by putting content and connections at the heart of the platform. Within each document there is important information to highlight, tag, organise, reference, and connect to other documents. In Uwazi, one paragraph referencing a military commander responsible for a human rights violation can be connected to another paragraph in another document that provides more biographical information about the same person.
+
+More information: [https://www.uwazi.io/](https://www.uwazi.io/)
