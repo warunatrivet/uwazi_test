@@ -14,7 +14,7 @@ If you language is not in the list, please get in touch with us.
 
 Please refer to the "Translate your collection" section of this Wiki to get more information.
 
-## Some notes on the Uwazi language model
+## Some notes on the Uwazi's internationalization model
 
 When a user uploads a document or creates an entity, a copy of this information will be added to the other available languages. In order to have that piece of information translated, users must switch languages and update the information in the other languages. If the translation is not provided, the information will be displayed in the language it was uploaded regardless of the language the user is working on.
 
