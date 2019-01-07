@@ -17,3 +17,9 @@ Uwazi está construido para atender las necesidades de las organizaciones de der
 La mayoría de los sistemas de gestión de documentos se centran en los metadatos de un documento como su método clave de organización. Pero para las organizaciones de derechos humanos, un documento es a menudo más que sus metadatos, el contenido en sí proporciona una visión importante. Uwazi pone el contenido y las conexiones en el centro de la plataforma. 
 
 Dentro de cada documento hay información importante para resaltar, etiquetar, organizar, referenciar, y conectar a otros documentos. En Uwazi, un párrafo puede hacer referencia a un comandante militar responsable de una violación de los derechos humanos, y puede estar contectado a otro párrafo que ofrece información biográfica sobre la misma persona. 
+
+* Construye la arquitectura de tu información
+    * [Crear tipos de documentos](https://github.com/huridocs/uwazi/wiki/Crear-tipos-de-documentos)
+    * [Crear tipos de entidades](https://github.com/huridocs/uwazi/wiki/Crear-tipos-de-entidades)
+    * [Crear tesauros](https://github.com/huridocs/uwazi/wiki/Crear-tesauros)
+    * [Nombra tus conexiones](https://github.com/huridocs/uwazi/wiki/Nombra-tus-conexiones)
