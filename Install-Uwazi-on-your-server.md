@@ -50,3 +50,5 @@ User=uwazi
 WantedBy=multi-user.target
 ```
 You don't need to keep your Uwazi code along with your user data, meaning that by configuring these variables you can use the same Uwazi code for running multiple Uwazi instances.
+
+**Note on enabling HTTPS** the best to do this at the moment is by using a reverse-proxy (ie. Nginx) while activating LOCALHOST_ONLY in the configuration.
