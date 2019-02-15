@@ -16,7 +16,7 @@
   * Be able to render a text version of the document. Needed for screen readers, search engines and to have proper copy/paste.
   * Detach our text references from a particular PDF.js version. So we can keep that library up to date.
   * Have a pre-render so documents load faster.
-  * Have a document thumbnail with the first page.
+  * ~Have a document thumbnail with the first page.~
 * Geo-location
 * Graphs - Build a user interface to allow admins to create their own graphs and charts. 
 * Support for video and image document types or field types
