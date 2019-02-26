@@ -16,7 +16,7 @@ Your files will be added to the upload section of Uwazi, but they will not be pu
 
 ## Publish your documents
 
-Before you publish your documents, you need to assign a document template to them (and preferably some metadata as well). To do that you can select one document, make your edits in the right sidebar, and then click _save_.
+Before you publish your documents, you need to assign a template to them (and preferably some metadata as well). To do that you can select one document, make your edits in the right sidebar, and then click _save_.
 
 You can also [select and edit multiple documents](https://github.com/huridocs/uwazi/wiki/Apply-properties). 
 
