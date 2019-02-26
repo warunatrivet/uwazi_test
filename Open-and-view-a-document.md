@@ -1,4 +1,4 @@
-In the library section, you will find your entire document collection. Each document (or entity) will be displayed in this library as a _card_. To open and view the full document, you can either:
+In the library section, you will find your entire document collection. Each document or entity will be displayed in this library as a _card_. To open and view the full document, you can either:
 
 hover over the document card and click on the _document_ icon:
 
