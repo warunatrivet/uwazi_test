@@ -54,3 +54,4 @@
     * [Nombra tus conexiones](https://github.com/huridocs/uwazi/wiki/Nombra-tus-conexiones)
 * Organiza tu colección
     * [Abre y visualiza un documento](https://github.com/huridocs/uwazi/wiki/Abre-y-visualiza-un-documento)
+    * [Crea una tabla de contenidos](https://github.com/huridocs/uwazi/wiki/Crea-una-tabla-de-contenidos)
