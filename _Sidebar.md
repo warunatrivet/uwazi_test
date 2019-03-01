@@ -56,4 +56,4 @@
     * [Abre y visualiza un documento](https://github.com/huridocs/uwazi/wiki/Abre-y-visualiza-un-documento)
     * [Crea una tabla de contenidos](https://github.com/huridocs/uwazi/wiki/Crea-una-tabla-de-contenidos)
 * Diseño y visualización de datos
-    * [Personalizar la interfaz](https://github.com/huridocs/uwazi/wiki/Personalizar-la-interfaz)
+    * [Personaliza la interfaz](https://github.com/huridocs/uwazi/wiki/Personalizar-la-interfaz)
