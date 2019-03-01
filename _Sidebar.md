@@ -53,4 +53,4 @@
     * [Crear tesauros](https://github.com/huridocs/uwazi/wiki/Crear-tesauros)
     * [Nombra tus conexiones](https://github.com/huridocs/uwazi/wiki/Nombra-tus-conexiones)
 * Organiza tu colección
-    * [Abre y visualiza un documento](https://github.com/huridocs/uwazi/wiki/Open-and-view-a-document)
+    * [Abre y visualiza un documento](https://github.com/huridocs/uwazi/wiki/Abre-y-visualiza-un-documento)
