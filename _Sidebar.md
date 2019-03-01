@@ -52,3 +52,5 @@
     * [Crear tipos de entidades](https://github.com/huridocs/uwazi/wiki/Crear-tipos-de-entidades)
     * [Crear tesauros](https://github.com/huridocs/uwazi/wiki/Crear-tesauros)
     * [Nombra tus conexiones](https://github.com/huridocs/uwazi/wiki/Nombra-tus-conexiones)
+* Organiza tu colección
+    * [Abre y visualiza un documento](https://github.com/huridocs/uwazi/wiki/Open-and-view-a-document)
