@@ -2,7 +2,7 @@
 <img src="http://huridocs.github.io/uwazi-assets/wiki/logo.png" data-canonical-src="http://huridocs.github.io/uwazi-assets/wiki/logo.png" width="300" />
 </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eLcFuyoCNzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch our recorded Uwazi demo >>](https://www.youtube.com/watch?v=eLcFuyoCNzw )
 
 For most organisations, managing documents means placing them into folders and/or categories so that staff or volunteers can find them later. (Think: Dropbox, Google Drive, etc.)
 
