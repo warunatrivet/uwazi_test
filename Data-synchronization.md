@@ -7,4 +7,5 @@ It is thought to solve some scenarios:
 
 It has some rules and limitations:
 - The current model is based in whitelisting templates and properties.
-- The
+- The information flows only in one direction for now. So its not a bidirectional data-sync, although we have plans for implementing this model as well.
+- For security reasons, the instance sharing the data will push the data into the server receiving the data. This is a drawback when what we want its keeping a local backup of the online data for, ie, offline access to the database.
