@@ -1,6 +1,10 @@
 ## Upload your documents
 
-At this time, Uwazi supports PDF format only as source of text.
+At this time, Uwazi supports PDF format only as source of text, enabling all tools for working with text such as full-text search, tables of contents, text references and others.
+
+You can quickly convert any Uwazi entity into a document by uploading a "main file":
+
+![upload](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/uppload_main_file.jpg)
 
 PDFs allow us to work with the text of a document. Other file formats such as .doc, .txt, .odt, .jpg, etc can be included in your document collection as an attachment to your PDF document. This might come in handy when you the original file is something other than a PDF and you want to archive it with the PDF version. 
 
@@ -12,7 +16,7 @@ You can either drag and drop your PDF files into the designated box, or you can 
 
 ![upload options](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/uploads.jpg)
 
-Your files will be added to the upload section of Uwazi, but they will not be published until you assign a template and click _publish_ (see below). 
+Your files will be added to the upload section of Uwazi, but they will not be published until you assign a template and click _publish_ (see below).
 
 ## Publish your documents
 
