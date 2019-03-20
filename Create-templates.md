@@ -6,6 +6,10 @@ Templates allow you to attribute structured, consistent metadata to your entitie
 * date, date range, multi date, multi date range
 * rich text
 * geolocation
+* external link
+* media (for video and audio embedding or self-hosting)
+* image
+* relationship, which allows you to use items from another template as thesauri items
 
 For example, you may want to create a template called "Court" which will contain properties such as name, judges, location, etc. You create one template for each entity that has a distinct set of properties.
 
