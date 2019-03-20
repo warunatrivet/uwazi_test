@@ -4,7 +4,7 @@ At this time, Uwazi supports PDF format only as source of text, enabling all too
 
 You can quickly convert any Uwazi entity into a document by uploading a "main file":
 
-![upload](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/uppload_main_file.png)
+![upload](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/uppload-main-file.png)
 
 PDFs allow us to work with the text of a document. Other file formats such as .doc, .txt, .odt, .jpg, etc can be included in your document collection as an attachment to your PDF document. This might come in handy when you the original file is something other than a PDF and you want to archive it with the PDF version. 
 
