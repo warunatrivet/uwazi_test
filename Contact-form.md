@@ -1,4 +1,4 @@
-You have quickly setup a simple contact form by placing the code:
+You can quickly setup a simple contact form by placing the code:
 ```
 <ContactForm/>
 ```
