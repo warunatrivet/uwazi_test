@@ -1,10 +1,10 @@
 ## Which content can you translate?
 
-All the content inside Uwazi can be traslated to any language you want. There are different ways to translate content (depend on what you want to have translated) but basically they are divided in two main groups:
+All the content inside Uwazi can be translated to any language you want. There are different ways to translate content (depend on what you want to have translated) but basically they are divided in two main groups:
 
 ### Uwazi Interface
 
-The Uwazi Interface (also called "System") contains all translations for every compontent you see in the application: buttons, alerts, messages... 
+The Uwazi Interface (also called "System") contains all translations for every component you see in the application: buttons, alerts, messages... 
 
 As an open source tool, we aim collaboration and personalization on those translations. Inside `Settings > Translation`, you will find all the languages available on your collection. If you want a language that is not already available, [ask our developers team](https://www.uwazi.io/contact/) to add it. Once all the languages are setup, you will be able to add your own translations or modify the default ones to fit your own criteria.
 
