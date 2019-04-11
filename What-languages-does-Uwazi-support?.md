@@ -1,8 +1,8 @@
 Uwazi can support any [ISO 639](https://en.wikipedia.org/wiki/ISO_639) language. This means that the interface can be translated into any ISO 639 language, and users can upload documents in any languages. 
 
-However, not all the functionalities are available for every language. For example:
-* We currently do not provide right-to-left interface support for Arabic and other languages.
-* Full text searches do not take into account stemming, stopwords, and some other language-specific functionality. There is more information below on which languages *are* supported with full text search functionality.
+Right-to-left interface support for Arabic and other languages is available as from March 2019.
+
+However, not all the functionalities are available for every language. For example, full text searches do not take into account stemming, stopwords, and some other language-specific functionalities. There is more information below on which languages *are* supported with full text search functionality.
 
 ## Elastic Search Language Analyzers
 
