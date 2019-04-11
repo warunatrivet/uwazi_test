@@ -1,19 +1,33 @@
-## Short term
-* Improve relationships. Our new relationships features still need much improvement to fully unfold its potential. Based on user feedback and our own ideas, notably:
-  * Be able to regroup scattered connections in a hub.
-  * Filtering by connection metadata.
-  * Connections can also be rendered in the side panel, both in library and in connections view (that would be, the connections of something connected).
-  * Improve performance for high volume of relationships.
-  * Admins can define a default view (grouping, filtering and sorting)
-  * By able to group by entity type and connection type, instead of hubs.
-  * Be able to create entities and documents from the relationships tree.
-  * Be able to create new relationship types from the relationships tree.
-  * Several small tweaks and bug fixes.
-  * Admin interface for defining relationship metadata fields.
 
-* Library and document search improvements. Full text search has several issues, with little effort we can offer our users better results and access to the information.
+## Improve relationships 
+
+Manage display of relationships
+  * Be able to regroup scattered connections in a hub.
+  * Connections can also be rendered in the side panel, both in library and in connections view (that would be, the connections of something connected).
+  * Admins can define a default view (grouping, filtering and sorting)
+  * Be able to group by entity type and connection type, instead of hubs.
+
+Performance
+  * Improve performance for high volume of relationships.
+
+Relationship metadata
+* Admin interface for defining relationship **metadata** fields.
+* Filtering by connection **metadata**.
+
+Create entities and docs from relationships view as a better user workflow (2-4d):
+* The search panel allows for new entity creation
+* Entities can be edited and deleted from relationship view
+* Allow publishing from side panel
+* Be smart when editing/deleting so the user experience is smooth
+* Do not duplicate information in the stores
+
+~Be able to create new relationship types from the relationships tree.~
+
+## Library and document search improvements 
+
+Full text search has several issues, with little effort we can offer our users better results and access to the information.
 * More accessible documents.
-  * Be able to render a text version of the document. Needed for screen readers, search engines and to have proper copy/paste.
+  * ~Be able to render a text version of the document. Needed for screen readers, search engines and to have proper copy/paste.~
   * Detach our text references from a particular PDF.js version. So we can keep that library up to date.
   * Have a pre-render so documents load faster.
   * ~Have a document thumbnail with the first page.~
@@ -69,12 +83,7 @@ Arbitrary order for select/multiselect (thesauri) items: (2d)
 * A "sort alphabetically" flag will be passed from thesauris to the fields
 * This order should be rendered in cards, side panels, and entity view.
 
-Create entities and docs from relationships view as a better user workflow (2-4d):
-* The search panel allows for new entity creation
-* Entities can be edited and deleted from relationship view
-* Allow publishing from side panel
-* Be smart when editing/deleting so the user experience is smooth
-* Do not duplicate information in the stores
+
 
 Audit log (4-6d):
 * Log edit/delete calls
@@ -100,7 +109,7 @@ CSV export (2-3d)
 * All records
 * Depends on table view
 
-CSV import entities (1-2w)
+CSV import entities (1-2w) https://github.com/huridocs/uwazi/issues/2310 
 * Test-run to check for errors
 * Thesauris and relationship entities are imported apart
 * 1 CSV for 1 entity type
