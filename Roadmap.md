@@ -119,7 +119,7 @@
 * All records
 * Depends on table view
 
-**CSV import entities** (1-2w) https://github.com/huridocs/uwazi/issues/2310 
+**CSV import entities** (1-2w) https://github.com/huridocs/uwazi/issues/2310 (this is being developed now)
 * Test-run to check for errors
 * Thesauris and relationship entities are imported apart
 * 1 CSV for 1 entity type
