@@ -110,3 +110,11 @@ Renders:
 The map component requires a dataset with geolocation data in order to work properly, and the `geolocation` attribute of the `Dataset` component should be activated (`geolocation="true"`).
 
 Clicking on individual or cluster markers in the map will open a side panel with more information about the selected items.
+
+## EntityInfo
+
+```
+<EntityInfo entity="entitySharedId" tag="div" classname="classes">More Info</EntityInfo>
+```
+
+Creates an HTML element of the type described in tag ("div" is default and can be omitted) bound to a "click" event that will load and display, on the a side panel, the info of the entity described in the "entity" property.  The element allows further HTML structure inside, so you can tailor the 'button' look however you want.
