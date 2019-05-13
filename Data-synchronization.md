@@ -6,7 +6,7 @@ It is meant to solve the following scenarios:
 - You need to work off-line but send the data to an on-line server when you have connectivity for backup or publishing purposes.
 
 It has some rules and limitations:
-- The current model is based in whitelisting templates and properties.
+- The current model is based in whitelisting templates and properties. By default everything is blacklisted for security reasons and only synced if explicitly configured to do so.
 - The information flows only in one direction for now. So its not a bidirectional data-sync, although we have plans for implementing this model as well.
 - For security reasons, the instance sharing the data will push the data into the server receiving the data. This is a drawback when what we want its keeping a local backup of the online data for, ie, offline access to the database.
 - You need a credentials with write privileges in the receiving Uwazi.
