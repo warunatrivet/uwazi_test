@@ -8,7 +8,7 @@ In your settings, you can create static pages to your Uwazi document collection.
 
 ![Create pages](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/pages.jpg)
 
-3. Click on _Add page_ to create a new page. You can use markdown to add formatting to your text. When finished click _Save_.
+3. Click on _Add page_ to create a new page. You can use markdown or HTML to add formatting to your text. When finished click _Save_.
 
 4. You can find the URL for each page you create by clicking on the page title itself in the list under the _Pages_ section, or by copying the URL that appears in the window after clicking _Save_:
 
@@ -16,7 +16,7 @@ In your settings, you can create static pages to your Uwazi document collection.
 
 ## Formatting the content of your page
 
-You can use [markdown syntax](https://guides.github.com/features/mastering-markdown/) to add images, lists, headers, quotes, and other formatting preferences. For help on using markdown, click on the _Help_ tab above the text field for the page. 
+You can use HTML or [markdown syntax](https://guides.github.com/features/mastering-markdown/) to add images, lists, headers, quotes, and other formatting preferences. For help on using markdown, click on the _Help_ tab above the text field for the page. 
 
 ![markdown help](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/markdown_help.jpg)
 
