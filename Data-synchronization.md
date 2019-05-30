@@ -32,7 +32,7 @@ That _sync_ key should have the following structure:
     },
     "relationtypes": ["2djava12", ...], // An array of relationType _id strings of white-listed type of relationships you want included
   }
-}
+},
 ```
 
 In order for this to work, you would need to:
