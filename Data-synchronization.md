@@ -42,6 +42,6 @@ In order for this to work, you need to:
 * Ensure that _johndoe_ has admin privileges in the remote or "slave" instance
 * Ensure that the template _ids and the property _ids are valid IDs in the MASTER instance
 * Ensure that the relationtypes _ids are valid IDs in the MASTER instance
-* Restart the Master instance in order for the Master UWAZI to process the changes in the _settings_ configuration
+* IMPORTANT! : Restart the Master instance in order for the Master UWAZI to process the changes in the _settings_ configuration
 
 Please remember that this feature is at an experimental or beta stage.
