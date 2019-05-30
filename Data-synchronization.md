@@ -14,7 +14,6 @@ It has some rules and limitations:
 - IDs of entities are overwritten, so if you happen to have duplicated IDs (very low probability), new data will erase older data.
 - Not everything is synced, only entities, thesauri and relationships. Pages, menus and other configs are independent to each Uwazi.
 
-***
 
 ## Configuration
 
