@@ -35,7 +35,7 @@ That _sync_ key should have the following structure:
 },
 ```
 
-In order for this to work, you would need to:
+In order for this to work, you need to:
 * Ensure that _https://some.url.com_ is a valid Uwazi instance URL
 * Ensure that _johndoe_ can log into _https://some.url.com_ with password: _verysecurepassword_
 * Ensure that _johndoe_ has admin privileges in the remote or "slave" instance
