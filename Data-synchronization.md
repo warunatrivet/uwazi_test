@@ -31,7 +31,7 @@ That _sync_ key should have the following structure:
       "58c8a99a89da989aaa": ["777a8dsf7a", "87da87da", ...], // Keys are the white-listed template _id strings, values are an array of white-listed property _id strings
       ... // You can add as many templates as desired, white-listing ids and property ids.
     },
-    "relationtypes": ["2djava12", ...], // An array of relationType _id strings of white-listed type of relationships you want included
+    "relationtypes": ["2djava12", ...], // (Optional) An array of relationType _id strings of white-listed type of relationships you want included
   }
 },
 ```
