@@ -16,7 +16,9 @@ It has some rules and limitations:
 
 ***
 
-To configure the synchronization process, the host or "master" database needs to be modified.  The **settings** collection of the MongoDB database should have a single document.  Edit that document to hold a new key named "**sync**" (please, be careful not to modify or delete any of the existing keys, ie: filters, links, languages, etc.).
+## Configuration
+
+The host or "Master" database needs to be modified.  The **settings** collection of the MongoDB database should have a single document.  Edit that document to hold a new key named "**sync**" (please, be careful not to modify or delete any of the existing keys, ie: filters, links, languages, etc.).
 
 That _sync_ key should have the following structure:
 ```
