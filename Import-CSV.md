@@ -10,7 +10,7 @@
 1. The “date added” is filled automatically with information during the import into Uwazi.
 1. The names of columns should not contain empty spaces, one should use two underscore symbols __ as separator. For example first__name
 1. The pipe symbol | is to be used as separator in a field with multiple values.
-1. For links to external documents, use the convention [Name](link), for example [HURIDOCS Micro-thesauri](https://www.huridocs.org/resource/micro-thesauri/)
+1. For links to external documents, use the convention `[Name](link)`, for example [HURIDOCS Micro-thesauri](https://www.huridocs.org/resource/micro-thesauri/)
 1. It is possible to import different CVS files into the same template.
 1. If the various columns in the CVS file are to be migrated to different templates in Uwazi one should split the CVS file so that the data for each template are separate.
 1.  After an import has been done, editing of records should take place within Uwazi. A feature to update a set of imported records is under development.
