@@ -1,6 +1,6 @@
 ## Migration of databases to Uwazi using CVS files
 
-One should take account of the following:
+### One should take account of the following:
 
 1. Use CSV (comma separated values) file rather than XLS or XLSX (Excel) files – CSV files are easier to parse
 1. Migration works with matching names – therefore, one should create a structure in Uwazi with the same field names as the column headers in the CSV file. For field names one can use either lower case or capitals. It is always possible to rename fields in Uwazi after import.
@@ -18,7 +18,7 @@ One should take account of the following:
 1. Attachments can be imported as a ZIP file of PDFs. There should be a CSV file with the title of the record to which the attachment is to be linked and the name of the file.
 1. A feature that is not yet supported is multiple dates within one field.
 
-Related issues:
+### Related issues:
 
 * A feature under development is export of structure and export of all data.
 * Another feature is under development for importing only thesauri. This will also allow to import terminology lists in different languages.
