@@ -30,4 +30,8 @@ Under _Templates_, you can view, edit, and delete existing templates.
 
 ![New template](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/new_document_entity.jpg)
 
-Note: When you add a **select** or **multi-select property** to a type, you will see a field titled _Thesauri_ in which you can select a _Thesaurus_ or a _Template_ that you have already created. See the section on [create thesauri](https://github.com/huridocs/uwazi/wiki/Create-thesauri) for more information on how to create these thesauri. 
+Note: 
+
+1. In case the instance should be in Arabic, the template and properties should be created in latin characters then translated into Arabic, otherwise it is going to trigger a bug. Developers are working to fix it.
+
+2. When you add a **select** or **multi-select property** to a type, you will see a field titled _Thesauri_ in which you can select a _Thesaurus_ or a _Template_ that you have already created. See the section on [create thesauri](https://github.com/huridocs/uwazi/wiki/Create-thesauri) for more information on how to create these thesauri. 
