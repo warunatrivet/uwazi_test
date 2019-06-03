@@ -2,7 +2,7 @@
 
 ### Preparation for Import
 
-1. It is useful to create a list (separate from the CSV file) of templates/formats that are to be migrated, mentioning type of field and name of field in Uwazi.
+It is useful to create a list (separate from the CSV file) of templates/formats that are to be migrated, mentioning type of field and name of field in Uwazi.
 
 To import a CSV file, click on the "Private documents" icon and then "Import".
 ![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/import-csv-button.png)
