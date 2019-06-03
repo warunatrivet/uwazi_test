@@ -1,4 +1,4 @@
-## Migration of databases to Uwazi using CVS files
+## Migration of databases to Uwazi using CSV files
 
 ### Preparation for Import
 
