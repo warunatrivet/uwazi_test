@@ -1,7 +1,7 @@
 ## Migration of databases to Uwazi using CVS files
 
 To import a CSV file, click on the "Private documents" icon and then "Import".
-![](wiki/screenshots/import-csv-button.png)
+![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/import-csv-button.png)
 
 ### One should take account of the following:
 
