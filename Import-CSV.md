@@ -1,5 +1,8 @@
 ## Migration of databases to Uwazi using CVS files
 
+To import a CSV file, click on the "Private documents" icon and then "Import".
+![](wiki/screenshots/import-csv-button.png)
+
 ### One should take account of the following:
 
 1. Use CSV (comma separated values) file rather than XLS or XLSX (Excel) files – CSV files are easier to parse
