@@ -5,6 +5,7 @@
     * [Name connections](https://github.com/huridocs/uwazi/wiki/Name-connections)
 * Add documents and entities to your collection
     * [Upload and publish documents](https://github.com/huridocs/uwazi/wiki/Upload-and-publish-documents)
+    * [Import data from CSV files](https://github.com/huridocs/uwazi/wiki/Import-CSV)
     * [Add entities](https://github.com/huridocs/uwazi/wiki/Create-entities)
     * [Video and audio content](https://github.com/huridocs/uwazi/wiki/Working-with-video-and-audio)
 * Organise your collection
