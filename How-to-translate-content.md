@@ -45,6 +45,5 @@ Con:
 - Because the fallback approach shares documents through different languages, users may find a document written in a language different from the interface you are navigating.
 
 # Additional notes
-* But we currently do not support right-to-left rendering for Arabic and other right-to-left languages. 
 * As from version 1.4 (November 2018), you can add languages yourself - see https://github.com/huridocs/uwazi/wiki/Manage-languages
 * When languages are enabled, you will see the language abbreviation in the top right corner of the site.
