@@ -14,7 +14,7 @@ To import a CSV file, click on the "Private documents" icon and then "Import".
 1. The order of the columns is not important, data will be imported in the correct column in Uwazi.
 1. The “title” is required and serves to identify a record. It does not have to be unique.
 1. The “date added” is filled automatically with information during the import into Uwazi.
-1. The names of columns should not contain empty spaces, use the actual property name/key value.
+1. The names of columns should not contain empty spaces, use the actual property name/key value of the template field.
 1. The pipe symbol `|` is to be used as separator in a field with multiple values.
 1. For links to external documents, use the convention `[Name](link)`, for example `[HURIDOCS Micro-thesauri](https://www.huridocs.org/resource/micro-thesauri/)`
 1. It is possible to import different CSV files into the same template.
