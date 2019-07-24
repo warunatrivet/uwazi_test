@@ -33,5 +33,4 @@ Now that you have at least one entity type/template, you can begin to add your e
 You can also upload a PDF to Uwazi to create a new entity based on that document.
 When you are ready to share your entity in the "Public documents" section, select "Publish" on the entity. (Note: if your Uwazi instance is set to "Private", the entities/documents are only shared with other users who have the permission to view this information.)
 
-
-
+![Screencast of adding entities/documents](http://g.recordit.co/bj3LQjxeDa.gif)
