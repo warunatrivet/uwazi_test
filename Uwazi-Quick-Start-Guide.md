@@ -19,9 +19,10 @@ Create users under “Settings > Users”.
 Now you’re ready to start configuring Uwazi to organise your information. 
 The first step is to create entity templates under “Templates”. 
 These templates serve as containers for your information and are based on your data model. 
-For each template, you will add “properties”. 
-<need more info here to explain properties>
+For each template, you will add “properties”. Each property represents a type of metadata that you want to capture and potentially analyse.
+
+![Screencast of creating entity templates](http://g.recordit.co/sWJJ0X1BHp.gif)
 
 ## Create thesauri.
 For "multi select" properties, create thesauri for each list you want the user to choose from.
-Create relationship types.
+
