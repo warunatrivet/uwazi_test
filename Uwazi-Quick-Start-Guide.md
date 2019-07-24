@@ -8,8 +8,12 @@ When you receive your Uwazi URL and log-in credentials, the first thing you will
 ## Decide on privacy.
 If necessary, set your instance to “private” under “Settings > Collection”.
 
+![Screencast of making an instance private](http://g.recordit.co/rzCp8Ufb4G.gif)
+
 ## Create users.
 Create users under “Settings > Users”.
+
+![Screencast of adding users](http://g.recordit.co/Hxmyd1rX47.gif)
 
 ## Create entity types.
 Now you’re ready to start configuring Uwazi to organise your information. 
