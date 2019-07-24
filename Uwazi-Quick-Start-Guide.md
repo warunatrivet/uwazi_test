@@ -3,8 +3,7 @@ You have your Uwazi platform deployed, but not sure where to start? Here are som
 ## Change your password and add email.
 When you receive your Uwazi URL and log-in credentials, the first thing you will want to do is log-in, then go to “Settings > Account” to change your password, and add your email address. 
 
-![Screencast of log-in](https://recordit.co/1zHguH7lMl)
-![Log-in gif](https://recordit.co/1zHguH7lMl)
+![Screencast of log-in](http://g.recordit.co/1zHguH7lMl.gif)
 
 ## Decide on privacy.
 If necessary, set your instance to “private” under “Settings > Collection”.
