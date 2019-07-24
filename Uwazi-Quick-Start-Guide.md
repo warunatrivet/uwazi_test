@@ -26,3 +26,12 @@ For each template, you will add “properties”. Each property represents a typ
 ## Create thesauri.
 For "multi select" properties, create thesauri for each list you want the user to choose from.
 
+![Screencast of creating thesauri](http://g.recordit.co/F45w2BxOtx.gif)
+
+## Add entities to Uwazi.
+Now that you have at least one entity type/template, you can begin to add your entities. An "entity" is simply any unique set of information in the database. When you create a new entity, you will add metadata to it by selecting the appropriate properties. 
+You can also upload a PDF to Uwazi to create a new entity based on that document.
+When you are ready to share your entity in the "Public documents" section, select "Publish" on the entity. (Note: if your Uwazi instance is set to "Private", the entities/documents are only shared with other users who have the permission to view this information.)
+
+
+
