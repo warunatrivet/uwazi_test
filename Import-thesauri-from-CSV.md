@@ -15,14 +15,29 @@ Child,Enfant,Kind
 ```
 When view in spreadsheet, it would look like:
 
+![Sample spreadsheet](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/import-thesaurus-sample-spreadsheet.png?raw=true)
+
 ## Importing data into an existing thesaurus
 
 Go to "Account settings", then "Thesauri", then select the thesaurus you want to add data to. At the bottom, you will see an import button
 
 When you click the button, you'll be prompted to select the csv button to import.
 
+![Import thesaurus form](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/import-thesaurus-form.png?raw=true)
+
 
 ## Importing data into in a new thesaurus
 
 Go to "Account settings", then "Thesauri", the click the "Add thesaurus" button at the bottom of the page. Give the thesaurus a name and click the import button.
 
+## HURIDOCS micro-thesauri
+
+HURIDOCS has developed 48 micro-thesauri for the documentation of human rights violations. They are available in several languages as CSV files, see https://www.huridocs.org/resource/micro-thesauri/.
+
+
+## Notes
+
+- You do not have to include all the languages in your Uwazi instance in the CSV file
+- If your CSV file has columns for languages that are not enabled in your Uwazi instance, they will be ignored
+- Your CSV file should not have rows with duplicate values in the same column, this will cause a validation error
+- The import feature does not support Excel file formats, only CSV files are support. However, you can create a CSV file from your spreadsheet data when saving or downloading the file from your spreadsheet program.
