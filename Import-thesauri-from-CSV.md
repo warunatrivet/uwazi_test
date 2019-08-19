@@ -15,3 +15,14 @@ Child,Enfant,Kind
 ```
 When view in spreadsheet, it would look like:
 
+## Importing data into an existing thesaurus
+
+Go to "Account settings", then "Thesauri", then select the thesaurus you want to add data to. At the bottom, you will see an import button
+
+When you click the button, you'll be prompted to select the csv button to import.
+
+
+## Importing data into in a new thesaurus
+
+Go to "Account settings", then "Thesauri", the click the "Add thesaurus" button at the bottom of the page. Give the thesaurus a name and click the import button.
+
