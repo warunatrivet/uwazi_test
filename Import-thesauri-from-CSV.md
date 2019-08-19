@@ -4,16 +4,17 @@ This feature allows you to import terminology lists in different languages from 
 
 ## Preparing the CSV file
 
-The CSV file should have a separate column for each language you want to import, the language should be used as the name of the column. Each row represents a term and its translations in different languages.
+The CSV file should have a separate column for each language you want to import, the language should be used as the name of the column. Each row contains a term and its translations in different languages.
 
-A sample CSV file would look as follows when viewed as plain text:
+Here's a sample CSV file viewed as plain text:
 ```csv
 English,French,German
 Man,Homme,Mann
 Woman,Femme,Frau
 Child,Enfant,Kind
 ```
-When view in spreadsheet, it would look like:
+
+Here's the same file viewed in a spreadsheet program:
 
 ![Sample spreadsheet](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/import-thesaurus-sample-spreadsheet.png?raw=true)
 
