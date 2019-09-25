@@ -2,8 +2,11 @@
 <img src="http://huridocs.github.io/uwazi-assets/wiki/logo.png" data-canonical-src="http://huridocs.github.io/uwazi-assets/wiki/logo.png" width="300" />
 </p>
 
-[Watch our recorded Uwazi demo >>](https://www.youtube.com/watch?v=eLcFuyoCNzw )
+<h2>Quick Links:</h2>
+* [Uwazi Quick Start Guide >>](https://github.com/huridocs/uwazi/wiki/Uwazi-Quick-Start-Guide) - a collection of gifs to help you get started!
+* [Watch our recorded Uwazi demo >>](https://www.youtube.com/watch?v=eLcFuyoCNzw )
 
+# An introduction to Uwazi
 For most organisations, managing documents means placing them into folders and/or categories so that staff or volunteers can find them later. (Think: Dropbox, Google Drive, etc.)
 
 What if organising documents could make their contents come alive? Uwazi goes beyond tags and filenames to organise documents. Each document tells a story: an email that asks for a favor from a politician, a testimony from a witness of police violence, the ruling of a court on a human rights case. When these stories are connected, the bigger picture of patterns and systems becomes clearer: ongoing corruption, systematic police violence, legal human rights precedence.
