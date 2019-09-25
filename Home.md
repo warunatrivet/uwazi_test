@@ -3,7 +3,7 @@
 </p>
 
 <h2>Quick Links:</h2>
-* [Uwazi Quick Start Guide](https://github.com/huridocs/uwazi/wiki/Uwazi-Quick-Start-Guide) - a collection of gifs to help you get started!
+* [Uwazi Quick Start Guide](https://github.com/huridocs/uwazi/wiki/Uwazi-Quick-Start-Guide)
 * [Watch our recorded Uwazi demo](https://www.youtube.com/watch?v=eLcFuyoCNzw)
 
 # An introduction to Uwazi
