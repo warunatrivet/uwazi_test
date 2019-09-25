@@ -4,7 +4,7 @@
 
 <h2>Quick Links:</h2>
 * [Uwazi Quick Start Guide >>](https://github.com/huridocs/uwazi/wiki/Uwazi-Quick-Start-Guide) - a collection of gifs to help you get started!
-* [Watch our recorded Uwazi demo >>](https://www.youtube.com/watch?v=eLcFuyoCNzw )
+* [Watch our recorded Uwazi demo >>](https://www.youtube.com/watch?v=eLcFuyoCNzw)
 
 # An introduction to Uwazi
 For most organisations, managing documents means placing them into folders and/or categories so that staff or volunteers can find them later. (Think: Dropbox, Google Drive, etc.)
