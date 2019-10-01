@@ -31,6 +31,8 @@ When you click the button, you'll be prompted to select the csv button to import
 
 Go to "Account settings", then "Thesauri", the click the "Add thesaurus" button at the bottom of the page. Give the thesaurus a name and click the import button.
 
+To see the newly imported thesauri, go to "Account settings", then "Translations". Select the thesauri you imported which will then display for all the languages imported. 
+
 ## HURIDOCS micro-thesauri
 
 HURIDOCS has developed 48 micro-thesauri for the documentation of human rights violations. They are available in several languages as CSV files, see https://www.huridocs.org/resource/micro-thesauri/.
