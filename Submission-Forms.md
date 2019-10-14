@@ -22,7 +22,7 @@ Optionally you can add file or attachments field to the form like this:
 
 **For adequate synching of the form to the corresponding public instance, do the following:**
 
-In the public instance settings, under "_collection_":
+In both the public and private instance settings, under "_collection_":
 1. add the private instance link (stopping at .io) to "public form destination";
 2. add the template ID (the number in the URL) to "allowed public templates"
 
