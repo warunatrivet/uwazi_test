@@ -4,7 +4,7 @@ https://yourinstancename.uwazi.io/api
 For example, you can look at the available API calls for https://demo.uwazi.io/api/:
 
 
-![Screenshot of API calls available](wiki/screenshots/Screen Shot 2019-10-16 at 11.47.39 AM.png)
+![Screenshot of API calls available](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/Screen%20Shot%202019-10-16%20at%2011.47.39%20AM.png)
 
 
 This is a work-in-progress so we will continue to add and improve on this. 
