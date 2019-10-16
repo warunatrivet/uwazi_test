@@ -1,4 +1,5 @@
 # English user guide
+* [Uwazi Quick Start Guide](https://github.com/huridocs/uwazi/wiki/Uwazi-Quick-Start-Guide/)
 * Build your information architecture
     * [Create templates](https://github.com/huridocs/uwazi/wiki/Create-templates)
     * [Create thesauri](https://github.com/huridocs/uwazi/wiki/Create-thesauri)
