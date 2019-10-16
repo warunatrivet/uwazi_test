@@ -48,6 +48,7 @@
     * [Backup and restore](https://github.com/huridocs/uwazi/wiki/Backup-and-restore)
 * Data federation
     * [Data synchronization](https://github.com/huridocs/uwazi/wiki/Data-synchronization)
+    * [API FAQs](https://github.com/huridocs/uwazi/wiki/API-FAQs)
 ***
 # Spanish user guide
 * [¿Qué es Uwazi?](https://github.com/huridocs/uwazi/wiki/%C2%BFQu%C3%A9-es-Uwazi%3F)
