@@ -1,6 +1,12 @@
 You can access the API for your Uwazi instance by adding _/api_ to the end of your URL, like this: 
 https://yourinstancename.uwazi.io/api
 
+For example, you can look at the available API calls for https://demo.uwazi.io/api/:
+
+
+
+
+
 This is a work-in-progress so we will continue to add and improve on this. 
 
 ## Frequently asked questions
