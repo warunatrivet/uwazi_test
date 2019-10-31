@@ -21,6 +21,7 @@ To import a CSV file, click on the "Private documents" icon and then "Import".
 1. If the various columns in the CSV file are to be migrated to different templates in Uwazi one should split the CSV file so that the data for each template are in separate CSV files.
 1. After an import has been done, editing of records should take place within Uwazi. A feature to update a set of imported records is under development.
 1. If the source data is in different languages, these languages should be configured beforehand in Uwazi.
+1. The data in different languages should be on their own columns with the column heading/title separated by a double underscore i.e `title__en`, `title__fr`, `title__ar` etc
 1. Attachments can be imported as a ZIP file of PDFs. There should be a CSV file with the title of the record to which the attachment is to be linked and the name of the file.
 1. A feature that is not yet supported is multiple dates within one field.
 
