@@ -3,6 +3,7 @@
 * Build your information architecture
     * [Create templates](https://github.com/huridocs/uwazi/wiki/Create-templates)
     * [Create thesauri](https://github.com/huridocs/uwazi/wiki/Create-thesauri)
+    * [Import thesauri from a CSV file](https://github.com/huridocs/uwazi/wiki/Import-thesauri-from-CSV)
     * [Name connections](https://github.com/huridocs/uwazi/wiki/Name-connections)
 * Add documents and entities to your collection
     * [Upload and publish documents](https://github.com/huridocs/uwazi/wiki/Upload-and-publish-documents)
