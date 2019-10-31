@@ -29,3 +29,8 @@ For big thesauri, grouping values in groups makes information more accessible. I
 Which gets render as a filter:
 
 ![Multi-select filter with nesting](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/thesauri-nested-filter.png)
+
+## Importing thesauri to Uwazi from CSV files
+
+This feature allows you to import terminology lists in different languages from a CSV file into an Uwazi thesaurus. You can import data into an a new or existing thesaurus.
+Check this link https://github.com/huridocs/uwazi/wiki/Import-thesauri-from-CSV for more details and a guide on how to.
