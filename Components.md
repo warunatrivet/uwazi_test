@@ -80,12 +80,24 @@ nestedProperties	[]
 ```
 In this case, the context we are looking for is "58cf1c10f53d6d50ab7494d3" (content).
 
-## Pie chart
+## Pie chart / ListChart
+
+As other similar components, the PieChart and ListChart components require a Dataset component to feed the correct data.
+
+The basic building block structure for a Pie would look something like:
 ```
-<PieChart property="type_of_court" context="59d259f4d841d62ab6858157" />
+<Dataset />
+<PieChart property="country" context="58ada34c299e826748545059" />
+<ListChart property="country" context="58ada34c299e826748545059" excludeZero="true" />
 ```
 
-Will render:
+The Dataset to fetch the data (which can be tailored as explained elsewhere on this page), the PieChart which will render the actual pie, and the ListChart to include the legend.
+
+The `property` value is the aggregation from the Dataset you want to plot, and the `context` is the ID of the template or thesauri where the values will take their names.  So, for example, if you have a "Case" template with a property "country" pointing to the "countries" thesaurus, the property passed should be `country`, and the context should be the ID of the "countries" thesaurus (and not the ID of the "case" template).
+
+This components have been left intentionally as un-styled as possible for you to give it the look your pages require.
+
+The above code will render:
 
 ![Pie chart](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/component-pie-chart.png)
 
