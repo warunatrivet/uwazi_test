@@ -138,6 +138,7 @@ An example of a more complex structure with styles:
 ```
 
 Will render:
+
 ![styledChart](https://user-images.githubusercontent.com/4309019/69747865-26bb0e80-1115-11ea-93e6-ec12c457c1d7.png)
 
 ## Card list
