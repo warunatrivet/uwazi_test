@@ -166,3 +166,13 @@ This component will generate a link to the correct entity viewer based on a give
  </Repeat>
 </ul>
 ```
+
+### EntityLink implementation:
+
+Right now EntityLink is a very basic component, that expects an Entity object in the property key "entity" to generate a Link to that Entity. Because of this reason, when used in the Pages it needs to be wrapped in a Value component that is connected to the context and passes the entity down, like in the example:
+
+```
+<Value propkey="entity"><EntityLink>Some text</EntityLink></Value>
+```
+
+Another option is to adopt the philosophy that new components that we develop for the pages are aware of the context and can grab values directly, but this won't work with already existing components in Uwazi, or be able to use these new components like EntityLink in other parts of Uwazi that are not pages.
