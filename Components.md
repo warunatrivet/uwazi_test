@@ -80,7 +80,7 @@ nestedProperties	[]
 ```
 In this case, the context we are looking for is "58cf1c10f53d6d50ab7494d3" (content).
 
-## Pie chart / ListChart
+## Pie chart / List chart
 
 As other similar components, the PieChart and ListChart components require a Dataset component to feed the correct data.
 
