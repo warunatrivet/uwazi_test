@@ -120,3 +120,49 @@ Clicking on individual or cluster markers in the map will open a side panel with
 ```
 
 Creates an HTML element of the type described in tag ("div" is default and can be omitted) bound to a "click" event that will load and display, on the a side panel, the info of the entity described in the "entity" property.  The element allows further HTML structure inside, so you can tailor the 'button' look however you want.
+
+-------------------------
+
+Alpha stage of new components:
+
+### Query component:
+This component allows you to do API request to fetch data you may need and expose it in a react [context](https://reactjs.org/docs/context.html) for that page, for example:
+
+```
+<Query name="entities" url="search?limit=10&order=desc&sort=creationDate"/>
+```
+
+Will search for the last 10 entities created and will store them in the "entities" dataset to be consumed. You can access this dataset with `Value` or `Repeat` for example.
+
+### Value component:
+This component prints the value in a given path of the context . For example:
+```
+<Query name="entities" url="search?limit=10&order=desc&sort=creationDate"/>
+<Value path="entities.rows.0.title"/>
+```
+This example will request 10 entities and then print the title of the first one.
+
+### Repeat component:
+The purpose of this component is to iterate over data in the context and print his contents for each entry, for example:
+
+```
+<Query name="entities" url="search?limit=10&order=desc&sort=creationDate"/>
+<ul>
+   <Repeat path="entities.rows">
+     <li><Value path="title"/></li>
+   </Repeat>
+</ul>
+```
+
+### EntityLink component:
+This component will generate a link to the correct entity viewer based on a given entity property.
+```
+<Query name="entities" url="search?limit=10&order=desc&sort=creationDate"/>
+<ul>
+ <Repeat path="entities.rows">
+    <li>
+         <EntityLink><Value path="title"/></EntityLink>
+    </li>
+ </Repeat>
+</ul>
+```
