@@ -93,7 +93,7 @@ The basic building block structure for a Pie:
 
 Will render:
 
-![Pie chart](https://user-images.githubusercontent.com/4309019/69747138-c6779d00-1113-11ea-8d28-a9aaf237aa66.png)
+![Pie chart](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/component-pie-chart-basic.png)
 
 The Dataset to fetch the data (which can be tailored as explained elsewhere on this page), the PieChart which will render the actual pie, and the ListChart to include the legend.
 
@@ -139,7 +139,7 @@ An example of a more complex structure with styles:
 
 Will render:
 
-![styledChart](https://user-images.githubusercontent.com/4309019/69747865-26bb0e80-1115-11ea-93e6-ec12c457c1d7.png)
+![Styled Pie chart](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/component-pie-chart-styled.png)
 
 ## Card list
 
