@@ -129,10 +129,10 @@ An example of a more complex structure with styles:
 </style>
 <div class="pie-block">
   <div class="pie">
-    <PieChart property="pa_s" context="58ada34c299e826748545059" colors="#5192CD,#6AB7D6,#83D6DF,#9EE7E1,#B9EFE0,#D4F6E7" />
+    <PieChart property="country" context="58ada34c299e826748545059" colors="#5192CD,#6AB7D6,#83D6DF,#9EE7E1,#B9EFE0,#D4F6E7" />
   </div>
   <div class="list">
-     <ListChart property="pa_s" context="58ada34c299e826748545059" excludeZero="true" colors="#5192CD,#6AB7D6,#83D6DF,#9EE7E1,#B9EFE0,#D4F6E7" />
+     <ListChart property="country" context="58ada34c299e826748545059" excludeZero="true" colors="#5192CD,#6AB7D6,#83D6DF,#9EE7E1,#B9EFE0,#D4F6E7" />
   </div>
 </div>
 ```
