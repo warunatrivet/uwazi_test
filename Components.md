@@ -97,11 +97,48 @@ Will render:
 
 The Dataset to fetch the data (which can be tailored as explained elsewhere on this page), the PieChart which will render the actual pie, and the ListChart to include the legend.
 
-The `property` value is the aggregation from the Dataset you want to plot.  Context is used for pulling out translations for the labels. This value is the id of the thesaurus, if labels are coming from a thesaurus and the id of the entity template, if its coming from using templates as select options.
+The `property` value is the aggregation from the Dataset you want to plot.  `context` is used for pulling out translations for the labels. This value is the id of the thesaurus, if labels are coming from a thesaurus and the id of the entity template, if its coming from using templates as select options.
 
 So, for example, if you have a "Case" template with a property "country" pointing to the "countries" thesaurus, the property passed should be `country`, and the context should be the ID of the "countries" thesaurus (and not the ID of the "case" template).
 
-This components have been left intentionally as un-styled as possible for you to give it the look your pages require.
+These components have been left intentionally as un-styled as possible for you to give them the look your pages require.
+
+An example of a more complex structure with styles:
+
+```
+<Dataset />
+<style>
+.pie-block {
+  display: flex;
+}
+.pie-block > div {
+  width: 50%
+}
+.list .ListChart ul {
+  list-style: none;
+}
+.list-bullet {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  margin-right: 5px;
+  line-height: 30px;
+}
+</style>
+<div class="pie-block">
+  <div class="pie">
+    <PieChart property="pa_s" context="58ada34c299e826748545059" colors="#5192CD,#6AB7D6,#83D6DF,#9EE7E1,#B9EFE0,#D4F6E7" />
+  </div>
+  <div class="list">
+     <ListChart property="pa_s" context="58ada34c299e826748545059" excludeZero="true" colors="#5192CD,#6AB7D6,#83D6DF,#9EE7E1,#B9EFE0,#D4F6E7" />
+  </div>
+</div>
+```
+
+Will render:
+![styledChart](https://user-images.githubusercontent.com/4309019/69747865-26bb0e80-1115-11ea-93e6-ec12c457c1d7.png)
 
 ## Card list
 
