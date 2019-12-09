@@ -9,7 +9,7 @@ To import a CSV file, click on the "Private documents" icon and then "Import".
 
 ### Guidelines and Conventions
 
-1. Use CSV (comma separated values) file rather than XLS or XLSX (Excel) files – CSV files are easier for Uwazi to parse.
+1. Save your file as a CSV (Comma Separated Values). CSV files are easier for Uwazi to parse.
 1. Migration works with matching names – therefore, one should create a structure in Uwazi with the same field names as the column headers in the CSV file. For field names one can use either lower case or capitals. It is always possible to rename fields in Uwazi after import.
 1. The order of the columns is not important, data will be imported in the correct column in Uwazi.
 1. The “title” is required and serves to identify a record. It does not have to be unique.
