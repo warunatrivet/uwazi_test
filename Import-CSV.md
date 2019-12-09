@@ -24,7 +24,7 @@ To import a CSV file, click on the "Private documents" icon and then "Import".
 1. The data in different languages should be on their own columns with the column heading/title separated by a double underscore i.e `title__en`, `title__fr`, `title__ar` i.e 
 ![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/csv-import.png)
 1. Attachments can be imported as a ZIP file of PDFs. There should be a CSV file with the title of the record to which the attachment is to be linked and the name of the file.
-1. A feature that is not yet supported is multiple dates within one field.
+1. Multiple dates within one field is not yet supported.
 
 ### Related issues:
 
