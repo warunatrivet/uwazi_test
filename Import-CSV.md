@@ -14,7 +14,7 @@ To import a CSV file, click on the "Private documents" icon and then "Import".
 1. The order of the columns is not important, data will be imported in the correct column in Uwazi.
 1. The “title” is required and serves to identify a record. It does not have to be unique.
 1. The “date added” is filled automatically with information during the import into Uwazi.
-1. The names of columns should not contain empty spaces, use the actual property name/key value of the template field.
+1. The names of columns should not contain empty spaces, use the actual property name/key value of the template field. You can find these values via the api: https://your_uwazi_url/api/templates.
 1. The pipe symbol `|` is to be used as separator in a field with multiple values.
 1. To import geolocation data, the coordinates data should be included in one column with the latitude coordinates first and the longitude coordinates next with no spaces, separated by the pipe symbol. In the CSV file, this column should be named 'geolocation'.
 1. For links to external documents, use the convention `[Name](link)`, for example `[HURIDOCS Micro-thesauri](https://www.huridocs.org/resource/micro-thesauri/)`. These links are to be migrated to a Rich Text field in Uwazi.
