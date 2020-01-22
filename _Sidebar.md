@@ -23,6 +23,7 @@
     * [Filter](https://github.com/huridocs/uwazi/wiki/Filter)
 * Manage settings and configurations
     * [Edit your account information](https://github.com/huridocs/uwazi/wiki/Edit-your-account-information)
+    * [Enable two-factor authentication](https://github.com/huridocs/uwazi/wiki/Enable-two-factor-authentication)
     * [Manage users](https://github.com/huridocs/uwazi/wiki/Manage-users)
     * [Edit your site information](https://github.com/huridocs/uwazi/wiki/Edit-your-site-information)
     * [Create pages](https://github.com/huridocs/uwazi/wiki/Create-pages)
