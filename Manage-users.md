@@ -29,7 +29,7 @@ Any  **visitor** to an Uwazi instance is able to:
 * View all the documents, entities, properties, connections, etc in Uwazi (but cannot edit, create, or delete anything)
 * User the search and filter functionalities
 
-A user with the role of **editor **is able to:
+A user with the role of **editor** is able to:
 
 * Do all the things that a visitor can do
 * Upload documents and create entities
