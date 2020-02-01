@@ -1,9 +1,10 @@
-# Add New Users
+## Add New Users
 
 If you work in collaboration with other people, Uwazi allows you to create users with specific permissions to help you update your collection of documents.
 
 As you can notice, you do not need to create visitors. This is the basic role when anyone visits your collection!
 However, if you want to allow some people to perform specific actions into your collection, you can create Users that will allow them login the same way you login into your admin account.
+
 To create a new user, you need to go to Settings and click on the Users section. It will appear a list with all current users inside your collection. You will be able to create new ones, edit or delete them if necessary.
 
 A user has three fields to be completed:
