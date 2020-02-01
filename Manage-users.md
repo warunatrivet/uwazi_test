@@ -16,7 +16,8 @@ A user has three fields to be completed:
 
 
 We will send an email to that person with a link to set the user's password.
-Note: If you are hosting your own Uwazi or if you are accessing the instance as localhost, e.g. http://localhost:3000/settings to send the invitation, the email will be sent to the address of the instance URL.
+
+__Note__: If you are hosting your own Uwazi or if you are accessing the instance as localhost, e.g. http://localhost:3000/settings to send the invitation, the email will be sent to the address of the instance URL.
 
 If you have a proper domain, create the account from that url, e.g. http://yourdomain.com/settings. This will send a 'yourdomain.com' URL.
 If you are using a local IP, then use something like http://192.168.xx.yy/settings, for it to send with that address.
