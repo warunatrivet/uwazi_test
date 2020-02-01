@@ -25,11 +25,11 @@ If you are using a local IP, then use something like http://192.168.xx.yy/settin
 
 ## Manage user permissions
 
-Any ### visitor to an Uwazi instance is able to:
+Any ### visitor### to an Uwazi instance is able to:
 * View all the documents, entities, properties, connections, etc in Uwazi (but cannot edit, create, or delete anything)
 * User the search and filter functionalities
 
-A user with the role of ### editor is able to:
+A user with the role of ### editor### is able to:
 
 * Do all the things that a visitor can do
 * Upload documents and create entities
@@ -37,7 +37,7 @@ A user with the role of ### editor is able to:
 * Organize the collection, including: apply properties, create connections and references, create a table of contents
 * Add/edit translations
 
-A user with the role of ### administrator is able to:
+A user with the role of ### administrator ###is able to:
 
 * Do all the things that an editor can do
 * Manage settings
