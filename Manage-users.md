@@ -1,4 +1,4 @@
-Add New Users
+# Add New Users
 
 If you work in collaboration with other people, Uwazi allows you to create users with specific permissions to help you update your collection of documents.
 
