@@ -1,12 +1,11 @@
-In your settings, you can edit your site information such as: the name of your site and the homepage.
+## Edit your site information
+1. Change the name of your collection
+2. Click on Settings
+3. Click on Collection
+4. Change the name of your collection
+5. Save
 
-1. Click on the gear icon in the top right corner of the site
-
-![Gear icon](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/settings_link.jpg)
-
-2. Click on _Collection_
-
-![Site info](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/collection.jpg)
+![](https://github.com/huridocs/uwazi/blob/802decbd51a1b8726ee61801cd5d224e336b525d/Collection%20Name%20Screenshot.png)
 
 # Name
 This is easy: your collection name :)
