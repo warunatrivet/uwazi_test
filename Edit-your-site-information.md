@@ -1,9 +1,10 @@
 ## Edit your site information
-1. Change the name of your collection
-2. Click on Settings
-3. Click on Collection
-4. Change the name of your collection
-5. Save
+
+Change the name of your collection
+1.  Click on **Settings**
+2. Click on **Collection**
+3. Change the name of your collection
+4. **Save**
 
 ![](https://github.com/huridocs/uwazi/blob/802decbd51a1b8726ee61801cd5d224e336b525d/Collection%20Name%20Screenshot.png)
 
