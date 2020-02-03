@@ -8,8 +8,15 @@ Change the name of your collection
 
 ![](https://github.com/huridocs/uwazi/blob/802decbd51a1b8726ee61801cd5d224e336b525d/Collection%20Name%20Screenshot.png)
 
-# Name
-This is easy: your collection name :)
+## Make your collection private
+
+If you are handling sensitive information or you just want your collection to be accessible only via login, you can configure Uwazi to do so. 
+
+1. Click on **Settings**
+2. Click on **Collection**
+3. Click the checkbox to make the instance private
+
+![](https://github.com/huridocs/uwazi/blob/quincywiele-patch-2/Private%20Instance.png)
 
 # Landing page
 The landing page is the first thing users will see when visiting your Uwazi instance. By default, your landing page is the Library, without any filter applied and a list with all documents and entities.
