@@ -8,7 +8,7 @@ A search box is useful for visitors of your page to quickly find documents in yo
 
 
 Here is an example of this code used to identify corruption cases: 
-This code snippet added to any page or rich text field, will render a search box that will run queries on your collections of documents:
+
 
 <SearchBox placeholder="Search corruption cases..." />
 
