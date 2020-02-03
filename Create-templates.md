@@ -23,7 +23,7 @@ Templates are the foundation of your Uwazi platform as they allow you to attribu
 
 5. Add new properties by dragging and dropping them into the designated area.
 6. Give the template a name.
-7. Click Save.
+7. Click **Save**.
 
 
 Note: 
