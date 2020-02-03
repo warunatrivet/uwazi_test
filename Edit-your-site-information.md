@@ -18,18 +18,21 @@ If you are handling sensitive information or you just want your collection to be
 
 ![](https://github.com/huridocs/uwazi/blob/quincywiele-patch-2/Private%20Instance.png)
 
-# Landing page
+By activating this option, your information will not be crawled by search engines, and users will be prompted with a login screen when trying to access your documents or entities.
+
+## Set your landing page
+
 The landing page is the first thing users will see when visiting your Uwazi instance. By default, your landing page is the Library, without any filter applied and a list with all documents and entities.
 
-However you can use any page from your Uwazi instance as a landing page, just copying and pasting the URL on the text box below custom page.
-
+However, you can use any page from your Uwazi instance as a landing page by copying and pasting the URL on the text box below the custom page.
 These are some examples:
 
-- A [static page](https://github.com/huridocs/uwazi/wiki/Create-pages): `/page/dicxg0oagy3xgr7ixef80k9`
-- A [library query](https://github.com/huridocs/uwazi/wiki/Filter): `/library/?searchTerm=test`
-- A document or entity: `/document/4y9i99fadjp833di` `/entity/9htbkgpkyy7j5rk9`
+* A static page: /page/dicxg0oagy3xgr7ixef80k9
+* A library query: /library/?searchTerm=test
+* A document or entity: /document/4y9i99fadjp833di /entity/9htbkgpkyy7j5rk9
 
-Always use URLs relative to your site, starting with / and skipping the `https://yoursite.com`.
+Always use URLs relative to your site, starting with / and skipping the https://yoursite.com.
+
 
 # Advanced settings
 
