@@ -11,12 +11,20 @@ Templates are the foundation of your Uwazi platform as they allow you to attribu
 * Relationship - allow you to use items from another template as thesaurus items
 
 ## To create a template:
-1. Click on Settings
-2. Click on Templates in the Metadata section
-3. Click Add templates
+1. Click on **Settings**
+2. Click on **Templates** in the Metadata section
+3. Click **Add** templates
 
+![](https://github.com/huridocs/uwazi/blob/quincywiele-patch-2/Create%20Templates.png)
 
-![New template](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/new_document_entity.jpg)
+4. There will be two default properties: Title and Date Added. 
+
+![](https://github.com/huridocs/uwazi/blob/quincywiele-patch-2/templates.png)
+
+5. Add new properties by dragging and dropping them into the designated area.
+6. Give the template a name.
+7. Click Save.
+
 
 Note: 
 
