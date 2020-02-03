@@ -35,9 +35,12 @@ Always use URLs relative to your site, starting with / and skipping the https://
 
 ## Track web analytics
 
-Uwazi supports both Google Analytics and Matomo so that you can track your collection visits. (If you are hosting your Uwazi with HURIDOCS, we provide Matomo as part of the hosting. Please contact us in order to activate your account.)
+Uwazi supports both Google Analytics and Matomo so that you can track your collection visits. 
+
+(If you are hosting your Uwazi with HURIDOCS, we provide Matomo as part of the hosting. Please contact us in order to activate your account.)
 
 Find your unique ID (for example, if you want to use Google Analytics ID to track website visits).
+
 Add your to Uwazi under Settings, then click Collection.
 
 ![](https://github.com/huridocs/uwazi/blob/quincywiele-patch-2/Google%20Analytics%20ID.png)
