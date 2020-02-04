@@ -1,6 +1,6 @@
 If you would like to have a page to explain what your collection is or if you would like to share your contact information;
-1. Click on **settings**
-2. Click on  **pages**
+1. Click on **Settings**
+2. Click on  **Pages**
 
 ![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/createnewpages.png)
 
