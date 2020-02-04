@@ -29,8 +29,6 @@
     * [Create a submission form](https://github.com/huridocs/uwazi/wiki/Submission-Forms)
     * [Configure navigation menu links](https://github.com/huridocs/uwazi/wiki/Configure-navigation-menu-links)
     * [Configure filters](https://github.com/huridocs/uwazi/wiki/Configure-filters)
-    * [Make your collection private](https://github.com/huridocs/uwazi/wiki/Make-your-collection-private)
-    * [Web analytics](https://github.com/huridocs/uwazi/wiki/Web-Analytics)
 * Translate your collection
     * [Manage languages](https://github.com/huridocs/uwazi/wiki/Manage-languages)
     * [How to translate content](https://github.com/huridocs/uwazi/wiki/How-to-translate-content)
@@ -38,7 +36,6 @@
     * [Translate document metadata and filters](https://github.com/huridocs/uwazi/wiki/Translate-document-metadata-and-filters)
     * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
 * Design and data visualisation
-    * [Customize the interface](https://github.com/huridocs/uwazi/wiki/Customize-the-interface)
     * [Data Visualization Components](https://github.com/huridocs/uwazi/wiki/components)
     * [Work with GeoLocation](https://github.com/huridocs/uwazi/wiki/geolocation)
 * Uwazi basics
