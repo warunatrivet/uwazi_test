@@ -19,6 +19,6 @@ All this content can be translated easily. To do so:
 * The first one is the base phrase. This can't be translated to help you remember which the context was in case you decide to modify all the languages. 
 * The second and subsequent phrases are related to the different language you have activated in your site.
 
-![](https://github.com/quincywiele/HURIDOCS-User-Manuals/upload)
+![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/image14.png)
 
 Note: The base phrase and the English phrase are usually the same, but you can freely modify the English one in case you found another phrase that suits better with your way of communication.
