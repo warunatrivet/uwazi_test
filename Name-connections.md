@@ -2,7 +2,7 @@ Connections in Uwazi link two pieces of information in your collection. It could
 
 To name your connections; 
 1. Click **Settings**
-2. Click on **Relationship Types **
+2. Click on **Relationship Types**
 
 Add the type of connections. Once you have named them, you can begin to create connections.
 
