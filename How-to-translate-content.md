@@ -3,8 +3,8 @@ As an open source tool, we aim to maximize collaboration and personalization of 
 1. Uwazi Interface: The Uwazi interface contains all translations for every component you see in the application like buttons, alerts, messages, etc. 
 
 To see what languages are available to your collection;
-* Click “Settings”
-*  Click “Languages”
+* Click **Settings**
+*  Click **Languages**
 
 ![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/languages.png)
 
