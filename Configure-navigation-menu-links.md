@@ -1,6 +1,6 @@
-In your **settings**, you can configure navigation menu links to display at the top of your site. These menu links can direct the user to either: the results of a specific filter, or a static page. 
+In your **Settings**, you can configure navigation menu links to display at the top of your site. These menu links can direct the user to either: the results of a specific filter, or a static page. 
 
-1. Click on **settings**
+1. Click on **Settings**
 2. Click on **Menu**
 
 ![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/menu.png)
