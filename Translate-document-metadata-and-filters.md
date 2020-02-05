@@ -9,8 +9,8 @@ You can create various content through the settings of the platform. They includ
 * thesaurus that will help you organize and filter them.
  
 All this content can be translated easily. To do so:
-1. Click on **settings**
-2. Click on **translations** and click on the set of properties, dictionaries or content that you want to translate
+1. Click on **Settings**
+2. Click on **Translations** and click on the set of properties, dictionaries or content that you want to translate
 
 ![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/image76.png)
 
