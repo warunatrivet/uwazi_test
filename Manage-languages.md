@@ -1,7 +1,7 @@
 Administrators are able to configure the available languages in your collection by;
 
-1. Click **settings**
-2. Click on **languages**
+1. Click **Settings**
+2. Click on **Languages**
 
 ![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/languages.png)
 
