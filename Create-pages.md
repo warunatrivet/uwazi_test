@@ -1,6 +1,6 @@
-In your **settings**, you can create static pages to your Uwazi document collection. You want to add a page that explains what the collection is, or shares your contact information. 
+In your **Settings**, you can create static pages to your Uwazi document collection. You want to add a page that explains what the collection is, or shares your contact information. 
 
-1. Click on **settings**
+1. Click on **Settings**
 ![Gear icon](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/settings_link.jpg)
 
 2. Click on **Pages**
