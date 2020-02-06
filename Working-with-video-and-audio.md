@@ -27,14 +27,16 @@ You will notice several visualizations options are supported by Uwazi. They are:
 
 ### Uploading you own media files
 You can upload and display your own files directly into Uwazi. To do so,
-1. Add your file as an attachment to an entity,
+1. Add your file as an **attachment** to an entity,
 2. Copy the URL provided by Uwazi after the upload is completed
 3. Use the copied URL in the media or markdown field. 
 
 ## Embedding media into rich text fields
 
 To embed a media file into your Uwazi, add a rich field to a document or entity and use the following: {media} followed by the hyperlink of the video
+
 Example: 
+
 `{media} (https://player.vimeo.com/video/67430069)`
 
 Video embeddings are displayable and fully functional in library cards, side panel and full width view:
