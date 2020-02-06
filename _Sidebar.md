@@ -36,6 +36,7 @@
     * [Translate metadata and filters](https://github.com/huridocs/uwazi/wiki/Translate-document-metadata-and-filters)
     * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
 * Design and data visualisation
+    * [Create a Search Bar](https://github.com/huridocs/uwazi/wiki/Create-a-Search-Bar)
     * [Data Visualization Components](https://github.com/huridocs/uwazi/wiki/components)
     * [Work with GeoLocation](https://github.com/huridocs/uwazi/wiki/geolocation)
 * Uwazi basics
