@@ -2,15 +2,6 @@ Uwazi supports connecting data in unstructured ways, meaning you don't need to f
 
 ![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationships-overview.png)
 
-## Information hubs
-
-Uwazi relationships support information hubs, that is, a concentrator that holds together a series of documents or entities. Hubs are useful for telling apart mixed information. Ie. a person may be related to two different legal cases but you want that information segregated:
-
-![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/relationships-hubs-example.png)
-
-A hub denotes relationships that, not only make sense to have grouped, but that would INFER A RELATIONSHIP BETWEEN ALL ITS CHILDREN.
-
-So, if document A has a hub with documents B and C, then a relationship would be inferred between B and C also. Not only inferred but it actually exists. On the other hand, if you have document A with one hub to B and another hub to C, then B and C will have NO relationship between each other.
 
 ## Creating connections
 
