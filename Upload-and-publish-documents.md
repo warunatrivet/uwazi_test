@@ -11,13 +11,11 @@ You can convert any Uwazi entity into a PDF by uploading a “main file”.
 
 Once the PDFs are ready, you have to upload them. To do this;
 1. Click on the upload icon, besides ‘setting’
-
 ![upload](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/uploads_link.jpg)
 
 2. You can either drag or drop your PDF files into the designated box or you can browse your local files and select which ones you want to upload 
 
-
-![upload options](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/uploads.jpg)
+![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/upload1.jpg)
 
 Your files will be added to the upload section of Uwazi, but they will not be published until you assign a template and click** publish** (see below).
 
