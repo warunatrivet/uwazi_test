@@ -30,7 +30,7 @@
     * [Configure filters](https://github.com/huridocs/uwazi/wiki/Configure-filters)
 * Translate your collection
     * [Manage languages](https://github.com/huridocs/uwazi/wiki/Manage-languages)
-    * [How to translate content](https://github.com/huridocs/uwazi/wiki/How-to-translate-content)
+    * [Translate content](https://github.com/huridocs/uwazi/wiki/How-to-translate-content)
     * [Upload translated documents](https://github.com/huridocs/uwazi/wiki/Upload-translated-documents)
     * [Translate metadata and filters](https://github.com/huridocs/uwazi/wiki/Translate-document-metadata-and-filters)
     * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
