@@ -4,7 +4,7 @@ Properties provide an important way for users to:
 
 Applying properties to your documents or entities involves clicking _Edit_ and filling in the property fields with the relevant information. 
 
-![Apply properties gif](http://g.recordit.co/Jx0Sh9FvDQ.gif)
+![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/addprops.png)
 
 On this user guide page, we've included additional instructions on how to:
 
@@ -17,25 +17,29 @@ On this user guide page, we've included additional instructions on how to:
 
 ## Add date property information
 1. Add a property of type _date_ to your template. 
-2. In your document or entity, click on _edit_.
+2. In your document or entity, click on **edit**.
 3. In the _date_ property, select a date by using the calendar or enter a date using the format: Mar 02, 2012
 
-![Enter date](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/edit-date.jpg)
+![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/date%20props.jpg)
 
 ## Embed a YouTube video
 1. Add a _Rich text_ property to your template. You may want to title this property _video_. 
-2. In your document or entity, click on _edit_. 
-3. Get the YouTube URL by clicking on _share_ below the YouTube video and copy the URL.
+
+![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/youtubevideo1.png)
+
+2. In your document or entity, click on **edit**. 
+3. Get the YouTube URL by clicking on **share** below the YouTube video and copy the URL.
 4. In the _video_ property, paste the URL of the video using this format: `{youtube}(URLtoVideo)`. Example: `{youtube}(https://youtu.be/t9c9AWIo1lA)`
 
-![](http://g.recordit.co/GO205KPeUE.gif)
+![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/youtubevideo3.png)
+
 
 ## Add/edit properties on multiple documents or entities at once
 1. In the library, select the documents you want to edit by using your operating system's multi-select commands (on Windows or Linux, hold the CTRL key then click the items; on a Mac, hold the Command key then click the items)
-2. Click _edit_
-3. Select the property values that you want to assign to these documents, and click _save_
+2. Click **edit**
+3. Select the property values that you want to assign to these documents, and click **save**
 
-![](http://g.recordit.co/MTOmvXjhv9.gif)
+
 
 ## Add an attachment
 1. [Open and view the document or entity](https://github.com/huridocs/uwazi/wiki/Open-and-view-a-document)
