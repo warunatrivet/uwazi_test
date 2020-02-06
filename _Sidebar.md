@@ -29,6 +29,7 @@
     * [Configure navigation menu links](https://github.com/huridocs/uwazi/wiki/Configure-navigation-menu-links)
     * [Configure filters](https://github.com/huridocs/uwazi/wiki/Configure-filters)
 * Translate your collection
+    * [Uwazi's Translation Methodology](https://github.com/huridocs/uwazi/wiki/Uwazi's-Translation-Methodology)
     * [Manage languages](https://github.com/huridocs/uwazi/wiki/Manage-languages)
     * [Translate content](https://github.com/huridocs/uwazi/wiki/How-to-translate-content)
     * [Upload translated documents](https://github.com/huridocs/uwazi/wiki/Upload-translated-documents)
