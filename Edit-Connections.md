@@ -1,5 +1,5 @@
 You can edit existing connections to a document. To do so;
-1. Click on the document’s _view _ you want to edit existing connections
+1. Click on the document’s _view_ you want to edit existing connections
 2. Click on **Connections**
 
 ![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/connection1.png)
