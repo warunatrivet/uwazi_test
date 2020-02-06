@@ -6,6 +6,7 @@
     * [Import thesauri from a CSV file](https://github.com/huridocs/uwazi/wiki/Import-thesauri-from-CSV)
 * Add documents and entities to your collection
     * [Import Documents](https://github.com/huridocs/uwazi/wiki/Import-Documents)
+    * [Publish Documents](https://github.com/huridocs/uwazi/wiki/Publish-Documents)
     * [Import data from CSV files](https://github.com/huridocs/uwazi/wiki/Import-CSV)
     * [Add entities](https://github.com/huridocs/uwazi/wiki/Create-entities)
     * [Add Video and audio content](https://github.com/huridocs/uwazi/wiki/Add-Video-and-Audio-Content)
