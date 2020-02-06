@@ -2,10 +2,9 @@ Most documents have a defined structure through the pages. With a **Table of con
 
 ## Follow these steps:
 
-Select the text and click on _Add to table of contents_.
+Select the text and click on **Add to table of contents**.
 
-![Toc base](http://huridocs.github.io/uwazi-assets/wiki/screenshots/toc-base.png)
-![Toc add](http://huridocs.github.io/uwazi-assets/wiki/screenshots/toc-add.png)
+https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/tableofcontent1.png
 
 Repeat this process to create the whole Table of contents easily:
 
