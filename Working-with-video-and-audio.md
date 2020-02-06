@@ -26,13 +26,20 @@ You will notice several visualizations options are supported by Uwazi. They are:
 - Style, being either "Fit" will show the entire media inside the container or "Fill" will attempt to fill the container, using it's entire width. In cards, cropping is likely to occur.
 
 ### Uploading you own media files
-
-If you don't want to use an external service (ie. YouTube), you can upload and display the files in Uwazi directly. To do so, add your file as an attachment to an entity, copy the URL provided by Uwazi after the upload its completed and use it in a media or markdown field.
+You can upload and display your own files directly into Uwazi. To do so,
+1. Add your file as an attachment to an entity,
+2. Copy the URL provided by Uwazi after the upload is completed
+3. Use the copied URL in the media or markdown field. 
 
 ## Embedding media into rich text fields
 
-In order to embed a media file, add a rich text field to a document or entity and use the following syntax:
-```
+To embed a media file into your Uwazi, add a rich field to a document or entity and use the following: {media} followed by the hyperlink of the video
+Example: 
+`{media} (https://player.vimeo.com/video/67430069)`
+
+Video embeddings are displayable and fully functional in library cards, side panel and full width view:
+Example
+
 {media}(https://player.vimeo.com/video/67430069)
 ```
 
