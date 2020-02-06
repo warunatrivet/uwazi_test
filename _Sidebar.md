@@ -17,6 +17,7 @@
     * [Connect your data in meaninful ways: relationships](https://github.com/huridocs/uwazi/wiki/Connect-your-data-in-meaninful-ways:-relationships)
     * [Create references](https://github.com/huridocs/uwazi/wiki/Create-references)
     * [Upload files to a document or entity](https://github.com/huridocs/uwazi/wiki/Upload-files-to-a-document-or-entity)
+    * [Search](https://github.com/huridocs/uwazi/wiki/Search)
     * [Filter](https://github.com/huridocs/uwazi/wiki/Filter)
 * Manage settings and configurations
     * [Edit your account information](https://github.com/huridocs/uwazi/wiki/Edit-your-account-information)
