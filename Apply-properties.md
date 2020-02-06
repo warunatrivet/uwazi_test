@@ -42,10 +42,8 @@ On this user guide page, we've included additional instructions on how to:
 
 
 ## Add an attachment
-1. [Open and view the document or entity](https://github.com/huridocs/uwazi/wiki/Open-and-view-a-document)
-2. Click on the graph icon in the bottom right corner to open the sidebar
-3. Click on the _Attachments_ tab at the top of this sidebar
-4. Click _Add_
-5. Select the file from your computer
+1. Open and view the document or entity
+2. In the sidebar, you will see “Attachments”
+3. You can “Add a file” just for that one document or entity or you can :Add to all Languages” to apply to all documents or entities in that language. 
 
-![](http://g.recordit.co/k41u2h3Kdy.gif)
+![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/attachments1.png)
