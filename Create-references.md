@@ -16,8 +16,9 @@ Users will see this referenced text under the _References_ tab in the right side
 1. [Open and view the document or entity](https://github.com/huridocs/uwazi/wiki/Open-and-view-a-document)
 2. Select the text and click on _Connect to document_
 3. Find and select the document or entity to which you want to refer. 
-4. Click _Save_
+4. Click **Save**
+
+![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/reference2.png)
 
 Users will see this referenced text or document/entity under the _References_ tab in the right sidebar. When the reference is selected, the highlighted text will be displayed in the PDF. 
 
-![Reference an entire document or entity](http://g.recordit.co/CkfOkyrTAs.gif)
