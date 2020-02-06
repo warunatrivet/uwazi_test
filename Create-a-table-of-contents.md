@@ -4,7 +4,7 @@ Most documents have a defined structure through the pages. With a **Table of con
 
 Select the text and click on **Add to table of contents**.
 
-https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/tableofcontent1.png
+![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/tableofcontent1.png)
 
 Repeat this process to create the whole Table of contents easily:
 
