@@ -21,7 +21,7 @@ The results of your search will be displayed in chronological order as they appe
 
 **Query string searches**
 You can now search for specific info using wildcards, boolean search and query strings.
-* "*" for wildcard search. Ie: juris* will match words such as jurisdiction, jurisdictional, jurists, jurisprudence, etc.
+*   *for wildcard search. Ie: juris* will match words such as jurisdiction, jurisdictional, jurists, jurisprudence, etc.
 * ? for one character wildcard. Ie: "198?" will match 1980 to 1989 and also 198a, 198b, etc.
 * Exact term match by enclosing your search string with quotes. Ie. "Costa Rica" will toss different results compared to Costa Rica without quotes.
 * ~ for proximity searches. Ie: "the status"~5 will find anything having "the" and "status" within a distance of 5 words, such as "the procedural status", "the specific legal status".
