@@ -43,7 +43,7 @@ On this user guide page, we've included additional instructions on how to:
 
 ## Add an attachment
 1. Open and view the document or entity
-2. In the sidebar, you will see “Attachments”
-3. You can “Add a file” just for that one document or entity or you can :Add to all Languages” to apply to all documents or entities in that language. 
+2. In the sidebar, you will see **Attachments**
+3. You can **Add a file** just for that one document or entity or you can **Add to all Languages** to apply to all documents or entities in that language. 
 
 ![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/attachments1.png)
