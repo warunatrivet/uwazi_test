@@ -16,6 +16,7 @@
     * [Name Connections](https://github.com/huridocs/uwazi/wiki/Name-connections)
     * [Create a table of contents](https://github.com/huridocs/uwazi/wiki/Create-a-table-of-contents)
     * [Connect your data in meaninful ways: relationships](https://github.com/huridocs/uwazi/wiki/Connect-your-data-in-meaninful-ways:-relationships)
+    * [Create Different Relationships](https://github.com/huridocs/uwazi/wiki/Create-Different-Relationships)
     * [Create references](https://github.com/huridocs/uwazi/wiki/Create-references)
     * [Upload files to a document or entity](https://github.com/huridocs/uwazi/wiki/Upload-files-to-a-document-or-entity)
     * [Search](https://github.com/huridocs/uwazi/wiki/Search)
