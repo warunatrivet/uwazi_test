@@ -12,7 +12,7 @@
 * Organise your collection
     * [Open and view a document](https://github.com/huridocs/uwazi/wiki/Open-and-view-a-document)
     * [Apply properties](https://github.com/huridocs/uwazi/wiki/Apply-properties)
-    * [Create connections](https://github.com/huridocs/uwazi/wiki/Create-connections)
+    * [Name Connections](https://github.com/huridocs/uwazi/wiki/Name-connections)
     * [Create a table of contents](https://github.com/huridocs/uwazi/wiki/Create-a-table-of-contents)
     * [Connect your data in meaninful ways: relationships](https://github.com/huridocs/uwazi/wiki/Connect-your-data-in-meaninful-ways:-relationships)
     * [Create references](https://github.com/huridocs/uwazi/wiki/Create-references)
