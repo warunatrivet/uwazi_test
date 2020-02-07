@@ -21,11 +21,15 @@ The results of your search will be displayed in chronological order as they appe
 
 **Query string searches**
 You can now search for specific info using wildcards, boolean search and query strings.
-*   *for wildcard search. Ie: juris* will match words such as jurisdiction, jurisdictional, jurists, jurisprudence, etc.
-* ? for one character wildcard. Ie: "198?" will match 1980 to 1989 and also 198a, 198b, etc.
-* Exact term match by enclosing your search string with quotes. Ie. "Costa Rica" will toss different results compared to Costa Rica without quotes.
-* ~ for proximity searches. Ie: "the status"~5 will find anything having "the" and "status" within a distance of 5 words, such as "the procedural status", "the specific legal status".
-* AND, OR and NOT for boolean searches. Ie. "status AND women NOT Nicaragua" will match anything containing both the words status and women, and necessarily not containing the word Nicaragua.
+*   *for wildcard search: juris* will match words such as jurisdiction, jurisdictional, jurists, jurisprudence, etc.
+
+* ? for one character wildcard : "198?" will match 1980 to 1989 and also 198a, 198b, etc.
+
+* Exact term match by enclosing your search string with quotes. : "Costa Rica" will toss different results compared to Costa Rica without quotes.
+
+* ~ for proximity searches: "the status"~5 will find anything having "the" and "status" within a distance of 5 words, such as "the procedural status", "the specific legal status".
+
+* AND, OR and NOT for boolean searches: "status AND women NOT Nicaragua" will match anything containing both the words status and women, and necessarily not containing the word Nicaragua.
 
 ![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/search5.png)
 
