@@ -1,4 +1,4 @@
-Most documents have a defined structure through the pages. With a **Table of contents**, you will be able to reproduce this structure on the right panel and allow user quickly navigate through the document content. Alternatively, you can create your own structure that would be most useful to your users. 
+Most documents have a defined structure through the pages. With a **Table of contents**, you will be able to reproduce this structure on the right panel and allow user to quickly navigate through the document's contents. Alternatively, you can create your own structure that would be most useful to your users. 
 
 ## Follow these steps:
 
