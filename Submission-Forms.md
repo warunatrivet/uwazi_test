@@ -20,9 +20,6 @@ Optionally you can add a file or attachments field to the form like this:
 
 `<PublicForm template="ID_OF_THE_TEMPLATE" file attachments />`
 
-Optionally you can add file or attachments field to the form like this:
-
-`<PublicForm template="ID_OF_THE_TEMPLATE" file attachments />`
 
 **For adequate synching of the form to the corresponding public instance, do the following:**
 
