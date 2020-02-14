@@ -16,9 +16,10 @@ This form will send an e-mail to the address configured in settings > collection
 The public form allows any Uwazi visitor to submit a form that will create an unpublished entity. You'll need to first define a Template for this form in a private instance, and then you can use the template ID (representing the numbers in the template URL) to add to the following code, which can then be included in any page:
 
 `<PublicForm template="ID_OF_THE_TEMPLATE" />`
+
 Optionally you can add a file or attachments field to the form like this:
 
-`<PublicForm template="ID_OF_THE_TEMPLATE" file attachments />`
+`<PublicForm template="ID_OF_THE_TEMPLATE" _file attachments_ />`
 
 
 **For adequate synching of the form to the corresponding public instance, do the following:**
