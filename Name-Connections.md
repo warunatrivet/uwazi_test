@@ -10,8 +10,7 @@ Add the type of connections. Once you have named them, you can begin to create c
 
 **Connect properties in two different templates**
 
-Uwazi uses a relationship field in templates. This has some clear advantages like
-The allowed targeted entities can be used to ensure only connections to one type of template can be made
+Uwazi uses a relationship field in templates. This means the targeted entities can be used to ensure only connections to one type of template can be made
 * For example: We have a type “country” and we want to add that property to another type- a person. By specifying the select list “Country”, your users will only be able to use country for this field. 
 * A relationship type can be defined as well now. 
 
