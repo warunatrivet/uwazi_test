@@ -41,7 +41,7 @@
     * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
 * Data Visualisation Components
     * [Create a Search Bar](https://github.com/huridocs/uwazi/wiki/Create-a-Search-Bar)
-    * [Data Visualization Components](https://github.com/huridocs/uwazi/wiki/components)
+    * [Data Visualization Components](https://github.com/huridocs/uwazi/wiki/Data-Visualisation-Components)
     * [Work with GeoLocation](https://github.com/huridocs/uwazi/wiki/geolocation)
 * Uwazi basics
     * [Glossary of terms](https://github.com/huridocs/uwazi/wiki/Glossary-of-terms)
