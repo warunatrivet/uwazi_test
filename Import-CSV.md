@@ -15,7 +15,7 @@ To import a CSV file, click on the "Private documents" icon and then "Import".
 1. The “title” is required and serves to identify a record. It does not have to be unique.
 1. The “date added” is filled automatically with information during the import into Uwazi.
 1. The names of columns should not contain empty spaces, use the actual property name/key value of the template field. You can find these values via the api: https://your_uwazi_url/api/templates.
-1. The pipe symbol `|` is to be used as separator in a field with multiple values.
+1. The pipe symbol `|` is to be used as the separator in a field with multiple values.
 1. To import geolocation data, the coordinates data should be included in one column with the latitude coordinates first and the longitude coordinates next with no spaces, separated by the pipe symbol. In the CSV file, this column should be named 'geolocation'.
 1. For links to external documents what you want to migrate to a Rich Text property in Uwazi, use the convention `[Name](link)`, for example `[HURIDOCS Micro-thesauri](https://www.huridocs.org/resource/micro-thesauri/)`. To import hyperlinks the Uwazi link property, follow the "label|url" protocol.
 1. It is possible to import different CSV files into the same template.
@@ -24,7 +24,7 @@ To import a CSV file, click on the "Private documents" icon and then "Import".
 1. If the source data is in different languages, these languages should be configured beforehand in Uwazi.
 1. The data in different languages should be on their own columns with the column heading/title separated by a double underscore i.e `title__en`, `title__fr`, `title__ar` i.e 
 ![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/csv-import.png)
-1. Attachments can be imported as a ZIP file of PDFs. There should be a CSV file with the title of the record to which the attachment is to be linked and the name of the file.
+1. To import the document itself, the main PDF file(s) should be compressed within a single ZIP file. This ZIP file should also include a CSV file which contains the title of the record to which the attachment is to be linked and a column with the name of the main file(s). Please note that our CSV import currently allows only the main document to be uploaded; the import of related attachments is not yet supported.
 1. Multiple dates within one field is not yet supported.
 
 ### Related issues:
