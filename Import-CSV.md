@@ -24,7 +24,7 @@ To import a CSV file, click on the "Private documents" icon and then "Import".
 1. If the source data is in different languages, these languages should be configured beforehand in Uwazi.
 1. The data in different languages should be on their own columns with the column heading/title separated by a double underscore i.e `title__en`, `title__fr`, `title__ar` i.e 
 ![](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/csv-import.png)
-1. To import the document itself, the main PDF file(s) should be compressed within a single ZIP file. This ZIP file should also include a CSV file which contains the title of the record to which the attachment is to be linked and a column with the name of the main file(s). Please note that our CSV import currently allows only the main document to be uploaded; the import of related attachments is not yet supported.
+1. To import the document itself, the main PDF file(s) should be compressed within a single ZIP file. This ZIP file should also include a CSV file which contains the title of the record to which the file is to be linked and a column with the name of the main file(s). Please note that our CSV import currently allows only the main document to be uploaded; the import of related attachments is not yet supported.
 1. Multiple dates within one field is not yet supported.
 
 ### Related issues:
