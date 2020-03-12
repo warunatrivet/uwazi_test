@@ -7,7 +7,7 @@ Other text formats like .doc, .txt, .odt, .jpg can be included in your document 
 You can convert any Uwazi entity into a PDF by uploading a “main file”.
 
 
-![upload](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/uppload-main-file.png)
+![upload](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/upload-main-file.png)
 
 Once the PDFs are ready, you have to upload them. To do this;
 1. Click on the **upload**, besides ‘setting’
@@ -20,3 +20,10 @@ Once the PDFs are ready, you have to upload them. To do this;
 
 Your files will be added to the upload section of Uwazi, but they will not be published until you assign a template and click **publish**
 
+in order to upload other language versions of the document, you can add them using the same upload button
+
+![](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/upload-document-language.gif)
+
+language of a document its autodetected, in some cases it may detect the language wrong, this can be manually changed.
+
+![](https://raw.githubusercontent.com/huridocs/uwazi-assets/master/wiki/screenshots/change-document-language.gif)
