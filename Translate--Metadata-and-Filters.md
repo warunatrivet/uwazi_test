@@ -21,4 +21,6 @@ All this content can be translated easily. To do so:
 
 ![](https://github.com/quincywiele/HURIDOCS-User-Manuals/blob/master/image14.png)
 
-Note: The base phrase and the English phrase are usually the same, but you can freely modify the English one in case you found another phrase that suits better with your way of communication.
+Notes: 
+* The base phrase and the English phrase are usually the same, but you can freely modify the English one in case you found another phrase that suits better with your way of communication.
+* Uwazi does not support the use of non latin characters on template configuration. This includes template titles, and property names. To translate any template titles or property names into non latin characters, you must first create them in Latin characters, and translate those phrases under the "translations" tab. 
