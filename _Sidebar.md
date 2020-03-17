@@ -37,7 +37,7 @@
     * [Manage languages](https://github.com/huridocs/uwazi/wiki/Manage-languages)
     * [Translate content](https://github.com/huridocs/uwazi/wiki/How-to-translate-content)
     * [Upload translated documents](https://github.com/huridocs/uwazi/wiki/Upload-translated-documents)
-    * [Translate metadata and filters](https://github.com/huridocs/uwazi/wiki/Translate-document-metadata-and-filters)
+    * [Translate metadata and filters](https://github.com/huridocs/uwazi/wiki/Translate--Metadata-and-Filters)
     * [Translate the interface](https://github.com/huridocs/uwazi/wiki/Translate-the-interface)
 * Data Visualisation Components
     * [Create a Search Bar](https://github.com/huridocs/uwazi/wiki/Create-a-Search-Bar)
