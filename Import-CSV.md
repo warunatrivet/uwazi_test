@@ -16,8 +16,9 @@ To import a CSV file, click on the "Private documents" icon and then "Import".
 1. The “date added” is filled automatically with information during the import into Uwazi.
 1. The names of columns should not contain empty spaces, use the actual property name/key value of the template field. You can find these values via the api: https://your_uwazi_url/api/templates.
 1. The pipe symbol `|` is to be used as the separator in a field with multiple values.
-1. To import geolocation data, the coordinates data should be included in one column with the latitude coordinates first and the longitude coordinates next with no spaces, separated by the pipe symbol. In the CSV file, this column should be named 'geolocation'.
-1. For links to external documents what you want to migrate to a Rich Text property in Uwazi, use the convention `[Name](link)`, for example `[HURIDOCS Micro-thesauri](https://www.huridocs.org/resource/micro-thesauri/)`. To import hyperlinks the Uwazi link property, follow the "label|url" protocol.
+1. To import **geolocation data**, the coordinates data should be included in one column with the latitude coordinates first and the longitude coordinates next with no spaces, separated by the pipe symbol. In the CSV file, this column should be named 'geolocation'.
+1. To import **relationships**, create a relationship property pointing to the correct templates, with the relationship types you want, etc.  In the CSV, insert the entity title in the value for that metadata field, and it will create both the metadata value and the relationship itself.  Currently, there is no way to create 'standalone' relationships.  
+1. For **links to external files/documents** what you want to migrate to a Rich Text property in Uwazi, use the convention `[Name](link)`, for example `[HURIDOCS Micro-thesauri](https://www.huridocs.org/resource/micro-thesauri/)`. To import hyperlinks the Uwazi link property, follow the "label|url" protocol.
 1. It is possible to import different CSV files into the same template.
 1. If the various columns in the CSV file are to be migrated to different templates in Uwazi one should split the CSV file so that the data for each template are in separate CSV files.
 1. After an import has been done, editing of records should take place within Uwazi. A feature to update a set of imported records is under development.
