@@ -14,6 +14,7 @@
     * [Open and view a document](https://github.com/huridocs/uwazi/wiki/Open-and-view-a-document)
     * [Apply properties](https://github.com/huridocs/uwazi/wiki/Apply-properties)
     * [Name Connections](https://github.com/huridocs/uwazi/wiki/Name-connections)
+    * [Inherit properties from other entities](https://github.com/huridocs/uwazi/wiki/Inherit-properties-from-other-entities)
     * [Create a table of contents](https://github.com/huridocs/uwazi/wiki/Create-a-table-of-contents)
 * Connect your Data in Meaningful Ways
     * [Information Hubs](https://github.com/huridocs/uwazi/wiki/Information-Hubs)
