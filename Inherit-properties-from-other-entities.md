@@ -14,6 +14,6 @@ The next step is to create a relationship property _from_ the entity template th
 
 Now that these two entity types have this relationship established and the inherited property, when you create a relationship between prisoner X and jail Y, the prisoner X entity will inherit the geolocation of jail Y, allowing you to show the location of the prisoner (or prisoners) on a map. 
 
-- image - 
+![Map via inherited properties](https://github.com/huridocs/uwazi-assets/blob/master/wiki/screenshots/inherited-properties-map.png)
 
 This is the equivalent to a foreign key in a relation database that gets resolved to a particular property of the linked record. 
