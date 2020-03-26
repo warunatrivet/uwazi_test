@@ -6,10 +6,14 @@ Instead of duplicating the geolocation property and collecting the same data twi
 
 The first step is to create the property for which you want to be inherited. To use the example above, you will create the geolocation property on the **jail** entity template. This will serve as the one place to capture the geolocation of the jails. 
 
-The next step is to create a relationship that will represent the relationship between the **jail** and the **prisoner**. You may want to call this something like "location" or "jail".  
+The next step is to [create a relationship](https://github.com/huridocs/uwazi/wiki/Create-Different-Relationships) that will represent the relationship between the **jail** and the **prisoner**. You may want to call this something like "location" or "jail". For this example, we'll use the name "jail".  
 
-The next step is to create a relationship _from_ the entity template that you want to inherit a property, _to_ the entity type that has the property you want to inherit. To use the example above, you will edit the **prisoner** entity template to add a relationship property. 
+The next step is to create a relationship property _from_ the entity template that you want to inherit a property, _to_ the entity type that has the property you want to inherit. To use the example above, you will edit the **prisoner** entity template to add a relationship property. The name of this relationship property is whatever you named the relationship in the previous step ("jail"). As you are creating this relationship property, you will be asked to select which entity type you want the relationship to include and you will select "Jail" because that is the entity type that has the geolocation property you want to inherit. Then you will be asked if you want to inherit a property from the "Jail" entity template. Here is where you can select the geolocation property. 
 
+- image - 
 
+Now that these two entity types have this relationship established and the inherited property, when you create a relationship between prisoner X and jail Y, the prisoner X entity will inherit the geolocation of jail Y, allowing you to show the location of the prisoner (or prisoners) on a map. 
 
-Inherit properties. When modeling your data, sometimes a particular metadata piece is ambiguous and can be placed in one or more templates. With this solution, administrators can configure a metadata property as inherited from another entity. This is the equivalent to a foreign key in a relation database that gets resolved to a particular property of the linked record. Ie. Imagine you have products and warehouses and you want to geolocate both the products and the ware houses. A solution is to have a geolocation property in each template but this leads to duplication of information. Since products also come with the property of which warehouse they are stored in, with inherited properties the geolocation can be added only to the warehouse and the product will inherit that property from the warehouse.
+- image - 
+
+This is the equivalent to a foreign key in a relation database that gets resolved to a particular property of the linked record. 
