@@ -41,6 +41,6 @@ HURIDOCS has developed 48 micro-thesauri for the documentation of human rights v
 ## Notes
 
 - You do not have to include all the languages in your Uwazi instance in the CSV file
-- If your CSV file has columns for languages that are not enabled in your Uwazi instance, they will be ignored
+- If your CSV file has columns for languages that are not enabled in your Uwazi instance, they will be ignored.
 - Your CSV file should not have rows with duplicate values in the same column, this will cause a validation error
-- The import feature does not support Excel file formats, only CSV files are support. However, you can create a CSV file from your spreadsheet data when saving or downloading the file from your spreadsheet program.
+- The import feature does not support Excel file formats, only CSV files are supported. However, you can create a CSV file from your spreadsheet data when saving or downloading the file from your spreadsheet program.
