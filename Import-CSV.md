@@ -30,7 +30,7 @@ To import a CSV file, click on the "Private documents" icon and then "Import".
 
 ### Related issues:
 
-* A feature under development is export of structure and export of all data.
+* A feature is under development to export the structure as well as export all the data.
 * Another feature is importing only thesauri as documented on https://github.com/huridocs/uwazi/wiki/Import-thesauri-from-CSV. This will also allow to import terminology lists in different languages. HURIDOCS has developed 48 micro-thesauri for the documentation of human rights violations. They are available in several languages as CSV files, see https://www.huridocs.org/resource/micro-thesauri/.
 * Different fields in Uwazi can be linked to the same thesaurus.
 * For exceptional situations occurring in particular instances we seek to make “work arounds” rather than new features which take more time.
